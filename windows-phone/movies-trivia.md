@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Trivia"
 ---
 [![Movies Trivia for Windows Phone]({{site.url}}/images/movies-tile.png "Movies Trivia for Windows Phone")](http://www.windowsphone.com/s?appid=e46152fa-1cc8-44bd-a095-4e5ad590a055) Movies Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about movies, actors & directors, characters & taglines, awards, and much more.
 

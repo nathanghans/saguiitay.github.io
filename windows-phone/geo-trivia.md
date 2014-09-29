@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Trivia"
 ---
 [![Geo Trivia for Windows Phone]({{site.url}}/images/geo-trivia-tile.png "Geo Trivia for Windows Phone")](http://www.windowsphone.com/s?appid=e697a777-acdf-4db2-b00e-e957bd387839) Geo Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about geography.
 

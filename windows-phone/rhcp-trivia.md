@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Trivia"
 ---
 [![RHCP Trivia for Windows Phone]({{site.url}}/images/rhcp-tile.png "RHCP Trivia for Windows Phone")](http://www.windowsphone.com/s?appid=2f14c3c6-7e09-4424-8597-8e6befceecfc) RHCP Trivia is a unique trivia game based on a random questions generator engine,, that can create thousands of questions. Come test your knowledge about RHCP, their albums, songs, and lyrics.
 

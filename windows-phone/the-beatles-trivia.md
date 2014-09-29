@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Trivia"
 ---
 [![The Beatles Trivia for Windows Phone]({{site.url}}/images/the-beatles-tile.png "The Beatles Trivia for Windows Phone")](http://www.windowsphone.com/s?appid=b456ee99-0606-4da5-a722-570810e82c7e) The Beatles Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about The Beatles, their albums, songs, and lyrics.
 

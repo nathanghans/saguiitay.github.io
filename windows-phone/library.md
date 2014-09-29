@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Windows Phone"
 ---
 [![Windows Phone 8 Library]({{site.url}}/images/library-tile.png "Windows Phone 8 Library")](http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496)
 

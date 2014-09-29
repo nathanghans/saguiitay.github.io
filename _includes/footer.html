@@ -2,18 +2,30 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li>Copyright &copy; 2014 {{ site.name }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
+		  {% if site.facebook_username %}
+          <li>
+            <a href="https://facebook.com/{{ site.facebook_username }}">
+              <span class="icon  icon--facebook">
+                <svg viewBox="0 0 16 16">
+				  <path fill="#828282" d="M 16,2.6668445 C 16,1.2656001 14.734933,0 13.333333,0 H 2.6666665 C 1.2650667,0 0,1.2656001 0,2.6668445 V 13.333155 C 0,14.7344 1.2650667,16 2.6668442,16 H 8 V 9.9555555 H 6.0444445 V 7.2888889 H 8 V 6.2499556 c 0,-1.7918223 1.3455999,-3.405511 3,-3.405511 h 2.155556 V 5.511111 H 11 c -0.235911,0 -0.511111,0.2864 -0.511111,0.7153777 v 1.0624002 h 2.666667 V 9.9555555 H 10.488889 V 16 h 2.844444 C 14.734933,16 16,14.7344 16,13.333155 V 2.6668445 z" />
+                </svg>
+              </span>
+
+              <span class="username">{{ site.facebook_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+		  
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -45,9 +57,6 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
     </div>
 
   </div>

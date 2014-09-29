@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Sports Teams"
 ---
 [![Maccabi Tel Aviv for Windows Phone]({{site.url}}/images/maccabi-tel-aviv-tile.png "Maccabi Tel Aviv for Windows Phone")](http://www.windowsphone.com/s?appid=2f14c3c6-7e09-4424-8597-8e6befceecfc) Maccabi Tel Aviv Basketball club information - view information about the players, coaches and management, read the latest news, and view the games schedule.      
 

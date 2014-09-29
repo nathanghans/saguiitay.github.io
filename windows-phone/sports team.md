@@ -6,6 +6,7 @@ author: saguiitay
 comments: true
 categories: []
 tags: []
+parent: "Windows Phone"
 ---
 This family of products gives users information about their favorite sports teams. **Features:**
 
