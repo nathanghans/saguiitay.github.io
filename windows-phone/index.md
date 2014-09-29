@@ -7,24 +7,18 @@ comments: true
 categories: []
 tags: []
 ---
-As part of my work, I've developed several apps and games for Microsoft's [Windows Phone](http://www.windowsphone.com "Windows Phone") platform:
+As part of my work, I've developed several apps and games for Microsoft's [Windows Phone](http://www.windowsphone.com) platform:
 
 Apps
 ----
 
-### 
-
-### [Library](http://itaysagui.wordpress.com/windows-phone/library/ "Library")
-
-### 
+### [Library]({{site.url}}/windows-phone/library)
 
 Library is the most complete application to manage your books collection. Library, gives you your book collection at the palm of your hands – Library allows you to manage your books and authors. Library bring stunning graphics, and easy integration with online services.
 
-### 
+### Books (Discontinued)
 
-### Books (Unpublished)
-
-A small app that allows you to manage your book collection. This apps allows users to input their own information, or retrieve the information of the books from Amazon.
+A small app that allows you to manage your book collection. This apps allows users to input their own information, or retrieve the information of the books from Amazon. This application was replaced by Library above.
 
 ### [Billionaires](http://itaysagui.wordpress.com/windows-phone/billionaires/ "Billionaires")
 
