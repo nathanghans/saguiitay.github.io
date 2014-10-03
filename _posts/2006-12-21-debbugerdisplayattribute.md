@@ -5,7 +5,8 @@ date: 2006-12-21 15:58
 author: saguiitay
 comments: true
 categories: [Development]
-tags: [.Net, development]
+tags: [.Net]
+share: true
 ---
 A little late, I know, but while watching the Channel 9: Scott Nonnenberg - Visualizers in VS 2005 webcast, I've learned the beauty of the DebuggerDisplayAttribute. For those of you not familiar with this attribute, it allow you to choose how the tooltips inside the IDE while debugging will look like, and what values they will show you. Look at the following example:
 

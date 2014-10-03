@@ -1,11 +1,9 @@
----
+﻿---
 layout: page
-title: "Trivia"
+permalink: /windows-phone/trivia-games/
+title: "Trivia Games"
 date: 2013-06-14 17:45
 author: saguiitay
-comments: true
-categories: []
-tags: []
 parent: "Windows Phone"
 ---
 The trivia engine is based on the concept of an objects graph - a network of objects and the relations between them - similar to those used in social websites (such as FaceBook, and other social networks):

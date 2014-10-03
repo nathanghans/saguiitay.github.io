@@ -1,0 +1,15 @@
+﻿name: Billionaires
+release_date: 2013-06-14 13:00
+download_link: http://www.windowsphone.com/s?appid=d39e22be-a4bd-44a6-ba0d-4838b9760e42
+small_tile: /images/billionaires/tile.png
+tile: /images/billionaires/tile.png
+page: /windows-phone/billionaires
+description: Get information about Bloomberg's Top 100 Billionaires. See the most relevant information about the richest people in the world, including their biography, life milestones, net worth, news and much more.
+screenshots:
+- link: /images/billionaires/Screenshot1.png
+- link: /images/billionaires/Screenshot2.png
+- link: /images/billionaires/Screenshot3.png
+features:
+- text: View Bloomberg's Top 100 Billionaires
+- text: View detailed information on each billionaire
+- text: Pin specific billionaires to your home screen for easy access

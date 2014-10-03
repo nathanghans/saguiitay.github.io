@@ -1,0 +1,24 @@
+﻿name: Library
+release_date: 2013-06-14 13:00
+download_link: http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496
+small_tile: /images/library/tile.png
+tile: /images/library/tile.png
+page: /windows-phone/library
+description: Library is the most complete application to manage your books collection. It gives you your book collection at the palm of your hands, with stunning graphics, and easy integration with online services.
+screenshots:
+- link: /images/library/Screenshot1.png
+- link: /images/library/Screenshot2.png
+- link: /images/library/Screenshot3.png
+- link: /images/library/Screenshot4.png
+- link: /images/library/Screenshot5.png
+- link: /images/library/Screenshot6.png
+features:
+- text: Manage collection of books and authors
+- text: Import books and authors
+- text: Import collections from LibraryThing
+- text: Advanced search capabilities
+- text: Bar code scanner
+- text: Easily import multiple books
+- text: 3 sizes of live tile
+- text: View books online ([Amazon](http://www.amazon.com/ "Amazon.com"), [Goodreads](http://www.goodreads.com "Goodreads"), [LibraryThing](http://www.librarything.com "LibraryThing"), [OpenLibrary](http://openlibrary.org/ "Open Library"), [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page "Project Gutenberg"), [Library of Congress](http://www.loc.gov "Library of Congress"))
+- text: Export data to Excel

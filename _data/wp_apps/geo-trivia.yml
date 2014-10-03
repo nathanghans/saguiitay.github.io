@@ -1,0 +1,21 @@
+﻿name: Geo Trivia
+release_date: 2013-06-14 13:00
+download_link: http://www.windowsphone.com/s?appid=e697a777-acdf-4db2-b00e-e957bd387839
+small_tile: /images/geo-trivia/tile.png
+tile: /images/geo-trivia/tile.png
+page: /windows-phone/geo-trivia
+description: Geo Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about geography.
+screenshots:
+- link: /images/geo-trivia/Screenshot1.png
+- link: /images/geo-trivia/Screenshot2.png
+- link: /images/geo-trivia/Screenshot3.png
+- link: /images/geo-trivia/Screenshot4.png
+- link: /images/geo-trivia/Screenshot5.png
+- link: /images/geo-trivia/Screenshot6.png
+features:
+- text: Exceedingly simple and elegant
+- text: Thousands of questions
+- text: Unique [random questions engine]({{ site.url }}/windows-phone/trivia-games/ "Trivia Games")
+- text: Questions based on 221 countries, 1153 cities, 249 images, 11 seas, 140 languages, 83 POIs, 81 currencies, 6 religions and more...
+- text: 29 types of questions
+- text: Beautiful graphic

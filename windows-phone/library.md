@@ -1,39 +1,9 @@
 ---
 layout: page
+permalink: /windows-phone/library
 title: "Library"
 date: 2013-10-25 15:41
 author: saguiitay
-comments: true
-categories: []
-tags: []
-parent: "Windows Phone"
 ---
-[![Windows Phone 8 Library]({{site.url}}/images/library-tile.png "Windows Phone 8 Library")](http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496)
 
-Library is the most complete application to manage your books collection. Library, gives you your book collection at the palm of your hands - Library allows you to manage your books and authors. Library bring stunning graphics, and easy integration with online services.
-
-Features
---------
-
--   manage collection of books and authors
--   import books and authors
--   import collections from LibraryThing
--   advanced search capabilities
--   bar code scanner
--   easily import multiple books
--   3 sizes of live tile
--   view books online ([Amazon](http://www.amazon.com/ "Amazon.com"), [Goodreads](http://www.goodreads.com "Goodreads"), [LibraryThing](http://www.librarything.com "LibraryThing"), [OpenLibrary](http://openlibrary.org/ "Open Library"), [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page "Project Gutenberg"), [Library of Congress](http://www.loc.gov "Library of Congress"))
--   back up data on the cloud
--   export data to Excel
-
-Screenshots
------------
-
-[gallery link="file" ids="566,567,568,569,570,571" orderby="title"]
-
-Download
---------
-
-[![Download Windows Phone 8 Library]({{site.url}}/images/download-en-med2.png "Download Windows Phone 8 Library")](http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496)
-
-
+{% include app-page.html app="Library" %}
