@@ -93,7 +93,7 @@ Our class is quite simple - it's an abstract class that inherits from TemplateBa
 you can easily add a property to a utility class, such as Html, or Url. In our case, we've added a method that loads the content of a file, and output
 it as raw data. Finally, let's look at how our new template look like:
 
-{% highlight razor %}
+{% highlight aspx-cs %}
 @inherits Namespace.MvcTemplateBase<Namespace.ResetViewModel>
 <!DOCTYPE html>
 <html lang="en">
