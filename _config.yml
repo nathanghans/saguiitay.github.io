@@ -1,4 +1,5 @@
 # Site settings
+encoding: UTF-8
 title: Saguiitay
 disqus_shortname: saguitay
 reading_time:     false
