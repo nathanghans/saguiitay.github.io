@@ -1,9 +1,9 @@
 # Site settings
 encoding: UTF-8
 title: Saguiitay
-disqus_shortname: saguitay
+disqus_shortname: saguiitay
 reading_time:     false
-url: "http://saguiitay.github.io" # the base hostname & protocol for your site
+url: "http://www.saguiitay.com" # the base hostname & protocol for your site
 
 # Owner/author information
 owner:
