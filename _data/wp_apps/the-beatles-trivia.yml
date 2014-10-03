@@ -10,10 +10,11 @@ screenshots:
 - link: /images/the-beatles-trivia/Screenshot2.png
 - link: /images/the-beatles-trivia/Screenshot3.png
 - link: /images/the-beatles-trivia/Screenshot4.png
+- link: /images/the-beatles-trivia/Screenshot5.png
 features:
 - text: Exceedingly simple and elegant
 - text: Thousands of questions
-- text: Unique [random questions engine]({{ site.url }}/windows-phone/trivia-games/ "Trivia Games")
+- text: Unique [random questions engine](/windows-phone/trivia-games/ "Trivia Games")
 - text: Questions based on 13 albums, 194 songs, 687 lyrics phrases, 45 quotes, events and more...
 - text: 13 types of questions
 - text: Beautiful graphic
