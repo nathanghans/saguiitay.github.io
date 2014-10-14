@@ -13,7 +13,9 @@ they've done to reduce the memory footprint of their graph. Reducing memory allo
 themselves are not maintained in-memory), which means that queries on the graph are returned extremely fast. The low memory footprint means that you can use this
 solution even in smaller devices with lower memory available (such as low-end smart phones, smart TVs, etc.).
 
-I've always been interested in graphs, especially since I've used them to create my series of Trivia games ([Movies], [Geo], [The Beatles] and [Red Hot Chilli Peppers]).
+I've always been interested in graphs, especially since I've used them to create my series of Trivia games ([Movies]({{site.url}}/windows-phone/movies-trivia),
+[Geo]({{site.url}}/windows-phone/geo-trivia), [The Beatles]({{site.url}}/windows-phone/the-beatles-trivia) and
+[Red Hot Chilli Peppers]({{site.url}}/windows-phone/rhcp-trivia)). I've even written about my usages of the graphs in those games [here](({{site.url}}/windows-phone/).
 
 I've decided I'd try to convert NetFlix's code to .Net, and see if it works, and what will be the results.
 
@@ -60,10 +62,10 @@ NetFlix's approach relies on several "mechanisms" to improve the work with the m
 * Objects are kept anywhere you want, as long as you provide a unique Ordinal Index - the "index" of the object within the collection of objects of the same
 type. If you're using a database, that can be the index of the row.
 * Relations are represented as collections of indexes, and not references to the actual objects - if Movie #3 is related to Actors #17, #235 and #19, this
-is represented as [17, 235, 19]
+is represented as \[17, 235, 19\]
 * Relations are grouped by type ("Actor starred in movie", "Movie is rated X"), and merged in to a single array of indexes. So if the above Movie #3 is rated using
-rating #5 (say "PG13"), all relations are represented as [0, 17, 235, 19, 1, 5] (the "0" and "1" represent the type of the relation).
-* Each group of relations is sorted, and converted to delta-based values. The previous array becomes [0, 17, 2, 216, 1, 5].
+rating #5 (say "PG13"), all relations are represented as \[0, 17, 235, 19, 1, 5\] (the "0" and "1" represent the type of the relation).
+* Each group of relations is sorted, and converted to delta-based values. The previous array becomes \[0, 17, 2, 216, 1, 5\].
 * The previous steps means that we are working with smaller numbers, which means that we can save them in-memory in less bytes, using [Variable-length quantity](http://en.wikipedia.org/wiki/Variable-length_quantity)
 
 In addition, there are a couple of extra tricks up their sleeves:
