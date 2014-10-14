@@ -15,7 +15,7 @@ solution even in smaller devices with lower memory available (such as low-end sm
 
 I've always been interested in graphs, especially since I've used them to create my series of Trivia games ([Movies]({{site.url}}/windows-phone/movies-trivia),
 [Geo]({{site.url}}/windows-phone/geo-trivia), [The Beatles]({{site.url}}/windows-phone/the-beatles-trivia) and
-[Red Hot Chilli Peppers]({{site.url}}/windows-phone/rhcp-trivia)). I've even written about my usages of the graphs in those games [here](({{site.url}}/windows-phone/).
+[Red Hot Chilli Peppers]({{site.url}}/windows-phone/rhcp-trivia)). I've even written about my usages of the graphs in those games [here]({{site.url}}/windows-phone/).
 
 I've decided I'd try to convert NetFlix's code to .Net, and see if it works, and what will be the results.
 
