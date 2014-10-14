@@ -22,7 +22,7 @@ I ended up writing my own library, based on [KVDB](https://github.com/kvdb/)'s r
 * Available as a [NuGet packages](https://www.nuget.org/packages/WebDAVClient/)
 * Fully support async/await
 * Strong-typed, which should allow extension in the future
-* Implemented using HttpClient, which means support for extendibility such as [throttling]({% port_url 2014-05-05-throttling-httpclient-requests %}) and 
+* Implemented using HttpClient, which means support for extendibility such as [throttling]({% post_url 2014-05-05-throttling-httpclient-requests %}) and 
 [monitoring]({% post_url 2014-09-30-byte-rot-performance-counters-for-your-httpclient%})
 
 Here's the sample code taken from the GitHub repository:
