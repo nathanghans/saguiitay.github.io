@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MurmurHash - a FAST hashing algorithm"
-date: 201-10-17 16:58
+date: 2014-10-17 16:58
 author: saguiitay
 comments: true
 categories: [Development]

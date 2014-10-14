@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NetFlix compressed graphs in .Net"
-date: 2006-12-21 15:58
+date: 2014-10-15 15:58
 author: saguiitay
 comments: true
 categories: [Development]

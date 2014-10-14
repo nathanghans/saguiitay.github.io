@@ -4,6 +4,7 @@ title: Saguiitay
 disqus_shortname: saguiitay
 reading_time:     false
 url: "http://www.saguiitay.com" # the base hostname & protocol for your site
+future: false
 
 # Owner/author information
 owner:

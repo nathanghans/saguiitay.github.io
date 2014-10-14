@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HyperLogLog - a near-optimal cardinality estimation algorithm"
-date: 2014-10-15 18:58
+date: 2014-10-16 18:58
 author: saguiitay
 comments: true
 categories: [Development]
