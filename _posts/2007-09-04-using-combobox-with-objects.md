@@ -9,6 +9,8 @@ tags: [.Net, GUI]
 share: true
 redirect_from:
  - /2007/09/04/using-combobox-with-objects/
+ - /2007-09-04-using-combobox-with-objects/
+ - /2007-09-04-using-combobox-with-objects
 ---
 In most of the cases where you need to use a ComboBox, you need it only so the user will be able to choose between a couple of string values. 
 In the majority of the cases, you'll have a list of objects that you'll want the user to choose from, and you'll have to do something similar to this:

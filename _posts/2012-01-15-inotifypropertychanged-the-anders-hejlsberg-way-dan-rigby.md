@@ -9,6 +9,8 @@ tags: [.Net]
 share: true
 redirect_from:
  - /2012/01/15/inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
+ - /2012-01-15-inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
+ - /2012-01-15-inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby
 ---
 Dan Rigby brings in his blog a nice implementation of [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/system.componentmodel.inotifypropertychanged.aspx) -
 taken from Andres Hejlsberg: [INotifyPropertyChanged, the Anders Hejlsberg Way](http://danrigby.com/2012/01/08/inotifypropertychanged-the-anders-hejlsberg-way/)

@@ -9,6 +9,8 @@ tags: [C#, HttpClient, Portable Library]
 share: true
 redirect_from:
  - /2013/08/23/error-while-using-httpclients-automaticdecompression-in-portable-libraries/
+ - /2013-08-23-error-while-using-httpclients-automaticdecompression-in-portable-libraries/
+ - /2013-08-23-error-while-using-httpclients-automaticdecompression-in-portable-libraries
 ---
 Adding automatic decompression support to an [HttpClient](http://msdn.microsoft.com/en-us/library/system.net.http.httpclient.aspx) is quite easy:
 

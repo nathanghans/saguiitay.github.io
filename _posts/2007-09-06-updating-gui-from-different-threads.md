@@ -9,6 +9,8 @@ tags: [.Net, GUI]
 share: true
 redirect_from:
  - /2007/09/06/updating-gui-from-different-threads/
+ - /2007-09-06-updating-gui-from-different-threads/
+ - /2007-09-06-updating-gui-from-different-threads
 ---
 Even the smallest thing, when thought upfront, can help you go a long way. 
 Whenever you create an application that is more that two forms thrown together, 

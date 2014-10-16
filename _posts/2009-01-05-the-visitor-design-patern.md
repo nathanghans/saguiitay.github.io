@@ -9,6 +9,8 @@ tags: [.Net, Design Patterns]
 share: true
 redirect_from:
  - /2009/01/05/the-visitor-design-patern/
+ - /2009-01-05-the-visitor-design-patern/
+ - /2009-01-05-the-visitor-design-patern
 ---
 I've always been a huge advocat for design patterns in the past, but up until recently, I didn't get a chance to actually implement the 
 [Visitor design pattern](http://en.wikipedia.org/wiki/Visitor_pattern).

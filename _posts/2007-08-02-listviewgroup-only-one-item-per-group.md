@@ -9,6 +9,8 @@ tags: [.Net, GUI]
 share: true
 redirect_from:
  - /2007/08/02/listviewgroup-only-one-item-per-group/
+ - /2007-08-02-listviewgroup-only-one-item-per-group/
+ - /2007-08-02-listviewgroup-only-one-item-per-group
 ---
 As I was working on a new GUI part of the software I'm working on, I needed to allow the user to choose only a single item in each category. I overloaded the [ListView](http://msdn2.microsoft.com/en-us/library/system.windows.forms.listview.aspx)control, and override the [OnItemCheck](http://msdn2.microsoft.com/en-us/library/system.windows.forms.listview.onitemcheck.aspx)method. Here's the result:
 

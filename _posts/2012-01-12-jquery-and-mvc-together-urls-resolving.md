@@ -9,6 +9,8 @@ tags: [JavaScript, JQuery, MVC]
 share: true
 redirect_from:
  - /2012/01/12/jquery-and-mvc-together-urls-resolving/
+ - /2012-01-12-jquery-and-mvc-together-urls-resolving/
+ - /2012-01-12-jquery-and-mvc-together-urls-resolving
 ---
 Lately I've found myself working on a website, that is based on MVC3, and is using some [jQuery](http://jquery.com/ "JQuery"). 
 I found a beautiful template in [ThemeForest.net](http://themeforest.net?ref=saguiitay) - no shame in admitting I'm no designer.

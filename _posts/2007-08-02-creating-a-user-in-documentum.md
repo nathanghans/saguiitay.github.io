@@ -9,6 +9,8 @@ tags: [Documentum]
 share: true
 redirect_from:
  - /2007/08/02/creating-a-user-in-documentum/
+ - /2007-08-02-creating-a-user-in-documentum/
+ - /2007-08-02-creating-a-user-in-documentum
 ---
 Here's 2 ways to create a user in Documentum: Using the DQL:
 

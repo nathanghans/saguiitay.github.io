@@ -9,6 +9,8 @@ tags: [.Net, GitHub, NuGet]
 share: true
 redirect_from:
  - /2014/06/06/modeling-github-repositories-and-nuget-packages/
+ - /2014-06-06-modeling-github-repositories-and-nuget-packages/
+ - /2014-06-06-modeling-github-repositories-and-nuget-packages
 ---
 I'm planning to do some research and statistics on [NuGet](http://www.nuget.org) packages usage in [GitHub](http://www.github.com) repositories.
 Here's some sample questions I would like to answer:

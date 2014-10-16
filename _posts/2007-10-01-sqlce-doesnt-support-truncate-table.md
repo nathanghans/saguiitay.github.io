@@ -9,6 +9,8 @@ tags: [.Net, Databases, SqlCE]
 share: true
 redirect_from:
  - /2007/10/01/sqlce-doesnt-support-truncate-table/
+ - /2007-10-01-sqlce-doesnt-support-truncate-table/
+ - /2007-10-01-sqlce-doesnt-support-truncate-table
 ---
 Not long ago, I modified a piece of code to use SqlCE as a data store. The older code was using OleDb 
 to access an MS Access file. As part of the modifications, our team did a general overview of much of 

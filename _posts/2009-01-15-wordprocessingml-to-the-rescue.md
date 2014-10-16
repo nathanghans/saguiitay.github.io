@@ -9,6 +9,8 @@ tags: [.Net, Aspose, OpenXML, WordprocessingML]
 share: true
 redirect_from:
  - /2009/01/15/wordprocessingml-to-the-rescue/
+ - /2009-01-15-wordprocessingml-to-the-rescue/
+ - /2009-01-15-wordprocessingml-to-the-rescue
 ---
 I've recently found myself in need to create documents out of various sources (other documents, information from ECM system, and so on). 
 I've tried several approaches, including:

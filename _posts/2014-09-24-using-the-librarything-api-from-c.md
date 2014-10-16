@@ -9,6 +9,8 @@ tags: [.Net, HttpClient, Library, LibraryThing]
 share: true
 redirect_from:
  - /2014/09/24/using-the-librarything-api-from-c/
+ - /2014-09-24-using-the-librarything-api-from-c/
+ - /2014-09-24-using-the-librarything-api-from-c
 ---
 If you are not familiar with LibraryThing, go ahead and visit their [website](http://www.librarything.com/) - it's probably the most comprehensive books
 collection in the web.

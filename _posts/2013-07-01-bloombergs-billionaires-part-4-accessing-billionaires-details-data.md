@@ -9,6 +9,8 @@ tags: [.Net, Billionaires, Windows Phone]
 share: true
 redirect_from:
  - /2013/07/01/bloombergs-billionaires-part-4-accessing-billionaires-details-data/
+ - /2013-07-01-bloombergs-billionaires-part-4-accessing-billionaires-details-data/
+ - /2013-07-01-bloombergs-billionaires-part-4-accessing-billionaires-details-data
 ---
 In Part 2 we've learned how to retrieve the global information on the Top 100 Billionaires. In Part 3 we've seen how to get the images of the billionaires.
 In this part we're going to learn how to retrieve detailed information on each billionaire. For each billionaire, we should already have an ID,

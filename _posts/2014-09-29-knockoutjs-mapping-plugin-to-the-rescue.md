@@ -9,6 +9,8 @@ tags: [JavaScript, KnockoutJS]
 share: true
 redirect_from:
  - /2014/09/29/knockoutjs-mapping-plugin-to-the-rescue/
+ - /2014-09-29-knockoutjs-mapping-plugin-to-the-rescue/
+ - /2014-09-29-knockoutjs-mapping-plugin-to-the-rescue
 ---
 I've been using [KnockoutJS](http://knockoutjs.com/) for a long time now, but only recently found the magic that is the [Knockout-Mapping plugin](http://knockoutjs.com/documentation/plugins-mapping.html).
 

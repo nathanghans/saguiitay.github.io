@@ -9,6 +9,8 @@ tags: [.Net, Development]
 share: true
 redirect_from:
  - /2014/05/05/throttling-httpclient-requests/
+ - /2014-05-05-throttling-httpclient-requests/
+ - /2014-05-05-throttling-httpclient-requests
 ---
 In my [previous post]({% post_url 2014-05-02-throttling-web-requests %} "Throttling web requests"), I've introduced a TimeSpanSemaphore,
 that functions as a throttling "lock". Let's see how we can use that semaphore to throttle HttpClient requests. The naive solution would be to create

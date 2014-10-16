@@ -9,6 +9,8 @@ tags: [.Net]
 share: true
 redirect_from:
  - /2014/10/16/hyperloglog-a-near-optimal-cardinality-estimation-algorithm/
+ - /2014-10-16-hyperloglog-a-near-optimal-cardinality-estimation-algorithm/
+ - /2014-10-16-hyperloglog-a-near-optimal-cardinality-estimation-algorithm
 ---
 Over the last several months I've been immersing myself further and further into the big data world, and into developing and operating a SaaS. I've been trying to
 expose myself to as much information as possible - both from a business and product management point of view, as well as from a development and operation of such

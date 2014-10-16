@@ -9,6 +9,8 @@ tags: [.Net, GitHub, NuGet]
 share: true
 redirect_from:
  - /2014/06/04/getting-all-nuget-packages-used-by-a-github-repository/
+ - /2014-06-04-getting-all-nuget-packages-used-by-a-github-repository/
+ - /2014-06-04-getting-all-nuget-packages-used-by-a-github-repository
 ---
 In my [previous post]({% post_url 2014-06-03-playing-with-github-api-octokit-net %} "Playing with GitHub API - Octokit.Net"), I've shown how we can
 search for C# repositories in [GitHub](http://www.github.com), how to search for files within a repository, and how to get the content of a file.

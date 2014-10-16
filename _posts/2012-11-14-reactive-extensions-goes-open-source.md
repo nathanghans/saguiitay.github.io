@@ -9,6 +9,8 @@ tags: [.Net, C#, Reactive Extensions]
 share: true
 redirect_from:
  - /2012/11/14/reactive-extensions-goes-open-source/
+ - /2012-11-14-reactive-extensions-goes-open-source/
+ - /2012-11-14-reactive-extensions-goes-open-source
 ---
 With Reactive Extensions going open-source, as mentioned in [Scott Hanselman's "*Reactive Extensions (Rx) is now Open Source*"](http://www.hanselman.com/blog/ReactiveExtensionsRxIsNowOpenSource.aspx)
 post, I took a swing at the library, as it solved one of my requirements perfectly. Having the ability to [buffer](http://www.introtorx.com/Content/v1.0.10621.0/13_TimeShiftedSequences.html#Buffer) 

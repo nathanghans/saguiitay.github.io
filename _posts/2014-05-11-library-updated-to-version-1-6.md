@@ -9,6 +9,8 @@ tags: [Library, Windows Phone]
 share: true
 redirect_from:
  - /2014/05/11/library-updated-to-version-1-6/
+ - /2014-05-11-library-updated-to-version-1-6/
+ - /2014-05-11-library-updated-to-version-1-6
 ---
 After a long pause in the development of Library, I've just release version 1.6 to the app store. The new version contains several improvements, including:
 

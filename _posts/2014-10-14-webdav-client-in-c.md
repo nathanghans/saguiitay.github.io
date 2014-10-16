@@ -9,6 +9,8 @@ tags: [.Net, WebDAV]
 share: true
 redirect_from:
  - /2014/10/14/webdav-client-in-c/
+ - /2014-10-14-webdav-client-in-c/
+ - /2014-10-14-webdav-client-in-c
 ---
 I always prefer using existing libraries implemented by someone else - it means that I don't have to study the subject matter, and not less important, that someone
 else maintains the code for me (test the code, implement new features, follow-up on newer versions of the APIs if any, etc.). 

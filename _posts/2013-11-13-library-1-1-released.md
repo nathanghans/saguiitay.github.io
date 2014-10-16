@@ -9,6 +9,8 @@ tags: [Goodreads, Library, Windows Phone]
 share: true
 redirect_from:
  - /2013/11/13/library-1-1-released/
+ - /2013-11-13-library-1-1-released/
+ - /2013-11-13-library-1-1-released
 ---
 The new version of [Library]({{site.url}}/windows-phone/library/) - my Windows Phone app for managing books collection - is live in the Store.
 You can go ahead and download it from [here](http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496).

@@ -9,6 +9,8 @@ tags: [.Net, GUI]
 share: true
 redirect_from:
  - /2007/09/06/unbound-items-in-a-bound-combobox/
+ - /2007-09-06-unbound-items-in-a-bound-combobox/
+ - /2007-09-06-unbound-items-in-a-bound-combobox
 ---
 
 # Introduction
