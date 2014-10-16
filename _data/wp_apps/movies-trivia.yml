@@ -3,7 +3,7 @@ release_date: 2013-06-14 13:00
 download_link: http://www.windowsphone.com/s?appid=e46152fa-1cc8-44bd-a095-4e5ad590a055
 small_tile: /images/movies-trivia/tile.png
 tile: /images/movies-trivia/tile.png
-page: /windows-phone/movies-trivia
+page: /windows-phone/movies-trivia/
 description: Movies Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about movies, actors & directors, characters & taglines, awards, and much more.
 screenshots:
 - link: /images/movies-trivia/Screenshot1.png

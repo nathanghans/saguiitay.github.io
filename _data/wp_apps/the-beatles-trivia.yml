@@ -3,7 +3,7 @@ release_date: 2013-06-14 13:00
 download_link: http://www.windowsphone.com/s?appid=b456ee99-0606-4da5-a722-570810e82c7e
 small_tile: /images/the-beatles-trivia/tile.png
 tile: /images/the-beatles-trivia/tile.png
-page: /windows-phone/the-beatles-trivia
+page: /windows-phone/the-beatles-trivia/
 description: The Beatles Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about The Beatles, their albums, songs, and lyrics.
 screenshots:
 - link: /images/the-beatles-trivia/Screenshot1.png

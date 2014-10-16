@@ -3,7 +3,7 @@ release_date: 2013-06-14 13:00
 download_link: http://www.windowsphone.com/s?appid=e697a777-acdf-4db2-b00e-e957bd387839
 small_tile: /images/geo-trivia/tile.png
 tile: /images/geo-trivia/tile.png
-page: /windows-phone/geo-trivia
+page: /windows-phone/geo-trivia/
 description: Geo Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about geography.
 screenshots:
 - link: /images/geo-trivia/Screenshot1.png

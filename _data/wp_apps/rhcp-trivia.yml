@@ -3,7 +3,7 @@ release_date: 2013-06-14 13:00
 download_link: http://www.windowsphone.com/s?appid=2f14c3c6-7e09-4424-8597-8e6befceecfc
 small_tile: /images/rhcp-trivia/tile.png
 tile: /images/rhcp-trivia/tile.png
-page: /windows-phone/rhcp-trivia
+page: /windows-phone/rhcp-trivia/
 description: RHCP Trivia is a unique trivia game based on a random questions generator engine,, that can create thousands of questions. Come test your knowledge about RHCP, their albums, songs, and lyrics.
 screenshots:
 - link: /images/rhcp-trivia/Screenshot1.png

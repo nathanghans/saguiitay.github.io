@@ -3,7 +3,7 @@ release_date: 2013-06-14 13:00
 download_link: http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496
 small_tile: /images/library/tile.png
 tile: /images/library/tile.png
-page: /windows-phone/library
+page: /windows-phone/library/
 description: Library is the most complete application to manage your books collection. It gives you your book collection at the palm of your hands, with stunning graphics, and easy integration with online services.
 screenshots:
 - link: /images/library/Screenshot1.png
