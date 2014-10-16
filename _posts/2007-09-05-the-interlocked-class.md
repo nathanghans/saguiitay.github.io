@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+ - /2007/09/05/the-interlocked-class/
 ---
 Working with threads and counters can because a really pain if you do not take care. 
 Fortunetly for us, .Net supplies us with a couple of methods that can make our life a little bit easier. 

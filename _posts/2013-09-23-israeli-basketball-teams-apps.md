@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [Basketball, MAccabi Tel Aviv, Telerik, Windows Phone]
 share: true
+redirect_from:
+ - /2013/09/23/israeli-basketball-teams-apps/
 ---
 I've just released 2 news apps that focus on Israeli Basketball teams - [Maccabi Tel Aviv]({{site.url}}/windows-phone/sports-teams/maccabi-tel-aviv/ "Maccabi Tel Aviv - מכבי תל אביב") and [Hapoel Jerusalem]({{site.url}}/windows-phone/sports-teams/hapoel-jerusalem/ "Hapoel Jerusalem - הפועל ירושלים").
 

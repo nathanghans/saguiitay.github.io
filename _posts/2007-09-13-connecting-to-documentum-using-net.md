@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Documentum]
 share: true
+redirect_from:
+ - /2007/09/13/connecting-to-documentum-using-net/
 ---
 I've spoke in an earlier post about working with Documentum in .Net. In this post, I'll show you how to 
 connect to a DocBase, and get the list of cabinets. The following code will connect to a DocBase. 

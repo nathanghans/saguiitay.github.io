@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Windsor]
 share: true
+redirect_from:
+ - /2011/09/10/windsor-loading-installers-from-the-execution-folder/
 ---
 When using Windsor, it is necessary to load the various IWindowsInstallers into the container. One standard way of doing this is using a code similar to the below:
 

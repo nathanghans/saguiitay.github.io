@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Documentum]
 share: true
+redirect_from:
+ - /2009/01/07/displaying-properties-of-a-documentum-object/
 ---
 When working with Documentum TypedObjects, you almost always need to retrieve their properties. 
 Below is a method to print those properties to the Console. Notice, that this example uses the `getAllRepeatingStrings()` method - 

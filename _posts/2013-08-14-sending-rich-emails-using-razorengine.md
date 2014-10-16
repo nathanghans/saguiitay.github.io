@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [Email, MVC, RazorEngine]
 share: true
+redirect_from:
+ - /2013/08/14/sending-rich-emails-using-razorengine/
 ---
 RazorEngine is a templating engine based on Microsoft's Razor parsing engine. One of its most common uses it to generate HTML for emails.
 This post shows how to use the RazorEngine in a simple and elegant fashion. Let's start with some basic code to create our MailMessage,

@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, NDepend, Review]
 share: true
+redirect_from:
+ - /2014/09/20/ndepend-impressions-and-review/
 ---
 **DISCLAIMER: I haven't been paid for this review and won't be. However, I did receive a free copy of the software.**
 

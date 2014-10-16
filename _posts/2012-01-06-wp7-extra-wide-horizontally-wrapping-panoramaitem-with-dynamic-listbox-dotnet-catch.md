@@ -7,6 +7,8 @@ comments: true
 categories: [Windows Phone]
 tags: [.Net, Windows Phone]
 share: true
+redirect_from:
+ - /2012/01/06/wp7-extra-wide-horizontally-wrapping-panoramaitem-with-dynamic-listbox-dotnet-catch/
 ---
 For those looking at creating PanoramaItems that appear widder than the screen's size, I've found this nice post by 
 [rschiefer](http://dotnetcatch.wordpress.com/): [WP7: Extra Wide, Horizontally Wrapping PanoramaItem with dynamic ListBox << dotnet Catch](http://dotnetcatch.wordpress.com/2011/01/06/wp7-extra-wide-horizontally-wrapping-panoramaitem-with-dynamic-listbox/).

@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Debugger]
 share: true
+redirect_from:
+ - /2013/07/10/attaching-debugger-at-runtime-in-net/
 ---
 Whenever you write code that starts a new Process, your debugging experience is rather lacking - you're stuck outside of the debugger.
 The following extension method will attach the Visual Studio debugger to your process:

@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [Windows Phone]
 share: true
+redirect_from:
+ - /2012/01/04/wp7-sending-yourself-error-reports/
 ---
 One useful way of getting feedback from your WP7 application, is to be notified whenever a user encounter a crash.
 One easy way to achieve this, is to ask your users to send you an "error report" whenever the application crashes.

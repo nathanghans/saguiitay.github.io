@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Telerik, Windows Phone]
 share: true
+redirect_from:
+ - /2013/11/08/text-wrapping-in-teleriks-hubtile/
 ---
 [Telerik's HubTile](http://www.telerik.com/products/windows-phone/overview/all-controls/hubtile.aspx) control is quite useful when trying to create
 native looking apps:

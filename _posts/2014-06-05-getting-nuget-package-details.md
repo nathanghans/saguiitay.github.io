@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, NuGet, GitHub]
 share: true
+redirect_from:
+ - /2014/06/05/getting-nuget-package-details/
 ---
 In my [previous post]({% post_url 2014-06-04-getting-all-nuget-packages-used-by-a-github-repository %}) I've shown how to get the list of
 [NuGet](http://www.nuget.org) packages used by a [GitHub](http://www.github.com) repository. Let's see how we can retrieve some additional information

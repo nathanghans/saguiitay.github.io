@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [Geo Trivia, geography, Trivia, Windows Phone]
 share: true
+redirect_from:
+ - /2013/07/11/geo-trivia-2-0-released/
 ---
 I'm proud to announce that Geo Trivia 2.0 was released, and is available for download in the Marketplace. In addition to the new backend engine,
 the new version includes fixes to multiple bugs and performance issues. However, the most exciting change is the addition of image questions - questions

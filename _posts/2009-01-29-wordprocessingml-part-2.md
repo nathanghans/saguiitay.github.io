@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, OpenXML, WordprocessingML]
 share: true
+redirect_from:
+ - /2009/01/29/wordprocessingml-part-2/
 ---
 In the [first part of this serie]({% post_url 2009-01-21-wordprocessingml-part-1 %}), we've created a simple WordprocessingML document, 
 and added some basic content to it. It is now time to add some formatting, to make that content presentable.

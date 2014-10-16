@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, HttpClient]
 share: true
+redirect_from:
+ - /2014/09/30/byte-rot-performance-counters-for-your-httpclient/
 ---
 I've been an avid user of [HttpClient](http://msdn.microsoft.com/en-us/library/system.net.http.httpclient(v=vs.118).aspx) over the last couple of years.
 You can see me using them in my various Windows Phone applications ([Using the LibraryThing API from C#]({% post_url 2014-09-24-using-the-librarything-api-from-c %}),

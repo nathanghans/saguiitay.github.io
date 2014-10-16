@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [Movies Trivia, Trivia, Windows Phone]
 share: true
+redirect_from:
+ - /2013/07/09/movies-trivia-features-in-wpcentral/
 ---
 Movies Trivia was [featured in WPCentral](http://www.wpcentral.com/movies-trivia-windows-phone-only-thing-missing-popcorn) for the first time!
 I am happy to see that the game is starting to get more traction, and being more visible to Windows Phone gamers. I will share the effects of

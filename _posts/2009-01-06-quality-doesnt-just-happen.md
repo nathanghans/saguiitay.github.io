@@ -7,6 +7,8 @@ comments: true
 categories: [Reading, Development]
 tags: [Management]
 share: true
+redirect_from:
+ - /2009/01/06/quality-doesnt-just-happen/
 ---
 Judy McKay writes a very interesting article, [Quality Doesn't Just Happen](http://www.cio.com/article/112800/Quality_Doesn_rsquo_t_Just_Happen) 
 about project management process, and how to place Quality front-and-center of a project lifecycle.

@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, GUI]
 share: true
+redirect_from:
+ - /2007/09/06/fading-form-while-moving/
 ---
 The different between a nice application and an exellent one, is many time only in the small details. 
 How much did the developers really put into it? How much they thought about every detail? 

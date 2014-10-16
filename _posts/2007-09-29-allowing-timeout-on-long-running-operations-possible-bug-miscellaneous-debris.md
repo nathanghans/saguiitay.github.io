@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+ - /2007/09/29/allowing-timeout-on-long-running-operations-possible-bug-miscellaneous-debris/
 ---
 Avner Kashtan writes in his [blog](http://weblogs.asp.net/avnerk/default.aspx) about an interesting problem, 
 and solution, on how to run a long-running operation, with a timeout. The solution involves, obviously, 

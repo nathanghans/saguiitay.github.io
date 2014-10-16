@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [SharePoint]
 share: true
+redirect_from:
+ - /2007/08/08/moss-documents-libraries-naming-policy/
 ---
 When you create a new Documents Library in MOSS, you are asked to provide a title for that Library. 
 The provided title will be later used to define the internal name of the Library, as well as its URL. 

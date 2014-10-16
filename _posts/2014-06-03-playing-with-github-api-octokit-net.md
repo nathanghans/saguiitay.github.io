@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, GitHub]
 share: true
+redirect_from:
+ - /2014/06/03/playing-with-github-api-octokit-net/
 ---
 For a small project I'm working on, I needed access to [GitHub](http://www.github.com), to investigate some repositories via code. Luckily,
 GitHub have an extremely extensive API. Furthermore, they even provide a .Net library (via a [NuGet package](http://www.nuget.org/packages/Octokit/))

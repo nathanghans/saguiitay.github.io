@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Documentum]
 share: true
+redirect_from:
+ - /2009/01/08/retrieving-documentum-repeating-values/
 ---
 Documentum provides the functionality of "repeating" properties - properties that have more than one value. 
 Retrieving those values is a simple matter of getting the number of values for that property, and then request each one of the values.

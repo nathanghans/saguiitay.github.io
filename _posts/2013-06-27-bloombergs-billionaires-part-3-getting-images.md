@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Billionaires, Windows Phone]
 share: true
+redirect_from:
+ - /2013/06/27/bloombergs-billionaires-part-3-getting-images/
 ---
 In the previous post, we've retrieved the information about the various billionaires. Now, let's take a look at how to get their images.
 A single call to (http://www.bloomberg.com/billionaires/2/face-index-64963b5b944707b7efa7b2f1cf40d6eb.json) will bring us a pseudo-JSON,

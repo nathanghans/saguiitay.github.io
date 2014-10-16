@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, OpenXML, WordprocessingML]
 share: true
+redirect_from:
+ - /2009/01/21/wordprocessingml-part-1/
 ---
 Let's start with a public notice: Most of the OpenXML/WordprocessingML samples I've found work with TextWriters, 
 and just write XML strings into the writer. Me, being the funny guy I am, prefer to work with XmlWriters. 

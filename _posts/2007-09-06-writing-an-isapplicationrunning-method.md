@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+ - /2007/09/06/writing-an-isapplicationrunning-method/
 ---
 
 # Introduction

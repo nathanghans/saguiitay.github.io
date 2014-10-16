@@ -7,6 +7,8 @@ comments: true
 categories: [Development, Windows Phone]
 tags: [MarkedUp, Windows Phone]
 share: true
+redirect_from:
+ - /2013/06/14/markedup-release-beta-support-for-wp8/
 ---
 [MarkedUp](https://markedup.com/), the company that provides analytic tools for Windows 8 (WinRT & WinJS), released their SDK with Windows Phone 8 support.
 

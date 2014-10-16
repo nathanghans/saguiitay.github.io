@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Obfuscation, Windsor]
 share: true
+redirect_from:
+ - /2011/03/02/windsor-factories-and-obfuscation/
 ---
 I love [Windsor](http://stw.castleproject.org/Windsor.MainPage.ashx) - it's simplicity yet versatility amazes me every time I use it.
 

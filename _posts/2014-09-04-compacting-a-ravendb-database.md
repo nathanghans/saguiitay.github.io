@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [RavenDb]
 share: true
+redirect_from:
+ - /2014/09/04/compacting-a-ravendb-database/
 ---
 One of my [RavenDb](http://ravendb.net) databases grew to an unrealistic size - 36GB when it contains around 500,000 documents which are mostly
 small. After some back-and-forth with the RavenDb support team, I was suggested to compact the database. Sounds easy, if you know what you're

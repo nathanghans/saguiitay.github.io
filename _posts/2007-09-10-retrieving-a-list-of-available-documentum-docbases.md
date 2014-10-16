@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Documentum]
 share: true
+redirect_from:
+ - /2007/09/10/retrieving-a-list-of-available-documentum-docbases/
 ---
 While adding support for EMC Documentum to the [Tzunami Deployer, our SharePoint migration tool](http://www.tzunami.net/), 
 I needed to allow the user to enter the name of a DocBase to connect to. I wanted a interface that is a bit more that just 

@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
 share: true
+redirect_from:
+ - /2011/09/15/sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/
 ---
 Before creating a new Site Column, you should make sure that the column doesn't already exist. 
 At the very least, make sure that the ID you are using isn't already taken. 

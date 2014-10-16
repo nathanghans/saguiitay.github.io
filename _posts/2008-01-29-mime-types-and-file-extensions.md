@@ -7,6 +7,8 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+ - /2008/01/29/mime-types-and-file-extensions/
 ---
 Whenever working with content of files, it is often useful to have a way to find the MIME type based on a file extension,
 or the other way around - finding the file extension from a MIME type. Below are 2 useful methods for such requirements:
