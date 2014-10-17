@@ -7,6 +7,10 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+  - /2014/10/17/murmurhash-a-fast-hashing-algorithm/
+  - /2014-10-17-murmurhash-a-fast-hashing-algorithm/
+  - /2014-10-17-murmurhash-a-fast-hashing-algorithm
 ---
 As I did my research on [HyperLogLog]({% post_url 2014-10-16-hyperloglog-a-near-optimal-cardinality-estimation-algorithm %}), I used the built-in MD5 `HashAlgorithm`.
 As I was running my tests on larger and larger datasets, the running time grew too much to my liking.
