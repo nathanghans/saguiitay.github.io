@@ -14,7 +14,7 @@ redirect_from:
 ---
 I've been using [jQuery](http://jquery.com/) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) quite a lot lately.
 I've found myself in need of a more advanced control to display a list of check-boxes, grouped together by subject/area.
-After some [binging](http://bing.com), and I've found this useful piece of code: (http://jsfiddle.net/clayzermk1/QD8Hs/)
+After some [binging](http://bing.com), and I've found this useful piece of code: <http://jsfiddle.net/clayzermk1/QD8Hs/>
 
 I've had to made some modifications to it:
 
@@ -23,4 +23,6 @@ I've had to made some modifications to it:
 - I needed to have the ability to have a the title and the value of the check-box to be different
 - I needed to be able to get only a list of selected check-boxes (instead of the complete list of parent-child check-boxes).
 
-Here's the end result (http://jsfiddle.net/saguiitay/dAqaX/embedded/result/) You can find the complete code here: (http://jsfiddle.net/saguiitay/dAqaX/)
+Here's the end result <http://jsfiddle.net/saguiitay/dAqaX/embedded/result/>
+
+You can find the complete code here: <http://jsfiddle.net/saguiitay/dAqaX/>
