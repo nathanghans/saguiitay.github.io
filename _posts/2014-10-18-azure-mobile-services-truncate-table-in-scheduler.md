@@ -8,7 +8,7 @@ categories: [Development]
 tags: [Azure, Mobile Services]
 share: true
 ---
-I am using Windows Azure Mobile Services to manage the Leaderboard of my [Movies Trivia]({{site.url}}/windows-phone/movies-trivia) and [Geo Trivia]{{site.url}}/windows-phone/geo-trivia.
+I am using Windows Azure Mobile Services to manage the Leaderboard of my [Movies Trivia]({{site.url}}/windows-phone/movies-trivia) and [Geo Trivia]({{site.url}}/windows-phone/geo-trivia).
 Due to the nature of the data, I'm using 3 tables:
 
 1. Users: to maintain the users' Id and Name
