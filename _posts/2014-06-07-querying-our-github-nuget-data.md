@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Querying our GitHub & NuGet data"
+title: "Querying our GitHub &amp; NuGet data"
 date: 2014-06-07 16:27
 author: saguiitay
 comments: true
