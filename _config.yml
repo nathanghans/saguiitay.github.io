@@ -47,6 +47,9 @@ permalink:   /:year/:month/:day/:title/
 paginate: 5
 paginate_path: "page:num"
 
+gems: 
+  - jekyll-redirect-from
+  
 kramdown:
   auto_ids: true
   footnote_nr: 1
