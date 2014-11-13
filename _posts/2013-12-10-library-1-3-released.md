@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/12/10/library-1-3-released/
  - /2013-12-10-library-1-3-released/
- - /2013-12-10-library-1-3-released
+ - /development/library-1-3-released/
 ---
 Version 1.3 of [Library]({{site.url}}/windows-phone/library/) is live in the Store. You can go ahead and download it
 from [here](http://www.windowsphone.com/s?appid=01f350f2-01d1-4210-a83b-9874b71e9496).

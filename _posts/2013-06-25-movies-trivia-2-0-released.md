@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/06/25/movies-trivia-2-0-released/
  - /2013-06-25-movies-trivia-2-0-released/
- - /2013-06-25-movies-trivia-2-0-released
+ - /development/movies-trivia-2-0-released/
 ---
 After spending a long while updating my Trivia engine, and collecting new data for the game, I'm proud to announce that Movies Trivia 2.0 was released,
 and is available for download in the Windows Phone Marketplace. In addition to the new backend engine, the new version includes fixes to multiple

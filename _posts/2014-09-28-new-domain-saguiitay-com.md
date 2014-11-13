@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2014/09/28/new-domain-saguiitay-com/
  - /2014-09-28-new-domain-saguiitay-com/
- - /2014-09-28-new-domain-saguiitay-com
+ - /development/new-domain-saguiitay-com/
 ---
 After running this blog on the free [WordPress.com](http://WordPress.com) for the last couple of years, I've decided that it's time for me to have my own domain,
 and to start looking for another publishing platform.

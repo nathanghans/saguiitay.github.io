@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2008/04/28/sharepoint-2007-web-folders/
  - /2008-04-28-sharepoint-2007-web-folders/
- - /2008-04-28-sharepoint-2007-web-folders
+ - /development/sharepoint-2007-web-folders/
 ---
 I've been working with SharePoint 2007 for so long now on my office desktop and laptop, that it seems 
 that I don't remember some of the SharePoint 2007 requirements. 

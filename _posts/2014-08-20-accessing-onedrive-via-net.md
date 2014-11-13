@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2014/08/20/accessing-onedrive-via-net/
  - /2014-08-20-accessing-onedrive-via-net/
- - /2014-08-20-accessing-onedrive-via-net
+ - /development/accessing-onedrive-via-net/
 ---
 TLDR; I created a new [NuGet package](https://www.nuget.org/packages/OneDriveRestAPI)/[GitHub repository](https://github.com/saguiitay/OneDriveRestAPI) for a
 library to allow you access to OneDrive via .Net.

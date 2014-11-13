@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2014/06/07/querying-our-github-nuget-data/
  - /2014-06-07-querying-our-github-nuget-data/
- - /2014-06-07-querying-our-github-nuget-data
+ - /development/querying-our-github-nuget-data/
 ---
 In my previous posts, I've discussed how to [retrieve the list of top repositories from GitHub]({% post_url 2014-06-03-playing-with-github-api-octokit-net %}),
 get the [list of packages each one uses]({% post_url 2014-06-04-getting-all-nuget-packages-used-by-a-github-repository %}), and [store all that information

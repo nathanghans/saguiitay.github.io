@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/06/17/bloomberg-billionaires/
  - /2013-06-17-bloomberg-billionaires/
- - /2013-06-17-bloomberg-billionaires
+ - /development/bloomberg-billionaires/
 ---
 Bloomberg's website contains a little gem that allows you to view and analyst the [world's top billionaires](http://www.bloomberg.com/billionaires/).
 This site provides information on each of the top 100 billionaires, their history, net worth and analysis, news, etc.

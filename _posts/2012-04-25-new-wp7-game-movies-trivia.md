@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/04/25/new-wp7-game-movies-trivia/
  - /2012-04-25-new-wp7-game-movies-trivia/
- - /2012-04-25-new-wp7-game-movies-trivia
+ - /development/new-wp7-game-movies-trivia/
 ---
 I've released a new [Windows Phone Trivia game](http://www.wp7trivia.com) - Movies Trivia. 
 

@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/01/17/wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
  - /2012-01-17-wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
- - /2012-01-17-wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid
+ - /development/wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
 ---
 Creating a custom ProgressBar, using a Grid and an IValueConverter, is extremely easy, and leaves you with a bit more control than the built-in ProgressBar. 
 

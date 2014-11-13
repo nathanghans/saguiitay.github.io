@@ -9,7 +9,7 @@ share: true
 redirect_from:
  - /2007/10/02/sharepoint-associated-groups/
  - /2007-10-02-sharepoint-associated-groups/
- - /2007-10-02-sharepoint-associated-groups
+ - /development/sharepoint-associated-groups/
 ---
 When you create a new sub-site in SharePoint, and choose the "Use Unique Permissions" option, three groups are 
 created at the site-collection level: Owners, Members & Visitors. These groups are "associated" to the sub-site that you've just created.

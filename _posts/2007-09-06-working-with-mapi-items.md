@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2007/09/06/working-with-mapi-items/
  - /2007-09-06-working-with-mapi-items/
- - /2007-09-06-working-with-mapi-items
+ - /development/working-with-mapi-items/
 ---
 While the Outlook objects expose most of the properties of the items they represent, sometime they miss the 
 exact field that you need. In this post I'll show you the very basics in retrieving information from the MAPI 

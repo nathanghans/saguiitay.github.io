@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2007/09/10/updating-gui-from-different-threads-part-2/
  - /2007-09-10-updating-gui-from-different-threads-part-2/
- - /2007-09-10-updating-gui-from-different-threads-part-2
+ - /development/updating-gui-from-different-threads-part-2/
 ---
 As part of my work at [Tzunami Inc.](http://www.tzunami.com/), I'm working on migrating our product Deployer - 
 a [SharePoint migration](http://www.tzunami.com/products) tool - from .Net 1.1 to .Net 2.0 and Visual Studio 2005. 

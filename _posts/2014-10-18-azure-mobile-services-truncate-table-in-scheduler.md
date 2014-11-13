@@ -7,6 +7,10 @@ comments: true
 categories: [Development]
 tags: [Azure, Mobile Services]
 share: true
+redirect_from:
+ - /2014/08/20/azure-mobile-services-truncate-table-in-scheduler/
+ - /2014-08-20-azure-mobile-services-truncate-table-in-scheduler/
+ - /development/azure-mobile-services-truncate-table-in-scheduler/
 ---
 I am using Windows Azure Mobile Services to manage the Leaderboard of my [Movies Trivia]({{site.url}}/windows-phone/movies-trivia) and [Geo Trivia]({{site.url}}/windows-phone/geo-trivia).
 Due to the nature of the data, I'm using 3 tables:

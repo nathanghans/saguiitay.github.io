@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2007/09/06/transparent-click-thru-windows/
  - /2007-09-06-transparent-click-thru-windows/
- - /2007-09-06-transparent-click-thru-windows
+ - /development/transparent-click-thru-windows/
 ---
 It is often usefull to provide the user with information on the screen, without interfering his work. 
 Usually, you would just create a window with a somewhat lower opacity, allowing the user to see what's 

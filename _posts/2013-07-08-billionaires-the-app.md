@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/07/08/billionaires-the-app/
  - /2013-07-08-billionaires-the-app/
- - /2013-07-08-billionaires-the-app
+ - /development/billionaires-the-app/
 ---
 As I've shown in my serie of posts (Part [1]({% post_url 2013-06-17-bloomberg-billionaires %} "Bloomberg Billionaires"), [2]({% post_url 2013-06-21-bloombergs-billionaires-part-2-general-data-and-stats %} "Bloomberg's Billionaires - Part 2: General data and stats"), [3]({% post_url 2013-06-27-bloombergs-billionaires-part-3-getting-images %}), [4]({% post_url 2013-07-01-bloombergs-billionaires-part-4-accessing-billionaires-details-data %})), 
 retrieving the information from Bloomberg's Billionaires web-app is quite simple.

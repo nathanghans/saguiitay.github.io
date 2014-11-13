@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2008/05/24/sharepoint-lists-groupingpaging-by-first-letter/
  - /2008-05-24-sharepoint-lists-groupingpaging-by-first-letter/
- - /2008-05-24-sharepoint-lists-groupingpaging-by-first-letter
+ - /development/sharepoint-lists-groupingpaging-by-first-letter/
 ---
 A very interesting blog entry, 
 [Alphabetical Paging on a SharePoint List View>](http://www.tqcblog.com/archive/2008/02/15/alphabetical-paging-on-a-sharepoint-list-view.aspx), 

@@ -10,7 +10,8 @@ share: true
 redirect_from:
  - /2008/06/03/joel-spolsky/
  - /2008-06-03-joel-spolsky/
- - /2008-06-03-joel-spolsky
+ - /development/joel-spolsky/
+ - /reading/joel-spolsky/
 ---
 For those of you not familiar with Joel's writings, I strongly recommend that you sign up to his blog at
 ([www.joelonsoftware.com](http://www.joelonsoftware.com/)), as well as read his column at [Inc.com](http://www.inc.com/).

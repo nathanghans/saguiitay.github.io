@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/06/26/available-now-markedup-analytics-for-windows-phone-8/
  - /2013-06-26-available-now-markedup-analytics-for-windows-phone-8/
- - /2013-06-26-available-now-markedup-analytics-for-windows-phone-8
+ - /development/available-now-markedup-analytics-for-windows-phone-8/
 ---
 [MarkedUp](http://www.markedup.com) have released their Analytics library for Windows Phone 8 - you can read the announcement on 
 their [blog](http://blog.markedup.com/2013/06/available-now-markedup-analytics-for-windows-phone-8/)

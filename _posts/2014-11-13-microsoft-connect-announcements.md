@@ -7,6 +7,10 @@ comments: true
 categories: [Development]
 tags: [.Net]
 share: true
+redirect_from:
+ - /2014/08/20/microsoft-connect-announcements/
+ - /2014-08-20-microsoft-connect-announcements/
+ - /development/microsoft-connect-announcements/
 ---
 If you're reading this blog, chances are that you're a .Net developer. And this week was big for the .Net community.
 

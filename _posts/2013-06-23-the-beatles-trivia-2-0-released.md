@@ -10,7 +10,6 @@ share: true
 redirect_from:
  - /2013/06/23/the-beatles-trivia-2-0-released/
  - /2013-06-23-the-beatles-trivia-2-0-released/
- - /2013-06-23-the-beatles-trivia-2-0-released
 ---
 After a long while, I finally came back to [The Beatles Trivia]({{site.url}}/windows-phone/trivia-games/the-beatles-trivia/)
 and updated the game. This update doesn't include new content or questions, but has many bugs fixes and performance improvements.

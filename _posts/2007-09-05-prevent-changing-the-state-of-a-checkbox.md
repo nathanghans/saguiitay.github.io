@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2007/09/05/prevent-changing-the-state-of-a-checkbox/
  - /2007-09-05-prevent-changing-the-state-of-a-checkbox/
- - /2007-09-05-prevent-changing-the-state-of-a-checkbox
+ - /development/prevent-changing-the-state-of-a-checkbox/
 ---
 Preventing an item in a CheckedListBox or a ListView with CheckBoxed is a really basic requirement when dealing with GUI. The simple and elegant code is for some reason, quite under-sampled. Assuming that you know which item you want to prevent the user from changing, all you have to do is register on the ItemCheck event off either the CheckedListBox or the ListView, and write the following event handler:
 

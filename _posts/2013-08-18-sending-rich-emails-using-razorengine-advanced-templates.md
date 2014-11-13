@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/08/18/sending-rich-emails-using-razorengine-advanced-templates/
  - /2013-08-18-sending-rich-emails-using-razorengine-advanced-templates/
- - /2013-08-18-sending-rich-emails-using-razorengine-advanced-templates
+ - /development/sending-rich-emails-using-razorengine-advanced-templates/
 ---
 In my previous post, I've shown how to use the RazorEngine template engine in order to generate EmailMessages in an MVC-like pattern.
 However, when compared to "real" MVC, we have the ability to create more complex views, using utility classes/methods, such as @Html and @Url.

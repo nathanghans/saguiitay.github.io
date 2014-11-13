@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/08/12/making-post-requests-from-withing-a-windows-phone-8-cordova-project/
  - /2013-08-12-making-post-requests-from-withing-a-windows-phone-8-cordova-project/
- - /2013-08-12-making-post-requests-from-withing-a-windows-phone-8-cordova-project
+ - /development/making-post-requests-from-withing-a-windows-phone-8-cordova-project/
 ---
 So you've created your Cordova/PhoneGap application, and now you need to make a POST request to a service on the web. 
 You'll quickly find that this is not easily done. Here's a simple, extendable solution for that, using Cordova's Commands mechanism:

@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/06/19/movies-trivia-reaches-20000-downloads/
  - /2013-06-19-movies-trivia-reaches-20000-downloads/
- - /2013-06-19-movies-trivia-reaches-20000-downloads
+ - /development/movies-trivia-reaches-20000-downloads/
 ---
 Without me noticing, at the beginning of the month Movies Trivia crossed over the 20,000 downloads mark. It's been a while since I've updated it,
 but this milestone pushed me to work on version 2.0. The new version will include several improvements, including:

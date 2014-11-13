@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/11/06/customizing-the-header-of-teleriks-pickerbox/
  - /2013-11-06-customizing-the-header-of-teleriks-pickerbox/
- - /2013-11-06-customizing-the-header-of-teleriks-pickerbox
+ - /development/customizing-the-header-of-teleriks-pickerbox/
 ---
 [Telerik's PickerBox](http://www.telerik.com/products/windows-phone/overview/all-controls/pickerbox.aspx) is a useful control that allows
 users to multi-select items. You can see it in action on Telerik's product page. Like many of Telerik's controls, it has a Header property,

@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2011/03/02/windsor-factories-and-obfuscation/
  - /2011-03-02-windsor-factories-and-obfuscation/
- - /2011-03-02-windsor-factories-and-obfuscation
+ - /development/windsor-factories-and-obfuscation/
 ---
 I love [Windsor](http://stw.castleproject.org/Windsor.MainPage.ashx) - it's simplicity yet versatility amazes me every time I use it.
 

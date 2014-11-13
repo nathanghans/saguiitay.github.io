@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2014/10/15/netflix-compressed-graphs-in-net/
  - /2014-10-15-netflix-compressed-graphs-in-net/
- - /2014-10-15-netflix-compressed-graphs-in-net
+ - /development/netflix-compressed-graphs-in-net/
 ---
 A while back, NetFlix wrote in their [blog about their graph library](http://techblog.netflix.com/2013/01/netflixgraph-metadata-library_18.html), and the work
 they've done to reduce the memory footprint of their graph. Reducing memory allows NetFlix to maintain the whole graph relations in-memory (note that the node

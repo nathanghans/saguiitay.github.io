@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/12/21/jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
  - /2012-12-21-jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
- - /2012-12-21-jquery-twitter-bootstrap-checkboxes-list-tree-plugin
+ - /development/jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
 ---
 I've been using [jQuery](http://jquery.com/) and [Twitter Bootstrap](http://twitter.github.com/bootstrap/) quite a lot lately.
 I've found myself in need of a more advanced control to display a list of check-boxes, grouped together by subject/area.

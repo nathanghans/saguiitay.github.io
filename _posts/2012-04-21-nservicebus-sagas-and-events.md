@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/04/21/nservicebus-sagas-and-events/
  - /2012-04-21-nservicebus-sagas-and-events/
- - /2012-04-21-nservicebus-sagas-and-events
+ - /development/nservicebus-sagas-and-events/
 ---
 In the last few weeks, I've been spending some time with [NServiceBus](http://www.nservicebus.com), as part of my prototyping a new system 
 we're working on at work. The system encompass quite a few moving parts, and using a Bus made sense. One of the expected services will be 

@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2010/06/24/microsoft-translator-quick-start/
  - /2010-06-24-microsoft-translator-quick-start/
- - /2010-06-24-microsoft-translator-quick-start
+ - /development/microsoft-translator-quick-start/
 ---
 After adding a Service Reference to the following URL (http://api.microsofttranslator.com/v2/Soap.svc), you can easily translate text by following the sample below:
 

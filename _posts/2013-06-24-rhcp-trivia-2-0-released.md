@@ -10,7 +10,6 @@ share: true
 redirect_from:
  - /2013/06/24/rhcp-trivia-2-0-released/
  - /2013-06-24-rhcp-trivia-2-0-released/
- - /2013-06-24-rhcp-trivia-2-0-released
 ---
 After a long while, I finally came back to RHCP Trivia and updated the game. This update doesn't include new content or questions,
 but has many bugs fixes and performance improvements. This update also brings the game to my latest framework, which will allow me to extend it further down the line.

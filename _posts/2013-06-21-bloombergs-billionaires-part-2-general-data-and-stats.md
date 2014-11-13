@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2013/06/21/bloombergs-billionaires-part-2-general-data-and-stats/
  - /2013-06-21-bloombergs-billionaires-part-2-general-data-and-stats/
- - /2013-06-21-bloombergs-billionaires-part-2-general-data-and-stats
+ - /development/bloombergs-billionaires-part-2-general-data-and-stats/
 ---
 In my [previous post]({% post_url 2013-06-17-bloomberg-billionaires %} "Bloomberg Billionaires"), I've mentioned Bloomberg's Billionaires website,
 which displays detailed information about the Top 100 world billionaires. Today, let's take a look at the data used by the website.

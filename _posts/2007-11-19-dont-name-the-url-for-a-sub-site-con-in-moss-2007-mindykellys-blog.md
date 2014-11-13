@@ -9,7 +9,7 @@ tags: [SharePoint]
 redirect_from:
  - /2007/11/19/dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
  - /2007-11-19-dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
- - /2007-11-19-dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog
+ - /development/dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
 ---
 Now, I'm not the best person to speak about documentation and openness is code and products, 
 but every now and then I find myself raising an eyebrow about someone else's behavior: 

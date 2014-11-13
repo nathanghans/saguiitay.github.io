@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2011/02/28/iribbonextensibility-needs-to-be-comvisible/
  - /2011-02-28-iribbonextensibility-needs-to-be-comvisible/
- - /2011-02-28-iribbonextensibility-needs-to-be-comvisible
+ - /development/iribbonextensibility-needs-to-be-comvisible/
 ---
 When developing an Outlook add-in using VSTO 4, if you are implementing the `IRibbonExtensibility` interface (for customizing a Ribbon, 
 for example) you might encounter cases where your Ribbon or menu items don't appear in Outlook's UI.

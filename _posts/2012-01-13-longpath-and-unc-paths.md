@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/01/13/longpath-and-unc-paths/
  - /2012-01-13-longpath-and-unc-paths/
- - /2012-01-13-longpath-and-unc-paths
+ - /development/longpath-and-unc-paths/
 ---
 
 A colleague of mine started using the LongPath package provided as part of the [Base Class Libraries project in CodePlex](http://bcl.codeplex.com/).

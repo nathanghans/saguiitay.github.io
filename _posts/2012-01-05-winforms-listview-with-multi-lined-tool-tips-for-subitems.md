@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2012/01/05/winforms-listview-with-multi-lined-tool-tips-for-subitems/
  - /2012-01-05-winforms-listview-with-multi-lined-tool-tips-for-subitems/
- - /2012-01-05-winforms-listview-with-multi-lined-tool-tips-for-subitems
+ - /development/winforms-listview-with-multi-lined-tool-tips-for-subitems/
 ---
 If you've worked with ListViews in WinForms before, you might have encountered the discouraging fact that the default ListView does 
 not support multi-lined tool-tips for SubItems. For this to work, you have to create a custom control that inherits from ListView, 

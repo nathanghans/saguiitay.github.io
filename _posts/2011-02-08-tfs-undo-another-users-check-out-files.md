@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2011/02/08/tfs-undo-another-users-check-out-files/
  - /2011-02-08-tfs-undo-another-users-check-out-files/
- - /2011-02-08-tfs-undo-another-users-check-out-files
+ - /development/tfs-undo-another-users-check-out-files/
 ---
 In order to undo files that are checked-out by another user, ou can use the TF.EXE command-line tool:
 

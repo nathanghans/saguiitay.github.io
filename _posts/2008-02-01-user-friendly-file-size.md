@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2008/02/01/user-friendly-file-size/
  - /2008-02-01-user-friendly-file-size/
- - /2008-02-01-user-friendly-file-size
+ - /development/user-friendly-file-size/
 ---
 Based on a utility method found in the `Microsoft.SharePoint.Utilities.SPUtility` class, here's a method to get a user-friendly text for a file size:
 

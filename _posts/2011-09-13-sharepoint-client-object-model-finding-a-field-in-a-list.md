@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2011/09/13/sharepoint-client-object-model-finding-a-field-in-a-list/
  - /2011-09-13-sharepoint-client-object-model-finding-a-field-in-a-list/
- - /2011-09-13-sharepoint-client-object-model-finding-a-field-in-a-list
+ - /development/sharepoint-client-object-model-finding-a-field-in-a-list/
 ---
 When working with the SharePoint Client Object Model, it is useful to find a field in a list, or a site column in the web.
 Below are some extension methods to ClientContext, to facilitate these:

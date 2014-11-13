@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2009/01/08/version-comments-for-a-documentum-object/
  - /2009-01-08-version-comments-for-a-documentum-object/
- - /2009-01-08-version-comments-for-a-documentum-object
+ - /development/version-comments-for-a-documentum-object/
 ---
 Retrieving the version comments of a Documentum SysObject is an easy task:
 

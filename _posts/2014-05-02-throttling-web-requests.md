@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2014/05/02/throttling-web-requests/
  - /2014-05-02-throttling-web-requests/
- - /2014-05-02-throttling-web-requests
+ - /development/throttling-web-requests/
 ---
 As part of my work on [Cloudsfer](http://www.cloudsfer.com), I'm working a lot with REST APIs of various cloud service providers, such as
 OneDrive, Dropbox and Instagram. Most of these services limit you to a certain amount of requests per second/hour/day. This is understood - these

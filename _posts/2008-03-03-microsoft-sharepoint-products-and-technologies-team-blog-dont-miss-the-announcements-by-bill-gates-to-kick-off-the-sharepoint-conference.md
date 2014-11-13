@@ -10,7 +10,7 @@ share: true
 redirect_from:
  - /2008/03/03/microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
  - /2008-03-03-microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
- - /2008-03-03-microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference
+ - /development/microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
 ---
 From "The official blog of the SharePoint Product Group" come this entry: [Microsoft SharePoint Products and Technologies Team Blog : Don't miss the announcements by Bill Gates to kick off the SharePoint Conference!](http://blogs.msdn.com/sharepoint/archive/2008/03/02/don-t-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference.aspx)
 
