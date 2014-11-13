@@ -17,7 +17,7 @@ Well, Microsoft had their [Connect(); event](http://www.visualstudio.com/connect
  *  [Visual Studio and Team Foundation Server 2013 Update 4](http://go.microsoft.com/fwlink/?linkid=390465) are available
  *  The first public [preview of Visual Studio 2015 and .NET 2015](http://go.microsoft.com/fwlink/?linkid=517106) are available
  *  The .NET Framework is going [open source](https://github.com/dotnet/corefx) and cross platform
- *  A free [Visual Studio Community 2013](http://go.microsoft.com/fwlink/?LinkId=518338) – a new edition of Visual Studio that combines everything in all the Express products and adds extensibility support
+ *  A free [Visual Studio Community 2013](http://go.microsoft.com/fwlink/?LinkId=518338) a new edition of Visual Studio that combines everything in all the Express products and adds extensibility support
  *  A bunch of [new improvements to Visual Studio Online](http://www.visualstudio.com/news/news-overview-vs)
  
 You can read about everything announced in the proliferate blog posts:
