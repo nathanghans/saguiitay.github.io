@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, WebDAV]
 share: true
 redirect_from:
- - /2014/10/14/webdav-client-in-c/
  - /2014-10-14-webdav-client-in-c/
  - /development/webdav-client-in-c/
 ---
