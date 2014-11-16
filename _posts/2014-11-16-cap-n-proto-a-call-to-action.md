@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cap'n Proto - a call to action"
 date: 2014-11-16 17:58
