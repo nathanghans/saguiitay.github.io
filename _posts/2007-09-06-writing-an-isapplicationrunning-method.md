@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2007/09/06/writing-an-isapplicationrunning-method/
  - /2007-09-06-writing-an-isapplicationrunning-method/
  - /development/writing-an-isapplicationrunning-method/
 ---

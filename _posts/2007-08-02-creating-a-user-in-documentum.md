@@ -8,7 +8,6 @@ categories: [Development]
 tags: [Documentum]
 share: true
 redirect_from:
- - /2007/08/02/creating-a-user-in-documentum/
  - /2007-08-02-creating-a-user-in-documentum/
  - /development/creating-a-user-in-documentum/
 ---

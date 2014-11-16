@@ -7,7 +7,6 @@ comments: true
 tags: [SharePoint]
 share: true
 redirect_from:
- - /2007/10/02/sharepoint-associated-groups/
  - /2007-10-02-sharepoint-associated-groups/
  - /development/sharepoint-associated-groups/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GUI]
 share: true
 redirect_from:
- - /2007/09/06/transparent-click-thru-windows/
  - /2007-09-06-transparent-click-thru-windows/
  - /development/transparent-click-thru-windows/
 ---

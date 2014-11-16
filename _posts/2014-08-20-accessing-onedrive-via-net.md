@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, NuGet, OneDrive, REST, SkyDrive]
 share: true
 redirect_from:
- - /2014/08/20/accessing-onedrive-via-net/
  - /2014-08-20-accessing-onedrive-via-net/
  - /development/accessing-onedrive-via-net/
 ---

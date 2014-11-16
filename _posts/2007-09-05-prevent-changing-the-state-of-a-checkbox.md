@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GUI]
 share: true
 redirect_from:
- - /2007/09/05/prevent-changing-the-state-of-a-checkbox/
  - /2007-09-05-prevent-changing-the-state-of-a-checkbox/
  - /development/prevent-changing-the-state-of-a-checkbox/
 ---

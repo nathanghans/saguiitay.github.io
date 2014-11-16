@@ -8,7 +8,6 @@ categories: [Reading, Development]
 tags: [.Net, Design Patterns]
 share: true
 redirect_from:
- - /2007/01/02/design-patterns-implementation-in-a-storage-explorer-application/
  - /2007-01-02-design-patterns-implementation-in-a-storage-explorer-application/
  - /development/design-patterns-implementation-in-a-storage-explorer-application/
 ---

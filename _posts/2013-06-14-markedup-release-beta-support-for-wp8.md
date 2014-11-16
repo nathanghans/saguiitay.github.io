@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [MarkedUp, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/14/markedup-release-beta-support-for-wp8/
  - /2013-06-14-markedup-release-beta-support-for-wp8/
  - /development/markedup-release-beta-support-for-wp8/
 ---

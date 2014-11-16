@@ -8,7 +8,6 @@ categories: [Windows Phone]
 tags: [Windows Phone]
 share: true
 redirect_from:
- - /2011/12/31/wp7-books-my-first-wp7-application/
  - /2011-12-31-wp7-books-my-first-wp7-application/
 ---
 Today, my first Windows Phone application was published: Books. The application allows you to easily manage your book collection. 

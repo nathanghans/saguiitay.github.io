@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, NDepend, Review]
 share: true
 redirect_from:
- - /2014/09/20/ndepend-impressions-and-review/
  - /2014-09-20-ndepend-impressions-and-review/
  - /development/ndepend-impressions-and-review/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2014/10/06/new-website/
  - /2014-10-06-new-website/
 ---
 In case you haven't noticed, this is my new website. I've spent several long days updating everything, so I thought I'd share a bit of my experience.

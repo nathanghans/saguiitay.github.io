@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, NuGet, GitHub]
 share: true
 redirect_from:
- - /2014/06/05/getting-nuget-package-details/
  - /2014-06-05-getting-nuget-package-details/
  - /development/getting-nuget-package-details/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GitHub]
 share: true
 redirect_from:
- - /2014/06/03/playing-with-github-api-octokit-net/
  - /2014-06-03-playing-with-github-api-octokit-net/
  - /development/playing-with-github-api-octokit-net/
 ---

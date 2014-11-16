@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Goodreads, Library, Windows Phone]
 share: true
 redirect_from:
- - /2013/11/13/library-1-1-released/
  - /2013-11-13-library-1-1-released/
  - /development/library-1-1-released/
 ---

@@ -8,7 +8,6 @@ categories: [Reading, Development]
 tags: [Management]
 share: true
 redirect_from:
- - /2009/01/06/quality-doesnt-just-happen/
  - /2009-01-06-quality-doesnt-just-happen/
  - /development/quality-doesnt-just-happen/
  - /reading/quality-doesnt-just-happen/

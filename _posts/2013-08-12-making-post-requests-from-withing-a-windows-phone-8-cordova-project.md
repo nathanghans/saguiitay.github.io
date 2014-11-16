@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Cordova, JavaScript, PhoneGap, Windows Phone]
 share: true
 redirect_from:
- - /2013/08/12/making-post-requests-from-withing-a-windows-phone-8-cordova-project/
  - /2013-08-12-making-post-requests-from-withing-a-windows-phone-8-cordova-project/
  - /development/making-post-requests-from-withing-a-windows-phone-8-cordova-project/
 ---

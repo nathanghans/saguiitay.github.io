@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2008/02/01/user-friendly-file-size/
  - /2008-02-01-user-friendly-file-size/
  - /development/user-friendly-file-size/
 ---

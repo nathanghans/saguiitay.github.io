@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
 share: true
 redirect_from:
- - /2011/09/13/sharepoint-client-object-model-finding-a-field-in-a-list/
  - /2011-09-13-sharepoint-client-object-model-finding-a-field-in-a-list/
  - /development/sharepoint-client-object-model-finding-a-field-in-a-list/
 ---

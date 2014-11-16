@@ -8,7 +8,6 @@ categories: [Development]
 tags: [Azure, Mobile Services]
 share: true
 redirect_from:
- - /2014/08/20/azure-mobile-services-truncate-table-in-scheduler/
  - /2014-08-20-azure-mobile-services-truncate-table-in-scheduler/
  - /development/azure-mobile-services-truncate-table-in-scheduler/
 ---

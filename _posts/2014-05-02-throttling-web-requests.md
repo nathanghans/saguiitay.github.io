@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Cloudsfer]
 share: true
 redirect_from:
- - /2014/05/02/throttling-web-requests/
  - /2014-05-02-throttling-web-requests/
  - /development/throttling-web-requests/
 ---

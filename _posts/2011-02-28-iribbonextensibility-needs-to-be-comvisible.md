@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Outlook, VSTO]
 share: true
 redirect_from:
- - /2011/02/28/iribbonextensibility-needs-to-be-comvisible/
  - /2011-02-28-iribbonextensibility-needs-to-be-comvisible/
  - /development/iribbonextensibility-needs-to-be-comvisible/
 ---

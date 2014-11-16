@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, HttpClient]
 share: true
 redirect_from:
- - /2014/09/30/byte-rot-performance-counters-for-your-httpclient/
  - /2014-09-30-byte-rot-performance-counters-for-your-httpclient/
  - /development/byte-rot-performance-counters-for-your-httpclient/
 ---

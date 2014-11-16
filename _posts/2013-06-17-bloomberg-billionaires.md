@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Billionaires, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/17/bloomberg-billionaires/
  - /2013-06-17-bloomberg-billionaires/
  - /development/bloomberg-billionaires/
 ---

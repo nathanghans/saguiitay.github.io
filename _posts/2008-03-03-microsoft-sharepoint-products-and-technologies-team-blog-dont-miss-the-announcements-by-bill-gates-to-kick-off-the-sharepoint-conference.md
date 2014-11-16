@@ -8,7 +8,6 @@ categories: []
 tags: [SharePoint, Tzunami]
 share: true
 redirect_from:
- - /2008/03/03/microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
  - /2008-03-03-microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
  - /development/microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
 ---

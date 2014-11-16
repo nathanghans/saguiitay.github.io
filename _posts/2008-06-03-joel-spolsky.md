@@ -8,7 +8,6 @@ categories: [Reading, Development]
 tags: []
 share: true
 redirect_from:
- - /2008/06/03/joel-spolsky/
  - /2008-06-03-joel-spolsky/
  - /development/joel-spolsky/
  - /reading/joel-spolsky/

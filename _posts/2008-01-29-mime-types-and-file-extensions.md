@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2008/01/29/mime-types-and-file-extensions/
  - /2008-01-29-mime-types-and-file-extensions/
  - /development/mime-types-and-file-extensions/
 ---

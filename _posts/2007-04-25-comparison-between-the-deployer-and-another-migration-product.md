@@ -8,7 +8,6 @@ categories: [Development]
 tags: [SharePoint, Tzunami]
 share: true
 redirect_from:
- - /2007/04/25/comparison-between-the-deployer-and-another-migration-product/
  - /2007-04-25-comparison-between-the-deployer-and-another-migration-product/
  - /development/comparison-between-the-deployer-and-another-migration-product/
 ---

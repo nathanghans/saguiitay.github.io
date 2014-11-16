@@ -8,7 +8,6 @@ categories: [Development]
 tags: [SharePoint]
 share: true
 redirect_from:
- - /2007/08/08/moss-documents-libraries-naming-policy/
  - /2007-08-08-moss-documents-libraries-naming-policy/
  - /development/moss-documents-libraries-naming-policy/
 ---

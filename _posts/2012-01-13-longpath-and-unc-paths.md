@@ -8,7 +8,6 @@ categories: [Development]
 tags: [File System, Path, UNC]
 share: true
 redirect_from:
- - /2012/01/13/longpath-and-unc-paths/
  - /2012-01-13-longpath-and-unc-paths/
  - /development/longpath-and-unc-paths/
 ---

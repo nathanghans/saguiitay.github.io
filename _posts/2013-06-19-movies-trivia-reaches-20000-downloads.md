@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Movies Trivia, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/19/movies-trivia-reaches-20000-downloads/
  - /2013-06-19-movies-trivia-reaches-20000-downloads/
  - /development/movies-trivia-reaches-20000-downloads/
 ---

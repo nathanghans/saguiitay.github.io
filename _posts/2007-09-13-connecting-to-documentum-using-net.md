@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2007/09/13/connecting-to-documentum-using-net/
  - /2007-09-13-connecting-to-documentum-using-net/
  - /development/connecting-to-documentum-using-net/
 ---

@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Movies Trivia, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/25/movies-trivia-2-0-released/
  - /2013-06-25-movies-trivia-2-0-released/
  - /development/movies-trivia-2-0-released/
 ---

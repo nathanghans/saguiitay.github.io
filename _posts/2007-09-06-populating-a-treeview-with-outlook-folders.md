@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, CDO, MAPI, Outlook]
 share: true
 redirect_from:
- - /2007/09/06/populating-a-treeview-with-outlook-folders/
  - /2007-09-06-populating-a-treeview-with-outlook-folders/
  - /development/populating-a-treeview-with-outlook-folders/
 ---

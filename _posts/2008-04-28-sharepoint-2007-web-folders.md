@@ -8,7 +8,6 @@ categories: [Development]
 tags: [SharePoint, Web Folder]
 share: true
 redirect_from:
- - /2008/04/28/sharepoint-2007-web-folders/
  - /2008-04-28-sharepoint-2007-web-folders/
  - /development/sharepoint-2007-web-folders/
 ---

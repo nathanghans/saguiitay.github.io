@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GUI]
 share: true
 redirect_from:
- - /2007/09/06/filtering-win32-messages-of-a-form/
  - /2007-09-06-filtering-win32-messages-of-a-form/
  - /development/filtering-win32-messages-of-a-form/
 ---

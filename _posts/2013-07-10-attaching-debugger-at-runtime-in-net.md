@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Debugger]
 share: true
 redirect_from:
- - /2013/07/10/attaching-debugger-at-runtime-in-net/
  - /2013-07-10-attaching-debugger-at-runtime-in-net/
  - /development/attaching-debugger-at-runtime-in-net/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GUI]
 share: true
 redirect_from:
- - /2007/09/10/updating-gui-from-different-threads-part-2/
  - /2007-09-10-updating-gui-from-different-threads-part-2/
  - /development/updating-gui-from-different-threads-part-2/
 ---

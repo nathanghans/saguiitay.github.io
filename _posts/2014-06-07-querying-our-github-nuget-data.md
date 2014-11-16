@@ -8,7 +8,6 @@ categories: [Development]
 tags: [GitHub, NuGet, RavenDb]
 share: true
 redirect_from:
- - /2014/06/07/querying-our-github-nuget-data/
  - /2014-06-07-querying-our-github-nuget-data/
  - /development/querying-our-github-nuget-data/
 ---

@@ -8,7 +8,6 @@ categories: [Windows Phone]
 tags: [.Net, Windows Phone]
 share: true
 redirect_from:
- - /2012/01/06/wp7-extra-wide-horizontally-wrapping-panoramaitem-with-dynamic-listbox-dotnet-catch/
  - /2012-01-06-wp7-extra-wide-horizontally-wrapping-panoramaitem-with-dynamic-listbox-dotnet-catch/
  - /development/wp7-extra-wide-horizontally-wrapping-panoramaitem-with-dynamic-listbox-dotnet-catch/
 ---

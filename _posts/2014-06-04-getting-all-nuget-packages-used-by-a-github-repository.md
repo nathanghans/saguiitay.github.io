@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GitHub, NuGet]
 share: true
 redirect_from:
- - /2014/06/04/getting-all-nuget-packages-used-by-a-github-repository/
  - /2014-06-04-getting-all-nuget-packages-used-by-a-github-repository/
  - /development/getting-all-nuget-packages-used-by-a-github-repository/
 ---

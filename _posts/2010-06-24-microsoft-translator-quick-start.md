@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Microsoft Translator]
 share: true
 redirect_from:
- - /2010/06/24/microsoft-translator-quick-start/
  - /2010-06-24-microsoft-translator-quick-start/
  - /development/microsoft-translator-quick-start/
 ---

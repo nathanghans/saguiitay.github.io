@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Movies Trivia, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/07/09/movies-trivia-features-in-wpcentral/
  - /2013-07-09-movies-trivia-features-in-wpcentral/
 ---
 Movies Trivia was [featured in WPCentral](http://www.wpcentral.com/movies-trivia-windows-phone-only-thing-missing-popcorn) for the first time!

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2006/09/16/isolated-storage/
  - /2006-09-16-isolated-storage/
  - /development/isolated-storage/
 ---

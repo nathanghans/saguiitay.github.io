@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2007/09/12/retrieving-extended-permissions-in-documentum-with-net/
  - /2007-09-12-retrieving-extended-permissions-in-documentum-with-net/
  - /development/retrieving-extended-permissions-in-documentum-with-net/
 ---

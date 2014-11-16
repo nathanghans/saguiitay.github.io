@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, WinForms, ListView]
 share: true
 redirect_from:
- - /2012/01/05/winforms-listview-with-multi-lined-tool-tips-for-subitems/
  - /2012-01-05-winforms-listview-with-multi-lined-tool-tips-for-subitems/
  - /development/winforms-listview-with-multi-lined-tool-tips-for-subitems/
 ---

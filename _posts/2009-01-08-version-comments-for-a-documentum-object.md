@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2009/01/08/version-comments-for-a-documentum-object/
  - /2009-01-08-version-comments-for-a-documentum-object/
  - /development/version-comments-for-a-documentum-object/
 ---

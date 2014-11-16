@@ -8,7 +8,6 @@ categories: [Reading]
 tags: [SharePoint, Tzunami]
 share: true
 redirect_from:
- - /2007/02/15/scot-hilliers-microsoft-sharepoint-building-office-2007-solutions-in-c-2005/
  - /2007-02-15-scot-hilliers-microsoft-sharepoint-building-office-2007-solutions-in-c-2005/
  - /reading/scot-hilliers-microsoft-sharepoint-building-office-2007-solutions-in-c-2005/
  - /development/scot-hilliers-microsoft-sharepoint-building-office-2007-solutions-in-c-2005/

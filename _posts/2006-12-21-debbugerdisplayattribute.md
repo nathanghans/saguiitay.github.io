@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2006/12/21/debbugerdisplayattribute/
  - /2006-12-21-debbugerdisplayattribute/
  - /development/debbugerdisplayattribute/
 ---

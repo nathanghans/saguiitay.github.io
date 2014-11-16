@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2009/01/08/retrieving-documentum-repeating-values/
  - /2009-01-08-retrieving-documentum-repeating-values/
  - /development/retrieving-documentum-repeating-values/
 ---

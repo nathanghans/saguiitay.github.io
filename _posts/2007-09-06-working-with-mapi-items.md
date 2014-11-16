@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, MAPI, Outlook]
 share: true
 redirect_from:
- - /2007/09/06/working-with-mapi-items/
  - /2007-09-06-working-with-mapi-items/
  - /development/working-with-mapi-items/
 ---

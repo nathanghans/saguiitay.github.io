@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Obfuscation, Windsor]
 share: true
 redirect_from:
- - /2011/03/02/windsor-factories-and-obfuscation/
  - /2011-03-02-windsor-factories-and-obfuscation/
  - /development/windsor-factories-and-obfuscation/
 ---

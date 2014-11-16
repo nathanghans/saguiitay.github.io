@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GitHub, NuGet]
 share: true
 redirect_from:
- - /2014/06/06/modeling-github-repositories-and-nuget-packages/
  - /2014-06-06-modeling-github-repositories-and-nuget-packages/
  - /development/modeling-github-repositories-and-nuget-packages/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2007/09/10/retrieving-a-list-of-available-documentum-docbases/
  - /2007-09-10-retrieving-a-list-of-available-documentum-docbases/
  - /development/retrieving-a-list-of-available-documentum-docbases/
 ---

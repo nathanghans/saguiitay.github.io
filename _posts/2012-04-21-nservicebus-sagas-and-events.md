@@ -8,7 +8,6 @@ categories: [Development]
 tags: [NServiceBus]
 share: true
 redirect_from:
- - /2012/04/21/nservicebus-sagas-and-events/
  - /2012-04-21-nservicebus-sagas-and-events/
  - /development/nservicebus-sagas-and-events/
 ---

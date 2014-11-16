@@ -8,7 +8,6 @@ categories: [Development]
 tags: [SharePoint]
 share: true
 redirect_from:
- - /2008/05/24/sharepoint-lists-groupingpaging-by-first-letter/
  - /2008-05-24-sharepoint-lists-groupingpaging-by-first-letter/
  - /development/sharepoint-lists-groupingpaging-by-first-letter/
 ---

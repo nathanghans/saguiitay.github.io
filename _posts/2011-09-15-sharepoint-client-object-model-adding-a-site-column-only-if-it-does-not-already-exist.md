@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
 share: true
 redirect_from:
- - /2011/09/15/sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/
  - /2011-09-15-sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/
  - /development/sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/
 ---

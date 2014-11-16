@@ -8,7 +8,6 @@ categories: [Windows Phone]
 tags: [Red Hot Chilli Peppers, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/24/rhcp-trivia-2-0-released/
  - /2013-06-24-rhcp-trivia-2-0-released/
 ---
 After a long while, I finally came back to RHCP Trivia and updated the game. This update doesn't include new content or questions,

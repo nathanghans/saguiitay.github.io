@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [.Net, Billionaires, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/27/bloombergs-billionaires-part-3-getting-images/
  - /2013-06-27-bloombergs-billionaires-part-3-getting-images/
  - /development/bloombergs-billionaires-part-3-getting-images/
 ---

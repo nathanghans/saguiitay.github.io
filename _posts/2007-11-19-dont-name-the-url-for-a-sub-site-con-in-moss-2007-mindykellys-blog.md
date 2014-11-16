@@ -7,7 +7,6 @@ comments: true
 categories: [Development]
 tags: [SharePoint]
 redirect_from:
- - /2007/11/19/dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
  - /2007-11-19-dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
  - /development/dont-name-the-url-for-a-sub-site-con-in-moss-2007-mindykellys-blog/
 ---

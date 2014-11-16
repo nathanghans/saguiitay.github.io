@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Design Patterns]
 share: true
 redirect_from:
- - /2009/01/05/the-visitor-design-patern/
  - /2009-01-05-the-visitor-design-patern/
  - /development/the-visitor-design-patern/
 ---

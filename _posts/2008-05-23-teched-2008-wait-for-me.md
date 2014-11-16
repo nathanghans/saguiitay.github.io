@@ -7,7 +7,6 @@ comments: true
 categories: [Personal]
 tags: [Microsoft,  TechEd]
 redirect_from:
- - /2008/05/23/teched-2008-wait-for-me/
  - /2008-05-23-teched-2008-wait-for-me/
  - /personal/teched-2008-wait-for-me/
 ---

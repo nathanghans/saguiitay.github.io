@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, NetFlix, graphs]
 share: true
 redirect_from:
- - /2014/10/15/netflix-compressed-graphs-in-net/
  - /2014-10-15-netflix-compressed-graphs-in-net/
  - /development/netflix-compressed-graphs-in-net/
 ---

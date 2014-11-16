@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Windsor]
 share: true
 redirect_from:
- - /2011/09/10/windsor-loading-installers-from-the-execution-folder/
  - /2011-09-10-windsor-loading-installers-from-the-execution-folder/
  - /development/windsor-loading-installers-from-the-execution-folder/
 ---

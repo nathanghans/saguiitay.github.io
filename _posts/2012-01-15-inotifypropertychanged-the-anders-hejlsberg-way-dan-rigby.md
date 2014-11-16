@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2012/01/15/inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
  - /2012-01-15-inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
  - /development/inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
 ---

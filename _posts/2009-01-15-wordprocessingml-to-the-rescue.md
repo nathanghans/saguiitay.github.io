@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Aspose, OpenXML, WordprocessingML]
 share: true
 redirect_from:
- - /2009/01/15/wordprocessingml-to-the-rescue/
  - /2009-01-15-wordprocessingml-to-the-rescue/
  - /development/wordprocessingml-to-the-rescue/
 ---

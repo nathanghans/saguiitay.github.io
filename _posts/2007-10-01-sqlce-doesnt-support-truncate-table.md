@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Databases, SqlCE]
 share: true
 redirect_from:
- - /2007/10/01/sqlce-doesnt-support-truncate-table/
  - /2007-10-01-sqlce-doesnt-support-truncate-table/
  - /development/sqlce-doesnt-support-truncate-table/
 ---

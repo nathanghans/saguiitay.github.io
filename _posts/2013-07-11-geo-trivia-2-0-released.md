@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Geo Trivia, geography, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/07/11/geo-trivia-2-0-released/
  - /2013-07-11-geo-trivia-2-0-released/
  - /development/geo-trivia-2-0-released/
 ---

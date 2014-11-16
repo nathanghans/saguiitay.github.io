@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, GUI]
 share: true
 redirect_from:
- - /2007/09/04/using-combobox-with-objects/
  - /2007-09-04-using-combobox-with-objects/
  - /development/using-combobox-with-objects/
 ---

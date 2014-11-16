@@ -8,7 +8,6 @@ categories: [Development]
 tags: [Checkboxes, JavaScript, JQuery, Twitter Bootstrap]
 share: true
 redirect_from:
- - /2012/12/21/jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
  - /2012-12-21-jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
  - /development/jquery-twitter-bootstrap-checkboxes-list-tree-plugin/
 ---

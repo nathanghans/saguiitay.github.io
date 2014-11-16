@@ -8,7 +8,6 @@ categories: [Development]
 tags: [Email, MVC, RazorEngine]
 share: true
 redirect_from:
- - /2013/08/14/sending-rich-emails-using-razorengine/
  - /2013-08-14-sending-rich-emails-using-razorengine/
  - /development/sending-rich-emails-using-razorengine/
 ---

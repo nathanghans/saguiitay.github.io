@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
-  - /2014/10/17/murmurhash-a-fast-hashing-algorithm/
   - /2014-10-17-murmurhash-a-fast-hashing-algorithm/
   - /development/murmurhash-a-fast-hashing-algorithm/
 ---

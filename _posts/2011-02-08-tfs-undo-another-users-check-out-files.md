@@ -8,7 +8,6 @@ categories: [Development]
 tags: [TFS]
 share: true
 redirect_from:
- - /2011/02/08/tfs-undo-another-users-check-out-files/
  - /2011-02-08-tfs-undo-another-users-check-out-files/
  - /development/tfs-undo-another-users-check-out-files/
 ---

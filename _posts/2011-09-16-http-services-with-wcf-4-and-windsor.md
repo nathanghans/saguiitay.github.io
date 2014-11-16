@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, WCF, Windsor]
 share: true
 redirect_from:
- - /2011/09/16/http-services-with-wcf-4-and-windsor/
  - /2011-09-16-http-services-with-wcf-4-and-windsor/
  - /development/http-services-with-wcf-4-and-windsor/
 ---

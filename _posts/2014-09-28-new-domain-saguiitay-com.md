@@ -8,7 +8,6 @@ categories: [Blog]
 tags: [Jekyll, Github Pages]
 share: true
 redirect_from:
- - /2014/09/28/new-domain-saguiitay-com/
  - /2014-09-28-new-domain-saguiitay-com/
  - /development/new-domain-saguiitay-com/
 ---

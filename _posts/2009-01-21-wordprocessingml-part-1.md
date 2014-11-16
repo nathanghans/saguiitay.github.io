@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, OpenXML, WordprocessingML]
 share: true
 redirect_from:
- - /2009/01/21/wordprocessingml-part-1/
  - /2009-01-21-wordprocessingml-part-1/
  - /development/wordprocessingml-part-1/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2007/09/05/the-interlocked-class/
  - /2007-09-05-the-interlocked-class/
  - /development/the-interlocked-class/
 ---

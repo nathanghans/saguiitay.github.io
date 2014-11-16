@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [.Net, Windows Phone, XAML, IValueConverter]
 share: true
 redirect_from:
- - /2012/01/17/wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
  - /2012-01-17-wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
  - /development/wp7-simple-progressbar-using-an-ivalueconverter-and-a-simple-grid/
 ---

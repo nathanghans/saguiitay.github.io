@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, Documentum]
 share: true
 redirect_from:
- - /2009/01/07/displaying-properties-of-a-documentum-object/
  - /2009-01-07-displaying-properties-of-a-documentum-object/
  - /development/displaying-properties-of-a-documentum-object/
 ---

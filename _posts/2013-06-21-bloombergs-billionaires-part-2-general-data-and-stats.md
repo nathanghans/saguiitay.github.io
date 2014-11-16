@@ -8,7 +8,6 @@ categories: [Development]
 tags: [Billionaires, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/21/bloombergs-billionaires-part-2-general-data-and-stats/
  - /2013-06-21-bloombergs-billionaires-part-2-general-data-and-stats/
  - /development/bloombergs-billionaires-part-2-general-data-and-stats/
 ---

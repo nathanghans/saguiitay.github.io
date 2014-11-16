@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net]
 share: true
 redirect_from:
- - /2014/08/20/microsoft-connect-announcements/
  - /2014-08-20-microsoft-connect-announcements/
  - /development/microsoft-connect-announcements/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [RavenDb]
 share: true
 redirect_from:
- - /2014/09/04/compacting-a-ravendb-database/
  - /2014-09-04-compacting-a-ravendb-database/
  - /development/compacting-a-ravendb-database/
 ---

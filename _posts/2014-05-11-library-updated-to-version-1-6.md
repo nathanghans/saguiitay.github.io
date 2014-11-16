@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Library, Windows Phone]
 share: true
 redirect_from:
- - /2014/05/11/library-updated-to-version-1-6/
  - /2014-05-11-library-updated-to-version-1-6/
  - /development/library-updated-to-version-1-6/
 ---

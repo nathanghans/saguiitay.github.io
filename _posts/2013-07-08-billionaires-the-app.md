@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Billionaires, Windows Phone]
 share: true
 redirect_from:
- - /2013/07/08/billionaires-the-app/
  - /2013-07-08-billionaires-the-app/
  - /development/billionaires-the-app/
 ---

@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [Development, Games, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2012/04/25/new-wp7-game-movies-trivia/
  - /2012-04-25-new-wp7-game-movies-trivia/
  - /development/new-wp7-game-movies-trivia/
 ---

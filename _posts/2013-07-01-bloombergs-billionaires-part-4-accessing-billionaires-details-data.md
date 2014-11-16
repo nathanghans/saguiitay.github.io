@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [.Net, Billionaires, Windows Phone]
 share: true
 redirect_from:
- - /2013/07/01/bloombergs-billionaires-part-4-accessing-billionaires-details-data/
  - /2013-07-01-bloombergs-billionaires-part-4-accessing-billionaires-details-data/
  - /development/bloombergs-billionaires-part-4-accessing-billionaires-details-data/
 ---

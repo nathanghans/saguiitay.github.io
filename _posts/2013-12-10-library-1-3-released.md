@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [.Net, Library, Windows Phone]
 share: true
 redirect_from:
- - /2013/12/10/library-1-3-released/
  - /2013-12-10-library-1-3-released/
  - /development/library-1-3-released/
 ---

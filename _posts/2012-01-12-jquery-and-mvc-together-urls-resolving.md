@@ -8,7 +8,6 @@ categories: [Development]
 tags: [JavaScript, JQuery, MVC]
 share: true
 redirect_from:
- - /2012/01/12/jquery-and-mvc-together-urls-resolving/
  - /2012-01-12-jquery-and-mvc-together-urls-resolving/
  - /development/jquery-and-mvc-together-urls-resolving/
 ---

@@ -8,7 +8,6 @@ categories: [Development]
 tags: [.Net, C#, Reactive Extensions]
 share: true
 redirect_from:
- - /2012/11/14/reactive-extensions-goes-open-source/
  - /2012-11-14-reactive-extensions-goes-open-source/
  - /development/reactive-extensions-goes-open-source/
 ---

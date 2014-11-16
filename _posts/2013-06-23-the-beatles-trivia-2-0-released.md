@@ -8,7 +8,6 @@ categories: [Development, Windows Phone]
 tags: [The Beatles, Trivia, Windows Phone]
 share: true
 redirect_from:
- - /2013/06/23/the-beatles-trivia-2-0-released/
  - /2013-06-23-the-beatles-trivia-2-0-released/
 ---
 After a long while, I finally came back to [The Beatles Trivia]({{site.url}}/windows-phone/trivia-games/the-beatles-trivia/)
