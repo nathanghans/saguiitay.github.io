@@ -10,6 +10,14 @@ tags: []
 
 # Projects
 
+## Dropbox REST API
+
+DropboxRestAPI is a C# client for Dropbox service through its RESTful API, with support for both the Core and the Business APIs.
+
+Dropbox haven't released an official .Net/C# library, but there are several alternatives, including mine, which can be found in their documentation page <https://www.dropbox.com/developers/core/sdks/other>
+
+<https://github.com/saguiitay/DropboxRestAPI>
+
 ## OneDrive REST API
 
 OneDriveRestAPI is a C# client for the Microsoft OneDrive service through its RESTful API.
