@@ -13,4 +13,4 @@ redirect_from:
 I've decided to start open-sourcing my Windows Phone apps. The first in line is [Billionaires](http://www.saguiitay.com/windows-phone/billionaires/), which
 is now available in GitHub: <https://github.com/saguiitay/Billionaires>
 
- You are more than welcome to send me feedback and comments on the code.
+You are more than welcome to send me feedback and comments on the code.
