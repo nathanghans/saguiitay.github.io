@@ -28,7 +28,7 @@ As part of my work, I've developed several apps and games for Microsoft's [Windo
 	</div>
 	{% if app.download_link %}
 	  <div class="pull-right">
-	    <a href="{{ download_link }}"><img src="{{ site.url }}/images/download-en-med2.png" /></a>
+	    <a href="{{ app.download_link }}"><img src="{{ site.url }}/images/download-en-med2.png" /></a>
 	  </div>
 	{% endif %}
   </div><!-- /.entry-content -->
