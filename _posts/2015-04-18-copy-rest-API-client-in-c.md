@@ -22,6 +22,8 @@ library and modified it based on my needs. My changes included:
   * Better error handling
   * Fully support the Copy REST API, as [documented](https://developers.copy.com/documentation)
   
+The source code is available here <https://github.com/saguiitay/CopyRestAPI> and the NuGetPackage here <https://www.nuget.org/packages/CopyRestAPI>
+
 Here's the sample code taken from the GitHub repository:
 
 {% highlight csharp %}
