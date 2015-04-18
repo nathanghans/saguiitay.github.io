@@ -10,6 +10,15 @@ tags: []
 
 # Projects
 
+## Copy REST API
+
+CopyRestAPI is a C# client for the Copy cloud storage service through its RESTful API.
+
+Copy haven't released an official .Net/C# library, but provide some third-party alternative, which can be found in their documentation page <https://developers.copy.com/libraries>
+
+<https://github.com/saguiitay/CopyRestAPI>
+
+
 ## Dropbox REST API
 
 DropboxRestAPI is a C# client for Dropbox service through its RESTful API, with support for both the Core and the Business APIs.
