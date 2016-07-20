@@ -38,8 +38,8 @@ bing_verify:  876AC79720358512EED988982C214385
 timezone:    America/New_York
 future:      true
 markdown: kramdown
-highlighter: pygments
-# highlighter: rouge
+# highlighter: pygments
+highlighter: rouge
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:year/:month/:day/:title/
