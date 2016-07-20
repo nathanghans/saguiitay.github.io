@@ -49,6 +49,10 @@ paginate_path: "page:num"
 
 gems: 
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
   
 kramdown:
   auto_ids: true
@@ -64,8 +68,29 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+include: 
+  - .htaccess
+exclude: 
+  - lib
+  - config.rb
+  - Capfile
+  - config
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - log
+  - Rakefile
+  - Rakefile.rb
+  - tmp
+  - less
+  - *.sublime-project
+  - *.sublime-workspace
+  - test
+  - spec
+  - Gruntfile.js
+  - package.json
+  - node_modules
 
 links:
   - url: /windows-phone/
