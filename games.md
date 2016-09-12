@@ -18,8 +18,8 @@ The Beatles Trivia is a unique trivia game based on a random questions generator
   - Questions based on 13 albums, 194 songs, 687 lyrics phrases, 45 quotes, events and more…
   - 13 types of questions
 
-![](./images/the-beatles-trivia-unity/Screenshot_20160912-210906.png)
+[![alt text][2]][1]
 
-![](./images/the-beatles-trivia-unity/Screenshot_20160912-210911.png)
+  [1]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-211315.png
+  [2]: ./images/the-beatles-trivia-unity/Screenshot_20160912-211315.png
 
-![](./images/the-beatles-trivia-unity/Screenshot_20160912-211315.png)
