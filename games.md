@@ -20,6 +20,14 @@ The Beatles Trivia is a unique trivia game based on a random questions generator
 
 [![alt text][2]][1]
 
+[![alt text][4]][3]
+
+[![alt text][6]][5]
+
   [1]: ./images/the-beatles-trivia-unity/Screenshot_20160912-211315.png
   [2]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-211315.png
+  [3]: ./images/the-beatles-trivia-unity/Screenshot_20160912-210906.png
+  [4]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-210906.png
+  [5]: ./images/the-beatles-trivia-unity/Screenshot_20160912-210911.png
+  [6]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-210911.png
 
