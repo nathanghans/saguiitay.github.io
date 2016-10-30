@@ -28,6 +28,7 @@ owner:
   # Background image to be tiled on all pages
 background: 
 
+
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-687220-5
 google_verify:      JGmgphcGsizvSbsgzcbPw2ycvcRov0Dvy-4273CLbFA
@@ -53,6 +54,8 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
+
   
 kramdown:
   auto_ids: true
