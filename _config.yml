@@ -46,7 +46,7 @@ highlighter: rouge
 permalink:   /:year/:month/:day/:title/
   
 paginate: 5
-paginate_path: "page:num"
+paginate_path: "/blog/page:num"
 
 gems: 
   - jekyll-redirect-from
