@@ -1,16 +1,21 @@
 # main links links
 main:
-  - title: "Home"
+  - 
+    title: "Home"
     url: /
 
-  - title: "Blog"
+  - 
+    title: "Blog"
     url: /blog/
     
-  - title: "Projects"
+  - 
+    title: "Projects"
     url: /projects/
     
-  - title: "Games"
+  - 
+    title: "Games"
     url: /games/
     
-   - title: "About"
+  - 
+    title: "About"
     url: /about/
