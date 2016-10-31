@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "About"
 date: 2011-12-30 12:22
 author: saguiitay
