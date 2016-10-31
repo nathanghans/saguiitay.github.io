@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "LongPath and UNC paths"
 date: 2012-01-13 20:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [File System, Path, UNC]
-share: true
 redirect_from:
  - /2012-01-13-longpath-and-unc-paths/
  - /development/longpath-and-unc-paths/

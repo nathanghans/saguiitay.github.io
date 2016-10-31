@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Quality Doesn't Just Happen"
 date: 2009-01-06 20:22
 author: saguiitay
-comments: true
 categories: [Reading, Development]
 tags: [Management]
-share: true
 redirect_from:
  - /2009-01-06-quality-doesnt-just-happen/
  - /development/quality-doesnt-just-happen/

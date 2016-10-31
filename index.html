@@ -1,37 +1,14 @@
 ---
-layout: post-index
-title: Homepage
-description: "Describe this nonsense."
-image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+layout: archive
+author_profile: true
 ---
 
-<div>
-  <div class="pull-right">
-    <header><h1 class="entry-title">BLOG</h1></header>
-    {% for post in site.posts limit:3 %}
-      <article class="hentry">
-        <header>
-          {% if post.link %}
-            <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="fa fa-angle-double-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h2>
-          {% else %}
-            <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h2>
-          {% endif %}
-        </header>
-        <div class="entry-meta">
-          <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}
-        </div><!-- /.entry-meta -->
-        <div class="entry-content">
-          {{ post.excerpt }}
-        </div><!-- /.entry-content -->
-      </article><!-- /.hentry -->
-    {% endfor %}
-  </div>
-  <div class="pull-right">
-    <header><h1 class="entry-title">PROJECTS</h1></header>
-  </div>
-</div>
+{% include base_path %}
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

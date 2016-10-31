@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "MurmurHash - a FAST hashing algorithm"
 date: 2014-10-17 16:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
   - /2014-10-17-murmurhash-a-fast-hashing-algorithm/
   - /development/murmurhash-a-fast-hashing-algorithm/

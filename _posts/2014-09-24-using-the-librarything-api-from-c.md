@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Using the LibraryThing API from C#"
 date: 2014-09-24 13:19
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, HttpClient, Library, LibraryThing]
-share: true
 redirect_from:
  - /2014-09-24-using-the-librarything-api-from-c/
  - /development/using-the-librarything-api-from-c/

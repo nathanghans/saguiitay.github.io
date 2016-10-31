@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Billionaires goes open source on GitHub"
 date: 2015-04-10 15:35
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Windows Phone, Billionaires]
-share: true
 redirect_from:
  - /2015-04-10-billionaires-goes-open-source/
 ---

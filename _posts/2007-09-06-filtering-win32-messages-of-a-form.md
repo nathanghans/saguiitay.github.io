@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Filtering Win32 messages of a form"
 date: 2007-09-06 12:12
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-09-06-filtering-win32-messages-of-a-form/
  - /development/filtering-win32-messages-of-a-form/

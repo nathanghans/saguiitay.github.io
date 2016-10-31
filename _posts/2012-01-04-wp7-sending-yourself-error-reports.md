@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "WP7: Sending yourself error reports"
 date: 2012-01-04 01:21
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Windows Phone]
-share: true
 redirect_from:
  - /2012-01-04-wp7-sending-yourself-error-reports/
  - /development/wp7-sending-yourself-error-reports/

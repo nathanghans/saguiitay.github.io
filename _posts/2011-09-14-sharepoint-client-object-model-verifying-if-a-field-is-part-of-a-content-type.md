@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SharePoint Client Object Model: Verifying if a Field is part of a Content Type"
 date: 2011-09-14 13:08
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
-share: true
 redirect_from:
  - /2011-09-14-sharepoint-client-object-model-verifying-if-a-field-is-part-of-a-content-type/
  - /development/sharepoint-client-object-model-verifying-if-a-field-is-part-of-a-content-type/

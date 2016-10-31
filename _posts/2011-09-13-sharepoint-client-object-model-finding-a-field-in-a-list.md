@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SharePoint Client Object Model: Finding a field in a list"
 date: 2011-09-13 13:05
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
-share: true
 redirect_from:
  - /2011-09-13-sharepoint-client-object-model-finding-a-field-in-a-list/
  - /development/sharepoint-client-object-model-finding-a-field-in-a-list/

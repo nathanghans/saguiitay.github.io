@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Windsor: Loading installers from the execution folder"
 date: 2011-09-10 13:52
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Windsor]
-share: true
 redirect_from:
  - /2011-09-10-windsor-loading-installers-from-the-execution-folder/
  - /development/windsor-loading-installers-from-the-execution-folder/

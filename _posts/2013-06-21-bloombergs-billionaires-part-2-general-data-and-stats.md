@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Bloomberg's Billionaires - Part 2: General data and stats"
 date: 2013-06-21 19:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [Billionaires, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-21-bloombergs-billionaires-part-2-general-data-and-stats/
  - /development/bloombergs-billionaires-part-2-general-data-and-stats/

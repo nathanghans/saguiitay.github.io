@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Making POST requests from withing a Windows Phone 8 Cordova project"
 date: 2013-08-12 15:16
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Cordova, JavaScript, PhoneGap, Windows Phone]
-share: true
 redirect_from:
  - /2013-08-12-making-post-requests-from-withing-a-windows-phone-8-cordova-project/
  - /development/making-post-requests-from-withing-a-windows-phone-8-cordova-project/

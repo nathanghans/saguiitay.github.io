@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Isolated storage"
 date: 2006-09-16 15:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2006-09-16-isolated-storage/
  - /development/isolated-storage/

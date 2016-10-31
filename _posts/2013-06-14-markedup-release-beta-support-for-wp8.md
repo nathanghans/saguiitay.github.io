@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "MarkedUp release beta support for WP8"
 date: 2013-06-14 16:58
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [MarkedUp, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-14-markedup-release-beta-support-for-wp8/
  - /development/markedup-release-beta-support-for-wp8/

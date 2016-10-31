@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SqlCE doesn't support TRUNCATE TABLE"
 date: 2007-10-01 15:54
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Databases, SqlCE]
-share: true
 redirect_from:
  - /2007-10-01-sqlce-doesnt-support-truncate-table/
  - /development/sqlce-doesnt-support-truncate-table/

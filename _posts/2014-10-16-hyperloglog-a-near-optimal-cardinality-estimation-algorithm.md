@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "HyperLogLog - a near-optimal cardinality estimation algorithm"
 date: 2014-10-16 18:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2014-10-16-hyperloglog-a-near-optimal-cardinality-estimation-algorithm/
  - /development/hyperloglog-a-near-optimal-cardinality-estimation-algorithm/

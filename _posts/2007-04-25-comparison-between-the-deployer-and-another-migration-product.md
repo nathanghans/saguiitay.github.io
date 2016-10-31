@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Comparison between the Deployer and another migration product"
 date: 2007-04-25 12:38
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [SharePoint, Tzunami]
-share: true
 redirect_from:
  - /2007-04-25-comparison-between-the-deployer-and-another-migration-product/
  - /development/comparison-between-the-deployer-and-another-migration-product/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "DebbugerDisplayAttribute"
 date: 2006-12-21 15:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2006-12-21-debbugerdisplayattribute/
  - /development/debbugerdisplayattribute/

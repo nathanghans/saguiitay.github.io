@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Bloomberg's Billionaires - Part 3: Getting images"
 date: 2013-06-27 00:27
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Billionaires, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-27-bloombergs-billionaires-part-3-getting-images/
  - /development/bloombergs-billionaires-part-3-getting-images/

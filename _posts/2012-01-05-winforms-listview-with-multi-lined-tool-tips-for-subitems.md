@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "WinForms: ListView with Multi-lined tool-tips for SubItems"
 date: 2012-01-05 16:06
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, WinForms, ListView]
-share: true
 redirect_from:
  - /2012-01-05-winforms-listview-with-multi-lined-tool-tips-for-subitems/
  - /development/winforms-listview-with-multi-lined-tool-tips-for-subitems/

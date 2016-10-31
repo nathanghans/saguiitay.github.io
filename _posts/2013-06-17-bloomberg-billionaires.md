@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Bloomberg Billionaires"
 date: 2013-06-17 13:10
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Billionaires, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-17-bloomberg-billionaires/
  - /development/bloomberg-billionaires/

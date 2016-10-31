@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Writing an IsApplicationRunning method"
 date: 2007-09-06 09:06
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2007-09-06-writing-an-isapplicationrunning-method/
  - /development/writing-an-isapplicationrunning-method/

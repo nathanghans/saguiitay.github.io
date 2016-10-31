@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Throttling HttpClient requests"
 date: 2014-05-05 15:43
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Development]
-share: true
 redirect_from:
  - /2014-05-05-throttling-httpclient-requests/
  - /development/throttling-httpclient-requests/

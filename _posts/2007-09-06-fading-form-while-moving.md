@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Fading form while moving"
 date: 2007-09-06 09:14
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-09-06-fading-form-while-moving/
  - /development/fading-form-while-moving/

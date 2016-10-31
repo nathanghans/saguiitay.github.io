@@ -1,13 +1,10 @@
 
 ---
-layout: post
 title: "Customizing the Header of Telerik's PickerBox"
 date: 2013-11-06 20:26
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Telerik, Windows Phone]
-share: true
 redirect_from:
  - /2013-11-06-customizing-the-header-of-teleriks-pickerbox/
  - /development/customizing-the-header-of-teleriks-pickerbox/

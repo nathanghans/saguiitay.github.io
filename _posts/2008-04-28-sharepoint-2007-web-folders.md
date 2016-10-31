@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SharePoint 2007 Web Folders"
 date: 2008-04-28 12:21
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [SharePoint, Web Folder]
-share: true
 redirect_from:
  - /2008-04-28-sharepoint-2007-web-folders/
  - /development/sharepoint-2007-web-folders/

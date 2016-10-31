@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Error while using HttpClient's AutomaticDecompression in Portable Libraries"
 date: 2013-08-23 12:45
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [C#, HttpClient, Portable Library]
-share: true
 redirect_from:
  - /2013-08-23-error-while-using-httpclients-automaticdecompression-in-portable-libraries/
  - /development/error-while-using-httpclients-automaticdecompression-in-portable-libraries/

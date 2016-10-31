@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Peopleware"
 date: 2008-06-03 00:05
 author: saguiitay
-comments: true
 categories: [Reading, Development]
 tags: []
-share: true
 redirect_from:
  - /2008-06-03-peopleware/
  - /reading/peopleware/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "WP7 Books: My first WP7 application"
 date: 2011-12-31 17:22
 author: saguiitay
-comments: true
 categories: [Windows Phone]
 tags: [Windows Phone]
-share: true
 redirect_from:
  - /2011-12-31-wp7-books-my-first-wp7-application/
 ---

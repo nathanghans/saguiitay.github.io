@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Windsor Factories and Obfuscation"
 date: 2011-03-02 17:03
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Obfuscation, Windsor]
-share: true
 redirect_from:
  - /2011-03-02-windsor-factories-and-obfuscation/
  - /development/windsor-factories-and-obfuscation/

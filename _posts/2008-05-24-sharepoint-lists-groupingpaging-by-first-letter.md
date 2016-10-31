@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SharePoint Lists: Grouping/Paging by first letter"
 date: 2008-05-24 21:08
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [SharePoint]
-share: true
 redirect_from:
  - /2008-05-24-sharepoint-lists-groupingpaging-by-first-letter/
  - /development/sharepoint-lists-groupingpaging-by-first-letter/

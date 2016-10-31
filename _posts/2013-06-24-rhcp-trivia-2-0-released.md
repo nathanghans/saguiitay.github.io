@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "RHCP Trivia 2.0 released"
 date: 2013-06-24 20:40
 author: saguiitay
-comments: true
 categories: [Windows Phone]
 tags: [Red Hot Chilli Peppers, Trivia, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-24-rhcp-trivia-2-0-released/
 ---

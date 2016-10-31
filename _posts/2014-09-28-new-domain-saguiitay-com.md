@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "New Domain - saguiitay.com"
 date: 2014-09-28 21:35
 author: saguiitay
-comments: true
 categories: [Blog]
 tags: [Jekyll, Github Pages]
-share: true
 redirect_from:
  - /2014-09-28-new-domain-saguiitay-com/
  - /development/new-domain-saguiitay-com/

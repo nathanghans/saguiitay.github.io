@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "jQuery and MVC together - URLs resolving"
 date: 2012-01-12 22:47
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [JavaScript, JQuery, MVC]
-share: true
 redirect_from:
  - /2012-01-12-jquery-and-mvc-together-urls-resolving/
  - /development/jquery-and-mvc-together-urls-resolving/

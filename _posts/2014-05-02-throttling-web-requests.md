@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Throttling web requests"
 date: 2014-05-02 15:42
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Cloudsfer]
-share: true
 redirect_from:
  - /2014-05-02-throttling-web-requests/
  - /development/throttling-web-requests/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Microsoft SharePoint Products and Technologies Team Blog : Don't miss the announcements by Bill Gates to kick off the SharePoint Conference!"
 date: 2008-03-03 13:22
 author: saguiitay
-comments: true
 categories: []
 tags: [SharePoint, Tzunami]
-share: true
 redirect_from:
  - /2008-03-03-microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/
  - /development/microsoft-sharepoint-products-and-technologies-team-blog-dont-miss-the-announcements-by-bill-gates-to-kick-off-the-sharepoint-conference/

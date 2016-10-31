@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "TFS: Undo another user's check-out files"
 date: 2011-02-08 10:07
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [TFS]
-share: true
 redirect_from:
  - /2011-02-08-tfs-undo-another-users-check-out-files/
  - /development/tfs-undo-another-users-check-out-files/

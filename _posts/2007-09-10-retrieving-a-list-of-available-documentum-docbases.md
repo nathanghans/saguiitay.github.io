@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Retrieving a list of available Documentum DocBases"
 date: 2007-09-10 18:42
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Documentum]
-share: true
 redirect_from:
  - /2007-09-10-retrieving-a-list-of-available-documentum-docbases/
  - /development/retrieving-a-list-of-available-documentum-docbases/

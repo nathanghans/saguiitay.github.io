@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Bloomberg's Billionaires - Part 4: Accessing Billionaires' details data"
 date: 2013-07-01 22:07
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Billionaires, Windows Phone]
-share: true
 redirect_from:
  - /2013-07-01-bloombergs-billionaires-part-4-accessing-billionaires-details-data/
  - /development/bloombergs-billionaires-part-4-accessing-billionaires-details-data/

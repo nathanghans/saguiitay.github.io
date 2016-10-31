@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Populating a TreeView with Outlook folders"
 date: 2007-09-06 19:03
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, CDO, MAPI, Outlook]
-share: true
 redirect_from:
  - /2007-09-06-populating-a-treeview-with-outlook-folders/
  - /development/populating-a-treeview-with-outlook-folders/

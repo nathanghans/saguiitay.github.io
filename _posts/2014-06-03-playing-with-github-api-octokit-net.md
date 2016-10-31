@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Playing with GitHub API - Octokit.Net"
 date: 2014-06-03 14:02
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GitHub]
-share: true
 redirect_from:
  - /2014-06-03-playing-with-github-api-octokit-net/
  - /development/playing-with-github-api-octokit-net/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Israeli Basketball teams Apps"
 date: 2013-09-23 23:24
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Basketball, MAccabi Tel Aviv, Telerik, Windows Phone]
-share: true
 redirect_from:
  - /2013-09-23-israeli-basketball-teams-apps/
  - /development/israeli-basketball-teams-apps/

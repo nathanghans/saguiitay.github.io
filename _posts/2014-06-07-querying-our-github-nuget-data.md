@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Querying our GitHub &amp; NuGet data"
 date: 2014-06-07 16:27
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [GitHub, NuGet, RavenDb]
-share: true
 redirect_from:
  - /2014-06-07-querying-our-github-nuget-data/
  - /development/querying-our-github-nuget-data/

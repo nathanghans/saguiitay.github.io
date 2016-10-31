@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "MVC DateTime editor"
 date: 2012-01-16 14:31
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [ASP.NET, ASP.NET MVC Framework, JQuery]
-share: true
 redirect_from:
  - /2012-01-16-mvc-datetime-editor/
  - /development/mvc-datetime-editor/

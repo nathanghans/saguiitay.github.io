@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "HTTP Services With WCF 4 and Windsor"
 date: 2011-09-16 12:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, WCF, Windsor]
-share: true
 redirect_from:
  - /2011-09-16-http-services-with-wcf-4-and-windsor/
  - /development/http-services-with-wcf-4-and-windsor/

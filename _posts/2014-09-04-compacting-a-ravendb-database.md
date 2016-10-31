@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Compacting a RavenDb database"
 date: 2014-09-04 20:07
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [RavenDb]
-share: true
 redirect_from:
  - /2014-09-04-compacting-a-ravendb-database/
  - /development/compacting-a-ravendb-database/

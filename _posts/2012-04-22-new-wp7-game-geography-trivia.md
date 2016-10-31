@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "New WP7 game - Geography Trivia"
 date: 2012-04-22 10:23
 author: saguiitay
-comments: true
 categories: [Windows Phone]
 tags: [Games, Geography, Trivia, Windows Phone]
-share: true
 redirect_from:
  - /2012-04-22-new-wp7-game-geography-trivia/
 ---

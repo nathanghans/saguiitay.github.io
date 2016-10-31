@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Updating GUI from different threads"
 date: 2007-09-06 12:16
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-09-06-updating-gui-from-different-threads/
  - /development/updating-gui-from-different-threads/

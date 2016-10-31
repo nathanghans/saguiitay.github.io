@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Version comments for a Documentum object"
 date: 2009-01-08 11:34
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Documentum]
-share: true
 redirect_from:
  - /2009-01-08-version-comments-for-a-documentum-object/
  - /development/version-comments-for-a-documentum-object/

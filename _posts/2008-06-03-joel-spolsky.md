@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Joel Spolsky"
 date: 2008-06-03 03:17
 author: saguiitay
-comments: true
 categories: [Reading, Development]
 tags: []
-share: true
 redirect_from:
  - /2008-06-03-joel-spolsky/
  - /development/joel-spolsky/

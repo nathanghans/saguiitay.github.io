@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Using ComboBox with objects"
 date: 2007-09-04 12:19
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-09-04-using-combobox-with-objects/
  - /development/using-combobox-with-objects/

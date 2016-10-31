@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Microsoft Connect() announcements"
 date: 2014-11-13 19:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2014-08-20-microsoft-connect-announcements/
  - /development/microsoft-connect-announcements/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Sending rich emails using RazorEngine - advanced templates"
 date: 2013-08-18 13:08
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [C#, Email, MVC, RazorEngine]
-share: true
 redirect_from:
  - /2013-08-18-sending-rich-emails-using-razorengine-advanced-templates/
  - /development/sending-rich-emails-using-razorengine-advanced-templates/

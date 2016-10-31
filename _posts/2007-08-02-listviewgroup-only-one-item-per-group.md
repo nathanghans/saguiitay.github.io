@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "ListViewGroup - only one item per group"
 date: 2007-08-02 08:35
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-08-02-listviewgroup-only-one-item-per-group/
  - /development/listviewgroup-only-one-item-per-group/

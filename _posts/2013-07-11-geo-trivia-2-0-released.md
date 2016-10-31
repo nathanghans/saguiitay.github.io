@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Geo Trivia 2.0 Released!"
 date: 2013-07-11 18:20
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Geo Trivia, geography, Trivia, Windows Phone]
-share: true
 redirect_from:
  - /2013-07-11-geo-trivia-2-0-released/
  - /development/geo-trivia-2-0-released/

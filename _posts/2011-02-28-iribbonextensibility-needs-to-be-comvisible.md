@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "IRibbonExtensibility needs to be ComVisible"
 date: 2011-02-28 16:55
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Outlook, VSTO]
-share: true
 redirect_from:
  - /2011-02-28-iribbonextensibility-needs-to-be-comvisible/
  - /development/iribbonextensibility-needs-to-be-comvisible/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "INotifyPropertyChanged, the Anders Hejlsberg Way | Dan Rigby"
 date: 2012-01-15 15:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2012-01-15-inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/
  - /development/inotifypropertychanged-the-anders-hejlsberg-way-dan-rigby/

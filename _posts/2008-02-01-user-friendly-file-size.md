@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "User friendly file size"
 date: 2008-02-01 15:52
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2008-02-01-user-friendly-file-size/
  - /development/user-friendly-file-size/

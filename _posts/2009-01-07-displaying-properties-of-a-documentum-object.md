@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Displaying properties of a Documentum object"
 date: 2009-01-07 23:09
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Documentum]
-share: true
 redirect_from:
  - /2009-01-07-displaying-properties-of-a-documentum-object/
  - /development/displaying-properties-of-a-documentum-object/

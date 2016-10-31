@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Attaching debugger at runtime in .Net"
 date: 2013-07-10 14:04
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Debugger]
-share: true
 redirect_from:
  - /2013-07-10-attaching-debugger-at-runtime-in-net/
  - /development/attaching-debugger-at-runtime-in-net/

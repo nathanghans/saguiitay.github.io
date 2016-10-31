@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Library updated to version 1.6"
 date: 2014-05-11 20:38
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Library, Windows Phone]
-share: true
 redirect_from:
  - /2014-05-11-library-updated-to-version-1-6/
  - /development/library-updated-to-version-1-6/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Azure Mobile Services: Truncate table in Scheduler"
 date: 2014-10-18 15:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [Azure, Mobile Services]
-share: true
 redirect_from:
  - /2014-08-20-azure-mobile-services-truncate-table-in-scheduler/
  - /development/azure-mobile-services-truncate-table-in-scheduler/

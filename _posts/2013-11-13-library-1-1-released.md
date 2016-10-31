@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Library 1.1 Released"
 date: 2013-11-13 20:04
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Goodreads, Library, Windows Phone]
-share: true
 redirect_from:
  - /2013-11-13-library-1-1-released/
  - /development/library-1-1-released/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Getting all NuGet packages used by a GitHub repository"
 date: 2014-06-04 14:29
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GitHub, NuGet]
-share: true
 redirect_from:
  - /2014-06-04-getting-all-nuget-packages-used-by-a-github-repository/
  - /development/getting-all-nuget-packages-used-by-a-github-repository/

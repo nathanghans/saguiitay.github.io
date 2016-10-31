@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Creating a user in Documentum"
 date: 2007-08-02 18:38
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [Documentum]
-share: true
 redirect_from:
  - /2007-08-02-creating-a-user-in-documentum/
  - /development/creating-a-user-in-documentum/

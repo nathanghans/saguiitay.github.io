@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "NDepend - impressions and review"
 date: 2014-09-20 20:09
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, NDepend, Review]
-share: true
 redirect_from:
  - /2014-09-20-ndepend-impressions-and-review/
  - /development/ndepend-impressions-and-review/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "SharePoint Client Object Model: Adding a Site Column only if it does not already exist"
 date: 2011-09-15 13:14
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Client Object Model, SharePoint]
-share: true
 redirect_from:
  - /2011-09-15-sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/
  - /development/sharepoint-client-object-model-adding-a-site-column-only-if-it-does-not-already-exist/

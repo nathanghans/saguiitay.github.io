@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Copy Rest API client in C#"
 date: 2015-04-18 16:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Copy]
-share: true
 redirect_from:
  - /2015-04-18-copy-rest-API-client-in-c/
  - /development/copy-rest-API-client-in-c/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Cap'n Proto - a call to action"
 date: 2014-11-16 17:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2014-11-16-cap-n-proto-a-call-to-action/
  - /development/cap-n-proto-a-call-to-action/

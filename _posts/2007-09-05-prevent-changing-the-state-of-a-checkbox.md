@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Prevent changing the state of a CheckBox"
 date: 2007-09-05 12:18
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, GUI]
-share: true
 redirect_from:
  - /2007-09-05-prevent-changing-the-state-of-a-checkbox/
  - /development/prevent-changing-the-state-of-a-checkbox/

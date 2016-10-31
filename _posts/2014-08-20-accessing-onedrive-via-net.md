@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Accessing OneDrive via .Net"
 date: 2014-08-20 15:34
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, NuGet, OneDrive, REST, SkyDrive]
-share: true
 redirect_from:
  - /2014-08-20-accessing-onedrive-via-net/
  - /development/accessing-onedrive-via-net/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Available Now: MarkedUp Analytics for Windows Phone 8"
 date: 2013-06-26 10:32
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, MarkedUp, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-26-available-now-markedup-analytics-for-windows-phone-8/
  - /development/available-now-markedup-analytics-for-windows-phone-8/

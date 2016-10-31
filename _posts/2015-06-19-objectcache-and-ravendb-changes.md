@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "ObjectCache and RavenDB Changes"
 date: 2015-06-19 16:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, RavenDb]
-share: true
 redirect_from:
  - /2015-06-19-objectcache-and-ravendb-changes/
  - /development/objectcache-and-ravendb-changes/

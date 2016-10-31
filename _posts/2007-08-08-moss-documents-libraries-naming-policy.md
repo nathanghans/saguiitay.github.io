@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "MOSS Documents Libraries naming policy"
 date: 2007-08-08 12:33
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [SharePoint]
-share: true
 redirect_from:
  - /2007-08-08-moss-documents-libraries-naming-policy/
  - /development/moss-documents-libraries-naming-policy/

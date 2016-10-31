@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Library 1.3 Released"
 date: 2013-12-10 21:54
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Library, Windows Phone]
-share: true
 redirect_from:
  - /2013-12-10-library-1-3-released/
  - /development/library-1-3-released/

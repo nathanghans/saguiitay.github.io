@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "WordprocessingML: Part 1"
 date: 2009-01-21 21:32
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, OpenXML, WordprocessingML]
-share: true
 redirect_from:
  - /2009-01-21-wordprocessingml-part-1/
  - /development/wordprocessingml-part-1/

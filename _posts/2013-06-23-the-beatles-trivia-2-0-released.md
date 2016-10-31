@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "The Beatles Trivia 2.0 released"
 date: 2013-06-23 20:32
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [The Beatles, Trivia, Windows Phone]
-share: true
 redirect_from:
  - /2013-06-23-the-beatles-trivia-2-0-released/
 ---

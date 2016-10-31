@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Allowing timeout on long-running operations - possible bug - Miscellaneous Debris"
 date: 2007-09-29 15:55
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2007-09-29-allowing-timeout-on-long-running-operations-possible-bug-miscellaneous-debris/
  - /development/allowing-timeout-on-long-running-operations-possible-bug-miscellaneous-debris/

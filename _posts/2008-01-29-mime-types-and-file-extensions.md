@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "MIME Types and File Extensions"
 date: 2008-01-29 15:53
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2008-01-29-mime-types-and-file-extensions/
  - /development/mime-types-and-file-extensions/

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Billionaires - the App"
 date: 2013-07-08 13:03
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [Billionaires, Windows Phone]
-share: true
 redirect_from:
  - /2013-07-08-billionaires-the-app/
  - /development/billionaires-the-app/

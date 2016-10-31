@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "New website"
 date: 2014-10-06 21:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net]
-share: true
 redirect_from:
  - /2014-10-06-new-website/
 ---

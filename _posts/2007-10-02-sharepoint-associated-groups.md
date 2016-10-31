@@ -1,11 +1,8 @@
 ---
-layout: post
 title: "SharePoint Associated groups"
 date: 2007-10-02 13:25
 author: saguiitay
-comments: true
 tags: [SharePoint]
-share: true
 redirect_from:
  - /2007-10-02-sharepoint-associated-groups/
  - /development/sharepoint-associated-groups/

@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "TechEd 2008: Wait for me...."
 date: 2008-05-23 20:48
 author: saguiitay
-comments: true
 categories: [Personal]
 tags: [Microsoft,  TechEd]
 redirect_from:

@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Text Wrapping in Telerik's HubTile"
 date: 2013-11-08 17:45
 author: saguiitay
-comments: true
 categories: [Development, Windows Phone]
 tags: [.Net, Telerik, Windows Phone]
-share: true
 redirect_from:
  - /2013/11/08/text-wrapping-in-teleriks-hubtile/
  - /2013-11-08-text-wrapping-in-teleriks-hubtile/

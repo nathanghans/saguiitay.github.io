@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Don't name the URL for a sub-site 'CON' in MOSS 2007 - mindykelly's blog"
 date: 2007-11-19 13:23
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [SharePoint]
 redirect_from:

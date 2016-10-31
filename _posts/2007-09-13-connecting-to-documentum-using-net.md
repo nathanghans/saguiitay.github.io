@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Connecting to Documentum using .Net"
 date: 2007-09-13 21:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Documentum]
-share: true
 redirect_from:
  - /2007-09-13-connecting-to-documentum-using-net/
  - /development/connecting-to-documentum-using-net/

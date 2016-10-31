@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "KnockoutJS Mapping plugin to the rescue"
 date: 2014-09-29 20:47
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [JavaScript, KnockoutJS]
-share: true
 redirect_from:
  - /2014-09-29-knockoutjs-mapping-plugin-to-the-rescue/
  - /development/knockoutjs-mapping-plugin-to-the-rescue/

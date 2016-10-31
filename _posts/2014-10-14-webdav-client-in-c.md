@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "WebDAV client in C#"
 date: 2014-10-14 20:58
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, WebDAV]
-share: true
 redirect_from:
  - /2014-10-14-webdav-client-in-c/
  - /development/webdav-client-in-c/

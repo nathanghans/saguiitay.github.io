@@ -1,12 +1,9 @@
 ---
-layout: post
 title: Playing with Google Charts and experiencing in web development
 date: 2015-05-31 16:00
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [.Net, Copy]
-share: true
 redirect_from:
  - /2015-05-31-playing-with-google-charts-and-dipping-in-web-dev/
  - /development/playing-with-google-charts-and-dipping-in-web-dev/

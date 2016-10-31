@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "NServiceBus, Sagas and events"
 date: 2012-04-21 17:31
 author: saguiitay
-comments: true
 categories: [Development]
 tags: [NServiceBus]
-share: true
 redirect_from:
  - /2012-04-21-nservicebus-sagas-and-events/
  - /development/nservicebus-sagas-and-events/
