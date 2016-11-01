@@ -1,6 +1,8 @@
 ---
 title: "The Beatles Trivia for Android"
 excerpt: "The Beatles Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about The Beatles, their albums, songs, and lyrics."
+header:
+  teaser: the-beatles-trivia\android\Icon.png
 sidebar:
   - title: The Beatles Trivia for Android
     image: the-beatles-trivia\android\Icon.png
