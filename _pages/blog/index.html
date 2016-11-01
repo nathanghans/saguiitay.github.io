@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+permalink: /blog/
 ---
 
 {% include base_path %}
