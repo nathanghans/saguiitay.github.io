@@ -1,33 +1,30 @@
 ---
-layout: page
+layout: archive
 title: "Games"
 date: 2011-12-30 12:22
-author: saguiitay
-permalink: /games
+permalink: /games/
+author_profile: false
+feature_row:
+  - image_path: unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-### The Beatles Trivia
+{% include base_path %}
 
-The Beatles Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about The Beatles, their albums, songs, and lyrics.
-
-## Features
-
-  - Exceedingly simple and elegant
-  - Thousands of questions
-  - Unique random questions engine
-  - Questions based on 13 albums, 194 songs, 687 lyrics phrases, 45 quotes, events and more…
-  - 13 types of questions
-
-[![alt text][2]][1]
-
-[![alt text][4]][3]
-
-[![alt text][6]][5]
-
-  [1]: ./images/the-beatles-trivia-unity/Screenshot_20160912-211315.png
-  [2]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-211315.png
-  [3]: ./images/the-beatles-trivia-unity/Screenshot_20160912-210906.png
-  [4]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-210906.png
-  [5]: ./images/the-beatles-trivia-unity/Screenshot_20160912-210911.png
-  [6]: ./images/the-beatles-trivia-unity/Small_Screenshot_20160912-210911.png
-
+<div class="grid__wrapper">
+  {% for post in site.games %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
