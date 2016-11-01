@@ -266,3 +266,4 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
+    
