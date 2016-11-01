@@ -251,3 +251,18 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+  # _games
+  - 
+    scope:
+      path: ""
+      type: games
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+collections:
+  games:
+    output: true
+    permalink: /:collection/:path/
