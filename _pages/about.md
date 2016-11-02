@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "About"
-date: 2011-12-30 12:22
+date: 2016-11-2 12:22
 author: saguiitay
 permalink: /about/
+author_profile: true
 ---
 My name is Itay Sagui. I'm a [programmer](http://www.github.com/saguiitay), and a books enthusiast. I work at [Microsoft](http://www.microsoft.com) as a Senior Software Engineer. Before that, I was the VP of R&D  at [Tzunami Inc.](http://www.tzunami.com), but **this blog, its content and opinions are my own**.
 
