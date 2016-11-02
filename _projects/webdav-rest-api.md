@@ -1,16 +1,17 @@
 ---
 title: "WebDAV REST API"
 excerpt: "Strongly-typed, async WebDAV Client implementation in C#."
+author_profile: false
 header:
   teaser: github-logo.png
 sidebar:
-  - title: GitHub
+  - title: 
     text: "[GitHub](https://github.com/saguiitay/WebDAVClient){: .btn .btn--large .btn--success}"
-  - title: Nuget
+  - title: 
     text: "[NuGet](https://www.nuget.org/packages/WebDAVClient/){: .btn .btn--large .btn--success}"
 ---
 
-WebDAVClient is based originally on https://github.com/kvdb/WebDAVClient, with the addition of Async support, as well strong-types responses.
+WebDAVClient is based originally on [https://github.com/kvdb/WebDAVClient](https://github.com/kvdb/WebDAVClient), with the addition of Async support, as well strong-types responses.
 
 ## Nuget Package
 
