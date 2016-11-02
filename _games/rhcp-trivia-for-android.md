@@ -7,7 +7,7 @@ sidebar:
   - title: RHCP Trivia for Android
     image: rhcp-trivia\android\Icon.png
     image_alt: RHCP Trivia for Android
-	text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--large .btn--success}"
+    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--large .btn--success}"
 gallery:
   - url: rhcp-trivia\android\Screenshot1.jpg
     image_path: rhcp-trivia\android\Screenshot1.jpg

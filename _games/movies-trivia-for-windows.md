@@ -42,7 +42,7 @@ Movies Trivia is a unique trivia game based on a random questions generator engi
   - Questions based on 540 movies, 1349 actors, 1201 images, 565 characters, 474 taglines, 223 directors, 504 awards and more…
   - 25 types of questions
   
-[Download from Google Play](https://www.microsoft.com/en-us/store/p/movies-trivia/9nblggh081x0){: .btn .btn--x-large .btn--success}
+[Download from Windows Store](https://www.microsoft.com/en-us/store/p/movies-trivia/9nblggh081x0){: .btn .btn--x-large .btn--success}
   
 ## Screenshots
 

@@ -7,7 +7,7 @@ sidebar:
   - title: RHCP Trivia for Windows
     image: rhcp-trivia\windows\Icon.png
     image_alt: RHCP Trivia for Windows
-	text: "[Download](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--large .btn--success}"
+    text: "[Download](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--large .btn--success}"
 gallery:
   - url: rhcp-trivia\windows\Screenshot1.png
     image_path: rhcp-trivia\windows\Screenshot1.png
@@ -31,7 +31,7 @@ RHCP Trivia is a unique trivia game based on a random questions generator engine
   - 9 types of questions
 
   
-[Download from Google Play](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--x-large .btn--success}
+[Download from Windows Store](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--x-large .btn--success}
   
 ## Screenshots
 
