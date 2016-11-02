@@ -4,6 +4,10 @@ main:
     url: /
     
   - 
+    title: "Blog"
+    url: /blog/
+    
+  - 
     title: "Projects"
     url: /projects/
     
