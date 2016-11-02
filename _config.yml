@@ -13,7 +13,7 @@ name                     : "Itay Sagui"
 description              : "My name is Itay Sagui. I'm a software developer, music and literature lover."
 url                      : http://www.saguiitay.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-blogurl                  : blog/ # the subpath of your blog, e.g. "/blog"
+blogurl                  : /blog # the subpath of your blog, e.g. "/blog"
 repository               : saguiitay/saguiitay.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
