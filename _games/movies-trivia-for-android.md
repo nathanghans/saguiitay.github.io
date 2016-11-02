@@ -7,6 +7,7 @@ sidebar:
   - title: Movies Trivia for Android
     image: movies-trivia\android\Icon.png
     image_alt: Movies Trivia for Android
+    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--success}"
 gallery:
   - url: movies-trivia\android\Screenshot1.png
     image_path: movies-trivia\android\Screenshot1.png
