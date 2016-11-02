@@ -6,7 +6,7 @@ header:
 sidebar:
   - title: GitHub
     text: "[GitHub](https://github.com/saguiitay/WebDAVClient){: .btn .btn--large .btn--success}"
-  - Nuget
+  - title: Nuget
     text: "[NuGet](https://www.nuget.org/packages/WebDAVClient/){: .btn .btn--large .btn--success}"
 ---
 
