@@ -7,7 +7,7 @@ sidebar:
   - title: Movies Trivia for Android
     image: movies-trivia\android\Icon.png
     image_alt: Movies Trivia for Android
-    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--success}"
+    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--large .btn--success}"
 gallery:
   - url: movies-trivia\android\Screenshot1.png
     image_path: movies-trivia\android\Screenshot1.png
@@ -46,5 +46,7 @@ Movies Trivia is a unique trivia game based on a random questions generator engi
   - 25 types of questions
   
 [Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--x-large .btn--success}
-  
+ 
+## Screenshots
+
 {% include gallery %}

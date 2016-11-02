@@ -7,6 +7,7 @@ sidebar:
   - title: The Beatles Trivia for Android
     image: the-beatles-trivia\android\Icon.png
     image_alt: The Beatles Trivia for Android
+	text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.BeatlesTrivia){: .btn .btn--large .btn--success}"
 gallery:
   - url: the-beatles-trivia\android\Screenshot1.png
     image_path: the-beatles-trivia\android\Screenshot1.png
@@ -32,4 +33,6 @@ The Beatles Trivia is a unique trivia game based on a random questions generator
   
 [Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.BeatlesTrivia){: .btn .btn--x-large .btn--success}
   
+## Screenshots
+
 {% include gallery %}

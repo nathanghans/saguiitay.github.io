@@ -7,6 +7,7 @@ sidebar:
   - title: Geography Trivia for Android
     image: geo-trivia\android\Icon.png
     image_alt: The Beatles Trivia for Android
+    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia){: .btn .btn--large .btn--success}"
 gallery:
   - url: geo-trivia\android\Screenshot1.png
     image_path: geo-trivia\android\Screenshot1.png
@@ -46,4 +47,6 @@ Geography Trivia is a unique trivia game based on a random questions generator e
   
 [Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia){: .btn .btn--x-large .btn--success}
   
+## Screenshots
+
 {% include gallery %}

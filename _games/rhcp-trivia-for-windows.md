@@ -1,22 +1,22 @@
 ---
-title: "RHCP Trivia for Android"
+title: "RHCP Trivia for Windows"
 excerpt: "RHCP is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about the RHCP, their albums, songs, and lyrics."
 header:
-  teaser: rhcp-trivia\android\Icon.png
+  teaser: rhcp-trivia\windows\Icon.png
 sidebar:
-  - title: RHCP Trivia for Android
-    image: rhcp-trivia\android\Icon.png
-    image_alt: RHCP Trivia for Android
-	text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--large .btn--success}"
+  - title: RHCP Trivia for Windows
+    image: rhcp-trivia\windows\Icon.png
+    image_alt: RHCP Trivia for Windows
+	text: "[Download](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--large .btn--success}"
 gallery:
-  - url: rhcp-trivia\android\Screenshot1.jpg
-    image_path: rhcp-trivia\android\Screenshot1.jpg
+  - url: rhcp-trivia\windows\Screenshot1.png
+    image_path: rhcp-trivia\windows\Screenshot1.png
     alt: "Screenshot 1"
-  - url: rhcp-trivia\android\Screenshot2.jpg
-    image_path: rhcp-trivia\android\Screenshot2.jpg
+  - url: rhcp-trivia\windows\Screenshot2.png
+    image_path: rhcp-trivia\windows\Screenshot2.png
     alt: "Screenshot 2"
-  - url: rhcp-trivia\android\Screenshot3.jpg
-    image_path: rhcp-trivia\android\Screenshot3.jpg
+  - url: rhcp-trivia\windows\Screenshot3.png
+    image_path: rhcp-trivia\windows\Screenshot3.png
     alt: "Screenshot 3"
 ---
 
@@ -31,7 +31,7 @@ RHCP Trivia is a unique trivia game based on a random questions generator engine
   - 9 types of questions
 
   
-[Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--x-large .btn--success}
+[Download from Google Play](https://www.microsoft.com/en-us/store/p/rhcp-trivia/9nblggh0k3xb){: .btn .btn--x-large .btn--success}
   
 ## Screenshots
 
