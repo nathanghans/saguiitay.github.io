@@ -7,7 +7,7 @@ sidebar:
   - title: Geography Trivia for Android
     image: geo-trivia\android\Icon.png
     image_alt: The Beatles Trivia for Android
-    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia){: .btn .btn--large .btn--success}"
+    text: "[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia)"
 gallery:
   - url: geo-trivia\android\Screenshot1.png
     image_path: geo-trivia\android\Screenshot1.png
@@ -45,7 +45,7 @@ Geography Trivia is a unique trivia game based on a random questions generator e
   - Questions based on 221 countries, 1153 cities, 249 images, 11 seas, 140 languages, 83 POIs, 81 currencies, 6 religions and more…
   - 29 types of questions
   
-[Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia){: .btn .btn--x-large .btn--success}
+[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.GeoTrivia)
   
 ## Screenshots
 
