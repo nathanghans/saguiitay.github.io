@@ -2,7 +2,7 @@
 layout: archive
 title: "Games"
 permalink: /games/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
