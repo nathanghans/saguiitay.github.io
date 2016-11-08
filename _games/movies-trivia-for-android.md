@@ -7,7 +7,7 @@ sidebar:
   - title: Movies Trivia for Android
     image: movies-trivia\android\Icon.png
     image_alt: Movies Trivia for Android
-    text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--large .btn--success}"
+    text: "[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia)"
 gallery:
   - url: movies-trivia\android\Screenshot1.png
     image_path: movies-trivia\android\Screenshot1.png
@@ -45,7 +45,7 @@ Movies Trivia is a unique trivia game based on a random questions generator engi
   - Questions based on 540 movies, 1349 actors, 1201 images, 565 characters, 474 taglines, 223 directors, 504 awards and more…
   - 25 types of questions
   
-[Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia){: .btn .btn--x-large .btn--success}
+[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.MoviesTrivia)
  
 ## Screenshots
 

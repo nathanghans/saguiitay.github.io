@@ -8,6 +8,7 @@ sidebar:
     image: rhcp-trivia\android\Icon.png
     image_alt: RHCP Trivia for Android
     text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--large .btn--success}"
+    text: "[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia)"
 gallery:
   - url: rhcp-trivia\android\Screenshot1.jpg
     image_path: rhcp-trivia\android\Screenshot1.jpg
@@ -31,7 +32,7 @@ RHCP Trivia is a unique trivia game based on a random questions generator engine
   - 9 types of questions
 
   
-[Download from Google Play](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia){: .btn .btn--x-large .btn--success}
+[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.RHCPTrivia)
   
 ## Screenshots
 
