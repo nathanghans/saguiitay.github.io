@@ -45,7 +45,7 @@ author_profile: false
 					</h2>
 					<p class="archive__item-excerpt" itemprop="description">
 					{% if post.header.teaser %}
-						![image-left](/assets/images/filename.jpg){: .align-left}
+						![image-left]({{ post.header.teaser }}){: .align-left}
 					{% endif%}
 					{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
 					</p>
