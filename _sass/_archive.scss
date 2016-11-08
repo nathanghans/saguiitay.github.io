@@ -236,3 +236,29 @@
     }
   }
 }
+
+
+/*
+   Two Columns
+   ========================================================================== */
+
+.two_columns__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+}
+
+.two_columns__item {
+  margin-bottom: 2em;
+  font-size: 1.25rem;
+
+  @include breakpoint($small) {
+    margin-bottom: 0;
+    @include gallery(6 of 12);
+
+    .two_columns-teaser {
+      max-height: 200px;
+      overflow: hidden;
+    }
+  }
+}

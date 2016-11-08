@@ -12,3 +12,42 @@ author_profile: false
 {% for post in site.posts limit:3 %}
 	{% include archive-single.html %}
 {% endfor %}
+
+
+<div class="two_columns__wrapper">
+
+    <div class="two_columns__item">
+      <div class="archive__item">
+
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Recent Posts</h2>
+
+            <div class="archive__item-excerpt">
+				{% for post in site.posts limit:3 %}
+					{% include archive-single.html %}
+				{% endfor %}
+            </div>
+
+            <p><a href="/blog/" class="btn btn--info">Read More</a></p>
+		</div>
+      </div>
+    </div>
+	
+	<div class="two_columns__item">
+      <div class="archive__item">
+
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Latest projects</h2>
+
+            <div class="archive__item-excerpt">
+				{% for post in site.games limit:3 %}
+					{% include archive-single.html %}
+				{% endfor %}
+            </div>
+
+            <p><a href="/games/" class="btn btn--info">See More</a></p>
+		</div>
+      </div>
+    </div>
+  
+</div>
