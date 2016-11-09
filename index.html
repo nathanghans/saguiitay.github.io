@@ -38,7 +38,7 @@ author_profile: false
 					</h2>
 					<p class="archive__item-excerpt" itemprop="description">
 					{% if post.header.teaser %}
-						![image-left]({{ post.header.teaser }}){: .align-left}
+						<img src="{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}" class="align-left" style="max-width: 110px" />
 					{% endif%}
 					{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
 					</p>
