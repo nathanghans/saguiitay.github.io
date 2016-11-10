@@ -12,9 +12,23 @@ author_profile: true
 </div>
 
 <script>
-		var data = {% include the-beatles-data %};
 		var element = document.getElementById("data-div");
-		for (i = 0; i < data.length; i++) { 
-			element.innerHTML += data[i].Name;
+
+		var albums = {% include /games/the-beatles/albums %};
+		addCollection(albums, "Albums");
+		
+		var songs = {% include /games/the-beatles/songs %};
+		addCollection(songs, "Songs");
+		
+		var quotes = {% include /games/the-beatles/quotes %};
+		addCollection(quotes, "Quotes");
+		
+		function addCollection(collection, title) {
+			element.innerHTML += "<h2>" + title + "</h2>;
+			element.innerHTML += "<ul>";
+			for (i = 0; i < albums.length; i++) { 
+				element.innerHTML += "<li>" + albums[i].Name + "</li>";
+			}
+			element.innerHTML += "</ul>";
 		}
 </script>
