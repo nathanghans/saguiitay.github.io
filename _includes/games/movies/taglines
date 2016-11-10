@@ -1,0 +1,2662 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:On every street in every city, there's a nobody who dreams of being a somebody.",
+    "Name": "On every street in every city, there's a nobody who dreams of being a somebody."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What are the odds of getting even? 13 to one.",
+    "Name": "What are the odds of getting even? 13 to one."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+    "Name": "In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Sometimes the only way to stay sane is to go a little crazy",
+    "Name": "Sometimes the only way to stay sane is to go a little crazy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You cross one ocean, you face them all",
+    "Name": "You cross one ocean, you face them all",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Same Make. Same Model. New Mission.",
+    "Name": "Same Make. Same Model. New Mission.",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This time there are two.",
+    "Name": "This time there are two.",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He's Back.",
+    "Name": "He's Back.",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's nothing personal.",
+    "Name": "It's nothing personal.",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He said \"I'll be back!'' ... and he meant it!",
+    "Name": "He said \"I'll be back!'' ... and he meant it!",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A general who became a slave. A slave who became a gladiator. A gladiator who defied an emperor.",
+    "Name": "A general who became a slave. A slave who became a gladiator. A gladiator who defied an emperor.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What We Do In Life Echoes In Eternity.",
+    "Name": "What We Do In Life Echoes In Eternity.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next.",
+    "Name": "Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A Hero Will Rise.",
+    "Name": "A Hero Will Rise.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Gladiator Who Defied An Empire",
+    "Name": "The Gladiator Who Defied An Empire",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Summer 2000 A.D.",
+    "Name": "Summer 2000 A.D.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Experience a time you'll never forget.",
+    "Name": "Experience a time you'll never forget."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:No one would take on his case... until one man was willing to take on the system.",
+    "Name": "No one would take on his case... until one man was willing to take on the system."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Three Decades of Life in the Mafia.",
+    "Name": "Three Decades of Life in the Mafia."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Murderers come with smiles.",
+    "Name": "Murderers come with smiles."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"I always wanted to be a gangster.\" - Henry Hill",
+    "Name": "\"I always wanted to be a gangster.\" - Henry Hill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Shooting people was `No big deal'.",
+    "Name": "Shooting people was `No big deal'."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Experience it. Enjoy it. Just don't fall for it.",
+    "Name": "Experience it. Enjoy it. Just don't fall for it.",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We Fight Back.",
+    "Name": "We Fight Back.",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The End Begins.",
+    "Name": "The End Begins.",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"Dobby Has Come To Warn You Sir.\"",
+    "Name": "\"Dobby Has Come To Warn You Sir.\"",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hogwarts is back in session.",
+    "Name": "Hogwarts is back in session.",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Something Evil Has Returned To Hogwarts!",
+    "Name": "Something Evil Has Returned To Hogwarts!",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:New Yorks most powerful gangster is aboout to get in touch with his feelings.",
+    "Name": "New Yorks most powerful gangster is aboout to get in touch with his feelings."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Some men dream the future. He built it.",
+    "Name": "Some men dream the future. He built it.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Kate Beckinsale as Ava Gardner the passion he couldn't resist.",
+    "Name": "Kate Beckinsale as Ava Gardner the passion he couldn't resist.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:For some men, the sky was the limit. For him, it was just the beginning.",
+    "Name": "For some men, the sky was the limit. For him, it was just the beginning.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Imagine a life without limits.",
+    "Name": "Imagine a life without limits.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Cate Blanchett as Katherine Hepburn the star who stole his heart.",
+    "Name": "Cate Blanchett as Katherine Hepburn the star who stole his heart.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Leonardo DiCaprio as Howard Hughes the man who became a legend.",
+    "Name": "Leonardo DiCaprio as Howard Hughes the man who became a legend.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The holiest event of our time.  Perfect for their return.",
+    "Name": "The holiest event of our time.  Perfect for their return."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The path is alive!",
+    "Name": "The path is alive!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Two cops on the trail of a brutal killer. They must see as one, they must act as one, they must think as one, before the next victim falls.",
+    "Name": "Two cops on the trail of a brutal killer. They must see as one, they must act as one, they must think as one, before the next victim falls."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Houston, we have a problem",
+    "Name": "Houston, we have a problem"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Prepare to be blown out of the water.",
+    "Name": "Prepare to be blown out of the water.",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:. . . pick a side.",
+    "Name": ". . . pick a side."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A comedy from the heart that goes for the throat.",
+    "Name": "A comedy from the heart that goes for the throat.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Brace yourself for Melvin.",
+    "Name": "Brace yourself for Melvin.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Dark And Difficult Times Lie Ahead.",
+    "Name": "Dark And Difficult Times Lie Ahead.",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"Difficult times lie ahead, Harry.\"",
+    "Name": "\"Difficult times lie ahead, Harry.\"",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Girls like me don't make invitations like this to just anyone!",
+    "Name": "Girls like me don't make invitations like this to just anyone!",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:From the creators of 'True Romance' &amp; 'Reservoir Dogs'",
+    "Name": "From the creators of 'True Romance' &amp; 'Reservoir Dogs'",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You won't know the facts until you've seen the fiction.",
+    "Name": "You won't know the facts until you've seen the fiction.",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Once again I must ask too much of you, Harry.",
+    "Name": "Once again I must ask too much of you, Harry.",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Dark Secrets Revealed",
+    "Name": "Dark Secrets Revealed",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Enter the World",
+    "Name": "Enter the World",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Seek the truth, seek the codes.",
+    "Name": "Seek the truth, seek the codes."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Break The Codes",
+    "Name": "Break The Codes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:So Dark The Con Of Man",
+    "Name": "So Dark The Con Of Man"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Seek The Truth",
+    "Name": "Seek The Truth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Uncover The Secret",
+    "Name": "Uncover The Secret"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You will lose everything",
+    "Name": "You will lose everything",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Evil Must Be Confronted.",
+    "Name": "Evil Must Be Confronted.",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Rebellion Begins",
+    "Name": "The Rebellion Begins",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He's the only kid ever to get into trouble before he was born.",
+    "Name": "He's the only kid ever to get into trouble before he was born.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+    "Name": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:17 year old Marty McFly got home early last night. 30 years early.",
+    "Name": "17 year old Marty McFly got home early last night. 30 years early.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Marty McFly just broke the time barrier. He's only got one week to get it fixed.",
+    "Name": "Marty McFly just broke the time barrier. He's only got one week to get it fixed.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Meet Marty McFly. He's broken the time barrier. Busted his parents' first date. And, maybe, botched his chances of ever being born.",
+    "Name": "Meet Marty McFly. He's broken the time barrier. Busted his parents' first date. And, maybe, botched his chances of ever being born.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Marty McFly's having the time of his life. The only question is -- what time is it?",
+    "Name": "Marty McFly's having the time of his life. The only question is -- what time is it?",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Welcome to a world without rules.",
+    "Name": "Welcome to a world without rules.",
+    "Categories": "Batman; Comics; Heath Ledger; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Can you avenge evil and not become it?",
+    "Name": "Can you avenge evil and not become it?",
+    "Categories": "Batman; Comics; Heath Ledger; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Out of the darkness, comes the Knight.",
+    "Name": "Out of the darkness, comes the Knight.",
+    "Categories": "Batman; Comics; Heath Ledger; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Why so serious?",
+    "Name": "Why so serious?",
+    "Categories": "Batman; Comics; Heath Ledger; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Roads? Where we're going, we don't need roads!",
+    "Name": "Roads? Where we're going, we don't need roads!",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Getting back was only the beginning.",
+    "Name": "Getting back was only the beginning.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Do You Remember... The Future?",
+    "Name": "Do You Remember... The Future?",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Synchronize your watches. The future's coming back...",
+    "Name": "Synchronize your watches. The future's coming back...",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We're Back.",
+    "Name": "We're Back.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Lies. Betrayal. Sacrifice. How far will you take it?",
+    "Name": "Lies. Betrayal. Sacrifice. How far will you take it?",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Let The Magic Begin.",
+    "Name": "Let The Magic Begin.",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They've saved the best trip for last... But this time they may have gone too far.",
+    "Name": "They've saved the best trip for last... But this time they may have gone too far.",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Miracles do happen.",
+    "Name": "Miracles do happen."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Miracles happen in the most unexpected places.",
+    "Name": "Miracles happen in the most unexpected places."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Paul Edgecomb didn't believe in miracles... until the day he met one.",
+    "Name": "Paul Edgecomb didn't believe in miracles... until the day he met one."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This is a story about a miricle where I work... The Green Mile.",
+    "Name": "This is a story about a miricle where I work... The Green Mile."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The fastest hands in the East meets the biggest mouth in the West.",
+    "Name": "The fastest hands in the East meets the biggest mouth in the West.",
+    "Categories": "Rush Hour"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They come from different cultures. But on a case this big, they speak the same language.",
+    "Name": "They come from different cultures. But on a case this big, they speak the same language.",
+    "Categories": "Rush Hour"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Pals Forever. If they can get past today.",
+    "Name": "Pals Forever. If they can get past today.",
+    "Categories": "Rush Hour"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nothing is what it seems .",
+    "Name": "Nothing is what it seems ."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In May, the adventure continues.",
+    "Name": "In May, the adventure continues.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The man with the hat is back. And this time, he's bringing his Dad.",
+    "Name": "The man with the hat is back. And this time, he's bringing his Dad.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Have the adventure of your life keeping up with the Joneses.",
+    "Name": "Have the adventure of your life keeping up with the Joneses.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Strength. Courage. Honor. And loyalty. On June 20, it ALL comes together...",
+    "Name": "Strength. Courage. Honor. And loyalty. On June 20, it ALL comes together...",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The creators of JAWS and STAR WARS now bring you the ultimate hero in the ultimate adventure.",
+    "Name": "The creators of JAWS and STAR WARS now bring you the ultimate hero in the ultimate adventure.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The return of the great adventure.",
+    "Name": "The return of the great adventure.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Evil Fears The Knight",
+    "Name": "Evil Fears The Knight",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's not who he is underneath but what he does that defines him",
+    "Name": "It's not who he is underneath but what he does that defines him",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:One Ring To Rule Them All.",
+    "Name": "One Ring To Rule Them All.",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Legend Comes to Life",
+    "Name": "The Legend Comes to Life",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Trust him.",
+    "Name": "Trust him.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:If adventure has a name...it must be Indiana Jones.",
+    "Name": "If adventure has a name...it must be Indiana Jones.",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The mission is a man.",
+    "Name": "The mission is a man.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In the Last Great Invasion of the Last Great War, The Greatest Challenge for Eight Men was Saving... One.",
+    "Name": "In the Last Great Invasion of the Last Great War, The Greatest Challenge for Eight Men was Saving... One.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Journey Ends.",
+    "Name": "The Journey Ends.",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.",
+    "Name": "There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The eye of the enemy is moving.",
+    "Name": "The eye of the enemy is moving.",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Don't go in the water.",
+    "Name": "Don't go in the water."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:See it before you go swimming.",
+    "Name": "See it before you go swimming."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The terrifying motion picture from the terrifying No. 1 best seller.",
+    "Name": "The terrifying motion picture from the terrifying No. 1 best seller."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She was the first.",
+    "Name": "She was the first."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You'll never go in the water again!",
+    "Name": "You'll never go in the water again!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Amity Island had everything. Clear skies. Gentle surf. Warm water. People flocked there every summer. It was the perfect feeding ground.",
+    "Name": "Amity Island had everything. Clear skies. Gentle surf. Warm water. People flocked there every summer. It was the perfect feeding ground."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Do you like fish? Well, he likes you too...",
+    "Name": "Do you like fish? Well, he likes you too..."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You yell shark, and we got a panic on our hands on the Fourth of July.",
+    "Name": "You yell shark, and we got a panic on our hands on the Fourth of July."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:When beaches open this summer, you will be taken by Jaws.",
+    "Name": "When beaches open this summer, you will be taken by Jaws."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Bat, the Cat, the Penguin",
+    "Name": "The Bat, the Cat, the Penguin",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Whoever saves one Life, Saves the World entire.",
+    "Name": "Whoever saves one Life, Saves the World entire.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The List is Life.",
+    "Name": "The List is Life.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Journey Continues",
+    "Name": "The Journey Continues",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Battle for Middle-earth begins!",
+    "Name": "The Battle for Middle-earth begins!",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The journey is everything.",
+    "Name": "The journey is everything.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Everybody loved him... Everybody disappeared.",
+    "Name": "Everybody loved him... Everybody disappeared.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The rest of his life begins now.",
+    "Name": "The rest of his life begins now.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Ever wanted to be someone else? Now you can.",
+    "Name": "Ever wanted to be someone else? Now you can."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Be All That Someone Else Can Be",
+    "Name": "Be All That Someone Else Can Be"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Seven deadly sins. Seven ways to die.",
+    "Name": "Seven deadly sins. Seven ways to die.",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Gluttony * Greed * Sloth * Envy * Wrath * Pride * Lust.",
+    "Name": "Gluttony * Greed * Sloth * Envy * Wrath * Pride * Lust.",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Let he who is without sin try to survive.",
+    "Name": "Let he who is without sin try to survive.",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Seven deadly sins. Seven ways to die. Seven ways to kill.",
+    "Name": "Seven deadly sins. Seven ways to die. Seven ways to kill.",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Reality is a thing of the past.",
+    "Name": "Reality is a thing of the past.",
+    "Categories": "The Matrix; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The future will not be user-friendly",
+    "Name": "The future will not be user-friendly",
+    "Categories": "The Matrix; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:An Adventure 65 Million Years In The Making.",
+    "Name": "An Adventure 65 Million Years In The Making.",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Seven Names. Seven Strangers. One Secret.",
+    "Name": "Seven Names. Seven Strangers. One Secret."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:How far down does the rabbit hole go?",
+    "Name": "How far down does the rabbit hole go?",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They're Walking Our Streets.",
+    "Name": "They're Walking Our Streets.",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Something has survived.",
+    "Name": "Something has survived.",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Kick Some Ice",
+    "Name": "Kick Some Ice"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Everything that has a beginning has an end.",
+    "Name": "Everything that has a beginning has an end.",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Walk down the right back alley in Sin City and you can find anything.",
+    "Name": "Walk down the right back alley in Sin City and you can find anything.",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There is no justice without sin.",
+    "Name": "There is no justice without sin.",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He's got the power.",
+    "Name": "He's got the power.",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:If you could be God for one week, what would you do?",
+    "Name": "If you could be God for one week, what would you do?",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In Bruce We Trust?",
+    "Name": "In Bruce We Trust?",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The guy next door just became the man upstairs.",
+    "Name": "The guy next door just became the man upstairs.",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Four friends made a mistake that changed their lives forever.",
+    "Name": "Four friends made a mistake that changed their lives forever."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:When friendship runs deeper than blood",
+    "Name": "When friendship runs deeper than blood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Revenge is a dish best served cold.",
+    "Name": "Revenge is a dish best served cold.",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The bride is back for the final cut",
+    "Name": "The bride is back for the final cut",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This Spring, It's Not Over Til It's Over",
+    "Name": "This Spring, It's Not Over Til It's Over",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Here comes the bride.",
+    "Name": "Here comes the bride.",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Quest for Revenge Continues...",
+    "Name": "The Quest for Revenge Continues...",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Back With A Vengeance",
+    "Name": "Back With A Vengeance",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Kill Bill Now",
+    "Name": "Kill Bill Now",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Kill is love.",
+    "Name": "Kill is love.",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She will kill Bill.",
+    "Name": "She will kill Bill.",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Luck has nothing to do with the games they play.",
+    "Name": "Luck has nothing to do with the games they play."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:No one stays at the top forever.",
+    "Name": "No one stays at the top forever."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+    "Name": "What if someone you never met, someone you never saw, someone you never knew was the only someone for you?",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The true story of a real fake.",
+    "Name": "The true story of a real fake."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In the year 2003, Uma Thurman will kill Bill",
+    "Name": "In the year 2003, Uma Thurman will kill Bill",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Close Your Eyes. Say Your Prayers. Sleep If You Can.",
+    "Name": "Close Your Eyes. Say Your Prayers. Sleep If You Can.",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Heads Will Roll.",
+    "Name": "Heads Will Roll.",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The eighth wonder of the world.",
+    "Name": "The eighth wonder of the world."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Boys will be boys.",
+    "Name": "Boys will be boys.",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Fear can hold you prisoner. Hope can set you free.",
+    "Name": "Fear can hold you prisoner. Hope can set you free.",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It takes a strong man to save himself, and a great man to save another.",
+    "Name": "It takes a strong man to save himself, and a great man to save another.",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This summer the Angels are back.",
+    "Name": "This summer the Angels are back.",
+    "Categories": "Charlie's Angels; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Get ready for rush hour.",
+    "Name": "Get ready for rush hour."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You don't get to 500 million friends without making a few enemies",
+    "Name": "You don't get to 500 million friends without making a few enemies",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:If you believe in love at first sight, you never stop looking.",
+    "Name": "If you believe in love at first sight, you never stop looking.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The magic is back!",
+    "Name": "The magic is back!",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:With great power comes great responsibility.",
+    "Name": "With great power comes great responsibility.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There is a thin line between a normal man and a hero, a line that one young man is about to cross.",
+    "Name": "There is a thin line between a normal man and a hero, a line that one young man is about to cross.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The magic is back again!",
+    "Name": "The magic is back again!",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Buckle Up!",
+    "Name": "Buckle Up!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"The degree of civilization in a society can be judged by observing its prisoners.\" - Fyodor Dostoevsky.",
+    "Name": "\"The degree of civilization in a society can be judged by observing its prisoners.\" - Fyodor Dostoevsky."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They were deadly on the ground. Now they have wings.",
+    "Name": "They were deadly on the ground. Now they have wings."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:One wrong flight can ruin your whole day",
+    "Name": "One wrong flight can ruin your whole day"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Sacrifice. Destiny. Choice.",
+    "Name": "Sacrifice. Destiny. Choice.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Next summer is lethal.",
+    "Name": "Next summer is lethal.",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The faces you love. The action you expect.",
+    "Name": "The faces you love. The action you expect.",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Gang's All Here",
+    "Name": "The Gang's All Here",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:These 8 Women Are About To Meet 1 Diabolical Man!",
+    "Name": "These 8 Women Are About To Meet 1 Diabolical Man!",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In the Year of Darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the Future by changing the Past. The plan required something that felt no pity. No pain. No fear. Something unstoppable. They created THE TERMINATOR.",
+    "Name": "In the Year of Darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the Future by changing the Past. The plan required something that felt no pity. No pain. No fear. Something unstoppable. They created THE TERMINATOR.",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Every hero has a choice, to face the darkness... or be consumed by it.",
+    "Name": "Every hero has a choice, to face the darkness... or be consumed by it.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The battle within.",
+    "Name": "The battle within.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:One man will fight to find the hero within",
+    "Name": "One man will fight to find the hero within",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Next summer, the greatest battle lies... within.",
+    "Name": "Next summer, the greatest battle lies... within.",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:How long can any man fight the darkness... before he finds it in himself?",
+    "Name": "How long can any man fight the darkness... before he finds it in himself?",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:40 Stories Of Sheer Adventure!",
+    "Name": "40 Stories Of Sheer Adventure!",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:40 Stories High - with Suspense, Excitement and Adventure on every level!",
+    "Name": "40 Stories High - with Suspense, Excitement and Adventure on every level!",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He's the only chance anyone has got.",
+    "Name": "He's the only chance anyone has got.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Twelve terrorists. One cop. The odds are against John McClane...That's just the way he likes it.",
+    "Name": "Twelve terrorists. One cop. The odds are against John McClane...That's just the way he likes it.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The most incredible thing that ever happened is about to happen to you.",
+    "Name": "The most incredible thing that ever happened is about to happen to you.",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nothing On Earth Could Come Between Them.",
+    "Name": "Nothing On Earth Could Come Between Them.",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Collide With Destiny.",
+    "Name": "Collide With Destiny.",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+    "Name": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Force Returns",
+    "Name": "The Force Returns",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Saga Begins",
+    "Name": "The Saga Begins",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They say lightning never strikes twice... They were wrong.",
+    "Name": "They say lightning never strikes twice... They were wrong.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:John McClane is back in the wrong place at the wrong time!",
+    "Name": "John McClane is back in the wrong place at the wrong time!",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's not just a robbery. It's payback.",
+    "Name": "It's not just a robbery. It's payback."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Ordinary guys. An extraordinary robbery.",
+    "Name": "Ordinary guys. An extraordinary robbery."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Size matters not. Except on an IMAX Screen.",
+    "Name": "Size matters not. Except on an IMAX Screen.",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
+    "Name": "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Things fall down. People look up. And when it rains, it pours.",
+    "Name": "Things fall down. People look up. And when it rains, it pours."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Think fast. Look alive. Die hard.",
+    "Name": "Think fast. Look alive. Die hard.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:On a good day he's a great cop. On a bad day he's the best there is.",
+    "Name": "On a good day he's a great cop. On a bad day he's the best there is.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's boometime in the big apple.",
+    "Name": "It's boometime in the big apple.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This time, it's personal.",
+    "Name": "This time, it's personal.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:John McClane is about to have a very bad day.",
+    "Name": "John McClane is about to have a very bad day.",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The movie they think they're making... isn't a movie anymore.",
+    "Name": "The movie they think they're making... isn't a movie anymore."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Saga Is Complete",
+    "Name": "The Saga Is Complete",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:When he said I do, he didn't say what he did.",
+    "Name": "When he said I do, he didn't say what he did."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A long time ago, in a galaxy far, far away...",
+    "Name": "A long time ago, in a galaxy far, far away...",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He is afraid. He is alone. He is three million light years from home.",
+    "Name": "He is afraid. He is alone. He is three million light years from home.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Story that Touched the World!",
+    "Name": "The Story that Touched the World!",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Extra-Terrestrial In His Adventure On Earth.",
+    "Name": "The Extra-Terrestrial In His Adventure On Earth.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:People should not be afraid of their governments. Governments should be afraid of their people.",
+    "Name": "People should not be afraid of their governments. Governments should be afraid of their people.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Freedom! Forever!",
+    "Name": "Freedom! Forever!",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Adventure Continues...",
+    "Name": "The Adventure Continues...",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The battle continues...",
+    "Name": "The battle continues...",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",
+    "Name": "Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",
+    "Categories": "Morgan Freeman; Clint Eastwood; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Fame. Be careful. It's out there.",
+    "Name": "Fame. Be careful. It's out there."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Good morning! You're live on EDtv.",
+    "Name": "Good morning! You're live on EDtv."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The story of a nobody everybody is watching.",
+    "Name": "The story of a nobody everybody is watching."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What is happiness to you?",
+    "Name": "What is happiness to you?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Empire Falls...",
+    "Name": "The Empire Falls...",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Everybody Runs.",
+    "Name": "Everybody Runs."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's Not Paranoia if They're Really After You.",
+    "Name": "It's Not Paranoia if They're Really After You."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In God we trust. The rest we monitor.",
+    "Name": "In God we trust. The rest we monitor."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life's a Party. Crash It.",
+    "Name": "Life's a Party. Crash It.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hide Your Bridesmaids.",
+    "Name": "Hide Your Bridesmaids.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They're coming to your wedding...with or without invitations.",
+    "Name": "They're coming to your wedding...with or without invitations.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They're just a couple of guys who just wanna have fun.",
+    "Name": "They're just a couple of guys who just wanna have fun.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It Will Take You A Million Light Years From Home.",
+    "Name": "It Will Take You A Million Light Years From Home."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Sealed and buried for all time is the key to mankind's future.",
+    "Name": "Sealed and buried for all time is the key to mankind's future."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It will take you a million light years from home. But will it bring you back?",
+    "Name": "It will take you a million light years from home. But will it bring you back?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Expect the Impossible.",
+    "Name": "Expect the Impossible.",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Can two friends sleep together and still love each other in the morning?",
+    "Name": "Can two friends sleep together and still love each other in the morning?",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Can men and women be friends or does always sex get in the way?",
+    "Name": "Can men and women be friends or does always sex get in the way?",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Harold Crick isn't ready to go. Period.",
+    "Name": "Harold Crick isn't ready to go. Period."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The time has come for those who are different to stand united",
+    "Name": "The time has come for those who are different to stand united",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You'll Believe A Man Can Fly!",
+    "Name": "You'll Believe A Man Can Fly!",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The movie that makes a legend come to life.",
+    "Name": "The movie that makes a legend come to life.",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Mischief. Mayhem. Soap.",
+    "Name": "Mischief. Mayhem. Soap."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hand soap? How about swollen and broken fist soap?",
+    "Name": "Hand soap? How about swollen and broken fist soap?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Creates a thick rich lather. Like rabies.",
+    "Name": "Creates a thick rich lather. Like rabies."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Wash your feminine side clean off.",
+    "Name": "Wash your feminine side clean off."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You are the all-dancing, all-singing crap of the world",
+    "Name": "You are the all-dancing, all-singing crap of the world"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The best fat for making soap comes from humans.",
+    "Name": "The best fat for making soap comes from humans."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Works great even on blood stains.",
+    "Name": "Works great even on blood stains."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Trust a few. Fear the rest.",
+    "Name": "Trust a few. Fear the rest.",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Evolution Begins.",
+    "Name": "Evolution Begins.",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
+    "Name": "The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Man of Steel is back, and better than ever!",
+    "Name": "The Man of Steel is back, and better than ever!",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Man of Steel Meets His Match!",
+    "Name": "The Man of Steel Meets His Match!",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Take a Stand",
+    "Name": "Take a Stand",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The world's super hero in his toughest adventure yet!",
+    "Name": "The world's super hero in his toughest adventure yet!",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+    "Name": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life is like a box of chocolates...you never know what you're gonna get.",
+    "Name": "Life is like a box of chocolates...you never know what you're gonna get.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Someone you pass on the street may already be the love of your life.",
+    "Name": "Someone you pass on the street may already be the love of your life.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:At odds in life... in love on-line.",
+    "Name": "At odds in life... in love on-line.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us.",
+    "Name": "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us.",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:3% Body Fat. 1% Brain Activity.",
+    "Name": "3% Body Fat. 1% Brain Activity."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This Summer, The World's Greatest Hero Returns...",
+    "Name": "This Summer, The World's Greatest Hero Returns...",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:AMERICA was BORN in the STREETS",
+    "Name": "AMERICA was BORN in the STREETS"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The hardest trick is making them stay.",
+    "Name": "The hardest trick is making them stay.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Are You In Or Out?",
+    "Name": "Are You In Or Out?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Place your bets",
+    "Name": "Place your bets"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:3 Casinos. 11 Guys. 150 Million Bucks. Ready To Win Big?",
+    "Name": "3 Casinos. 11 Guys. 150 Million Bucks. Ready To Win Big?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hollywood's A list stars come together to pull off the most daring heist Las Vegas has ever known...11 men, 3 casinos, 150 million dollars, 1 chance to pull it off.",
+    "Name": "Hollywood's A list stars come together to pull off the most daring heist Las Vegas has ever known...11 men, 3 casinos, 150 million dollars, 1 chance to pull it off."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They're Having So Much Fun It's Illegal.",
+    "Name": "They're Having So Much Fun It's Illegal."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Expect the impossible again.",
+    "Name": "Expect the impossible again.",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Only Thing Greater Than the Power of the Mind is the Courage of the Heart",
+    "Name": "The Only Thing Greater Than the Power of the Mind is the Courage of the Heart",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Wildly charismatic. Impossibly brilliant. Totally rebellious. For the first 20 years of his life, Will Hunting has called the shots. Now he's about to meet his match.",
+    "Name": "Wildly charismatic. Impossibly brilliant. Totally rebellious. For the first 20 years of his life, Will Hunting has called the shots. Now he's about to meet his match."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A story of innocence lost and courage found.",
+    "Name": "A story of innocence lost and courage found.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Love Is A Force Of Nature",
+    "Name": "Love Is A Force Of Nature",
+    "Categories": "Heath Ledger; Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:To enter the mind of a killer she must challenge the mind of a madman.",
+    "Name": "To enter the mind of a killer she must challenge the mind of a madman.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Dr. Hannibal Lecter. Brilliant. Cunning. Psychotic. In his mind lies the clue to a ruthless killer. Clarice Starling, FBI. Brilliant. Vulnerable. Alone. She must trust him to stop the killer.",
+    "Name": "Dr. Hannibal Lecter. Brilliant. Cunning. Psychotic. In his mind lies the clue to a ruthless killer. Clarice Starling, FBI. Brilliant. Vulnerable. Alone. She must trust him to stop the killer.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The only way to stop a killer is by going in to the mind of a madman.",
+    "Name": "The only way to stop a killer is by going in to the mind of a madman.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Prepare yourself for the most exciting, mesmerising and terrifying two hours of your life!",
+    "Name": "Prepare yourself for the most exciting, mesmerising and terrifying two hours of your life!",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Dramatic story of a jazz crazed wife",
+    "Name": "Dramatic story of a jazz crazed wife",
+    "Categories": "Best Picture; Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She was a shallow vagabond, fascinating, yet venomous as a serpent, whose bite meant death. The greatest picture of the decade.",
+    "Name": "She was a shallow vagabond, fascinating, yet venomous as a serpent, whose bite meant death. The greatest picture of the decade.",
+    "Categories": "Best Picture; Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She betrayed her husband and slew her \"angel,\" then laughed at the law---",
+    "Name": "She betrayed her husband and slew her \"angel,\" then laughed at the law---",
+    "Categories": "Best Picture; Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Sometimes you have to go halfway around the world to come full circle.",
+    "Name": "Sometimes you have to go halfway around the world to come full circle."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Everyone wants to be found.",
+    "Name": "Everyone wants to be found."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Love is a burning thing.",
+    "Name": "Love is a burning thing.",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Find your way home",
+    "Name": "Find your way home"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Find the strength. Find the courage. No matter what it takes... find the way home.",
+    "Name": "Find the strength. Find the courage. No matter what it takes... find the way home."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Drink from me and live forever.",
+    "Name": "Drink from me and live forever."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Protecting the Earth from the scum of the universe!",
+    "Name": "Protecting the Earth from the scum of the universe!",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She walked off the street, into his life and stole his heart.",
+    "Name": "She walked off the street, into his life and stole his heart.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nothing will be the same",
+    "Name": "Nothing will be the same",
+    "Categories": "Twilight; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:When you can live forever what do you live for?",
+    "Name": "When you can live forever what do you live for?",
+    "Categories": "Twilight; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Forever Begins Now.",
+    "Name": "Forever Begins Now.",
+    "Categories": "Twilight; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Co. Frank Slade has a very special plan for the weekend. It involves travel, women, good food, fine wine, the tango, chauffered limousines and a loaded forty-five. And he's bringing Charlie along for the ride.",
+    "Name": "Co. Frank Slade has a very special plan for the weekend. It involves travel, women, good food, fine wine, the tango, chauffered limousines and a loaded forty-five. And he's bringing Charlie along for the ride.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:... look closer",
+    "Name": "... look closer",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Watch What Happens",
+    "Name": "Watch What Happens"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We like to watch!",
+    "Name": "We like to watch!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The World is Watching.",
+    "Name": "The World is Watching."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Story of a Lifetime.",
+    "Name": "The Story of a Lifetime."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:On The Air, Unaware.",
+    "Name": "On The Air, Unaware."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Based on the inspirational true story of a champion.",
+    "Name": "Based on the inspirational true story of a champion."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:At the edge of the world, his journey begins.",
+    "Name": "At the edge of the world, his journey begins."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We bury our sins, we wash them clean",
+    "Name": "We bury our sins, we wash them clean",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Charming. Magnetic. Murderous.",
+    "Name": "Charming. Magnetic. Murderous."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Love is the only inspiration.",
+    "Name": "Love is the only inspiration.",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:...A Comedy About the Greatest Love Story Almost Never Told...",
+    "Name": "...A Comedy About the Greatest Love Story Almost Never Told...",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She's chasing a dream... they're chasing her.",
+    "Name": "She's chasing a dream... they're chasing her.",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+    "Name": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hell On Heels.",
+    "Name": "Hell On Heels."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Future is History.",
+    "Name": "The Future is History.",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:No One Gets Away Clean.",
+    "Name": "No One Gets Away Clean."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Music was his passion. Survival was his masterpiece.",
+    "Name": "Music was his passion. Survival was his masterpiece."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The hustler isn't what he used to be, but he has the next best thing: a kid who is",
+    "Name": "The hustler isn't what he used to be, but he has the next best thing: a kid who is"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Before Sam was murdered he told Molly he'd love and protect her forever.",
+    "Name": "Before Sam was murdered he told Molly he'd love and protect her forever.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You will believe.",
+    "Name": "You will believe.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Five criminals. One line up. No coincidence.",
+    "Name": "Five criminals. One line up. No coincidence."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In a world where nothing is what it seems you've got to look beyond...",
+    "Name": "In a world where nothing is what it seems you've got to look beyond..."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The truth is always in the last place you look.",
+    "Name": "The truth is always in the last place you look."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A story about how far we must travel to find the place where we belong.",
+    "Name": "A story about how far we must travel to find the place where we belong."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Everything is connected",
+    "Name": "Everything is connected"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Same Planet. New Scum.",
+    "Name": "Same Planet. New Scum.",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Heroes aren't born. They're built.",
+    "Name": "Heroes aren't born. They're built.",
+    "Categories": "Iron Man; The Avengers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's Not Like They Didn't Warn Us.",
+    "Name": "It's Not Like They Didn't Warn Us."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Find out the truth...if you dare.",
+    "Name": "Find out the truth...if you dare."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Who will be left behind?",
+    "Name": "Who will be left behind?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Mankind's earliest civilization warned us this day would come...",
+    "Name": "Mankind's earliest civilization warned us this day would come..."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:First, the Mayan calendar predicted it...Now, science has confirmed it...but we never imagined it could really happen.",
+    "Name": "First, the Mayan calendar predicted it...Now, science has confirmed it...but we never imagined it could really happen."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We Were Warned.",
+    "Name": "We Were Warned."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The end is just the beginning.",
+    "Name": "The end is just the beginning."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:EARTH - Take a good look. It could be your last.",
+    "Name": "EARTH - Take a good look. It could be your last."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The question of whether or not we are alone in the universe has been answered.",
+    "Name": "The question of whether or not we are alone in the universe has been answered."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Day We Fight Back.",
+    "Name": "The Day We Fight Back."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:WARNING! Your next stop my not be there. [poster on underground trains]",
+    "Name": "WARNING! Your next stop my not be there. [poster on underground trains]"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:July 2nd, they arrive, July 3rd, they attack, July 4th is when the real fireworks begin.",
+    "Name": "July 2nd, they arrive, July 3rd, they attack, July 4th is when the real fireworks begin."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We've always believed we weren't alone. On July 4th, we'll wish we were.",
+    "Name": "We've always believed we weren't alone. On July 4th, we'll wish we were."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Forever is just the beginning",
+    "Name": "Forever is just the beginning",
+    "Categories": "Twilight; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Choose your weapon.",
+    "Name": "Choose your weapon."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Heroes today. Legends forever",
+    "Name": "Heroes today. Legends forever"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This life was so close to never happening",
+    "Name": "This life was so close to never happening"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Imagine having to win over the girl of your dreams... every friggin' day.",
+    "Name": "Imagine having to win over the girl of your dreams... every friggin' day.",
+    "Categories": "Adam Sandler; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They're as straight as can be, but don't tell anyone.",
+    "Name": "They're as straight as can be, but don't tell anyone.",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Dangerously Alluring",
+    "Name": "Dangerously Alluring"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Holmes for the Holiday.",
+    "Name": "Holmes for the Holiday."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Crime Will Pay",
+    "Name": "Crime Will Pay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Depraved Adversary",
+    "Name": "Depraved Adversary"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nothing Escapes Him",
+    "Name": "Nothing Escapes Him"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You'll never leave the island.",
+    "Name": "You'll never leave the island."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Stealing stones is hazardous.",
+    "Name": "Stealing stones is hazardous."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Now you see it, now you don't!",
+    "Name": "Now you see it, now you don't!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Stealin' Stones and Breakin' Bones",
+    "Name": "Stealin' Stones and Breakin' Bones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Not every gift is a blessing.",
+    "Name": "Not every gift is a blessing.",
+    "Categories": ""
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Can You Keep the Secret?",
+    "Name": "Can You Keep the Secret?",
+    "Categories": ""
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Do you Believe Now?",
+    "Name": "Do you Believe Now?",
+    "Categories": ""
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There are ghosts walking among us, looking for help... They have found it.",
+    "Name": "There are ghosts walking among us, looking for help... They have found it.",
+    "Categories": ""
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In the future, one man is the law.",
+    "Name": "In the future, one man is the law."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The government taught him to kill. Now he's using his skills to help a woman seek revenge against the Miami underworld.",
+    "Name": "The government taught him to kill. Now he's using his skills to help a woman seek revenge against the Miami underworld."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:I can't read your mind but I can kick your ass.",
+    "Name": "I can't read your mind but I can kick your ass.",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Have you given blood lately?",
+    "Name": "Have you given blood lately?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Against an army of immortals, one warrior must draw first blood.",
+    "Name": "Against an army of immortals, one warrior must draw first blood."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The power of an immortal. The soul of a human. The heart of a hero.",
+    "Name": "The power of an immortal. The soul of a human. The heart of a hero."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Sometimes it takes one to kill one.",
+    "Name": "Sometimes it takes one to kill one."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Vampire Hunter.",
+    "Name": "Vampire Hunter."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Man has made his match ... now it's his problem.",
+    "Name": "Man has made his match ... now it's his problem."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A chilling, bold, mesmerizing, futuristic detective thriller.",
+    "Name": "A chilling, bold, mesmerizing, futuristic detective thriller."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Next Chapter Begins",
+    "Name": "The Next Chapter Begins",
+    "Categories": "Twilight; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Two Cops. Glover carries a weapon..... Gibson is one. He's the only L.A cop registered as a Lethal Weapon.",
+    "Name": "Two Cops. Glover carries a weapon..... Gibson is one. He's the only L.A cop registered as a Lethal Weapon.",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There Will Be Greed. There Will Be Vengeance.",
+    "Name": "There Will Be Greed. There Will Be Vengeance."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:When Ambition Meets Faith",
+    "Name": "When Ambition Meets Faith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They lost half a million at cards but they've still got a few tricks up their sleeve.",
+    "Name": "They lost half a million at cards but they've still got a few tricks up their sleeve."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A Disgrace to Criminals Everywhere.",
+    "Name": "A Disgrace to Criminals Everywhere."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Just because they serve you doesn't mean they like you.",
+    "Name": "Just because they serve you doesn't mean they like you.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This Job Sucks.",
+    "Name": "This Job Sucks.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A Hilarious Look at the Over-the-Counter Culture.",
+    "Name": "A Hilarious Look at the Over-the-Counter Culture.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:jingle bells, the bathroom smells, the coffee is cold &amp; stale, we're overworked &amp; underpaid, but it keeps us out of jail!",
+    "Name": "jingle bells, the bathroom smells, the coffee is cold &amp; stale, we're overworked &amp; underpaid, but it keeps us out of jail!",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What If You Had A Universal Remote... That Controlled Your Universe?",
+    "Name": "What If You Had A Universal Remote... That Controlled Your Universe?",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Back In Time",
+    "Name": "Back In Time",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Every dream has a price",
+    "Name": "Every dream has a price"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:I am used to going out at 3am and doing something stupid.",
+    "Name": "I am used to going out at 3am and doing something stupid.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This city is afraid of me. I've seen its true face.",
+    "Name": "This city is afraid of me. I've seen its true face.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We were supposed to make the world a better place.",
+    "Name": "We were supposed to make the world a better place.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Who's Watching the Watchmen?",
+    "Name": "Who's Watching the Watchmen?",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Justice is coming to all of us. No matter what we do.",
+    "Name": "Justice is coming to all of us. No matter what we do.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:We're society's only protection.",
+    "Name": "We're society's only protection.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The existence of life is a highly overrated phenomenon.",
+    "Name": "The existence of life is a highly overrated phenomenon.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They watch over us...but who watches them?",
+    "Name": "They watch over us...but who watches them?",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A world at peace. There had to be sacrifice.",
+    "Name": "A world at peace. There had to be sacrifice.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's the End of the Superhero As We Know It.",
+    "Name": "It's the End of the Superhero As We Know It.",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The future isn't big enough for the both of them. The 21st century's most dangerous cop. The 21st century's most ruthless criminal.",
+    "Name": "The future isn't big enough for the both of them. The 21st century's most dangerous cop. The 21st century's most ruthless criminal."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Faith is a funny thing.",
+    "Name": "Faith is a funny thing.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Prepare Thyself.",
+    "Name": "Prepare Thyself.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Look out Below.",
+    "Name": "Look out Below.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It can be Hell getting into Heaven.",
+    "Name": "It can be Hell getting into Heaven.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Get 'touched' by an angel.",
+    "Name": "Get 'touched' by an angel.",
+    "Categories": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Witness the origin",
+    "Name": "Witness the origin",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Lather. Rinse. Save the world.",
+    "Name": "Lather. Rinse. Save the world.",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life isn't measured in minutes, but in moments",
+    "Name": "Life isn't measured in minutes, but in moments",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life, liberty, and the pursuit of vengeance",
+    "Name": "Life, liberty, and the pursuit of vengeance",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The search for our beginning could lead to our end",
+    "Name": "The search for our beginning could lead to our end"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Some guys need a little extra time to mature",
+    "Name": "Some guys need a little extra time to mature",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Hunt Begins",
+    "Name": "The Hunt Begins",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It All Ends Here",
+    "Name": "It All Ends Here",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nowhere Is Safe",
+    "Name": "Nowhere Is Safe",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Here comes the bribe...",
+    "Name": "Here comes the bribe..."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Why do men act like boys? Because they can.",
+    "Name": "Why do men act like boys? Because they can."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:All the fun of college, none of the education.",
+    "Name": "All the fun of college, none of the education."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There's something about your first piece.",
+    "Name": "There's something about your first piece.",
+    "Categories": "American Pie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Come again!",
+    "Name": "Come again!",
+    "Categories": "American Pie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:This Summer It's All About Sticking Together.",
+    "Name": "This Summer It's All About Sticking Together.",
+    "Categories": "American Pie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Meet the Dukes. One family having so much fun there oughta be a law.",
+    "Name": "Meet the Dukes. One family having so much fun there oughta be a law."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Defy the Future",
+    "Name": "Defy the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:If he were any cooler, he'd still be frozen, baby!",
+    "Name": "If he were any cooler, he'd still be frozen, baby!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Debonair. Defiant. Defrosted.",
+    "Name": "Debonair. Defiant. Defrosted.",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Frozen in the 60's...thawing spring '97, baby!",
+    "Name": "Frozen in the 60's...thawing spring '97, baby!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:He's back, he's even bigger and he's up for it!",
+    "Name": "He's back, he's even bigger and he's up for it!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The return of Dr. Evil.",
+    "Name": "The return of Dr. Evil.",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The BRITISH Empire Strikes Back!",
+    "Name": "The BRITISH Empire Strikes Back!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:I'm back, baby!",
+    "Name": "I'm back, baby!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"I'm Coming Again, Baby!\"",
+    "Name": "\"I'm Coming Again, Baby!\"",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:First, he fought for the Crown. Now, he's fighting for the Family Jewels.",
+    "Name": "First, he fought for the Crown. Now, he's fighting for the Family Jewels.",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Double-O Behave!",
+    "Name": "Double-O Behave!",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You were expecting someone else?",
+    "Name": "You were expecting someone else?",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Warning: The guys who did 'Dumb &amp; Dumber' and 'Kingpin' bring you a love story.",
+    "Name": "Warning: The guys who did 'Dumb &amp; Dumber' and 'Kingpin' bring you a love story.",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The only way to win is to survive.",
+    "Name": "The only way to win is to survive."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She brought a small town to its feet and a huge corporation to its knees.",
+    "Name": "She brought a small town to its feet and a huge corporation to its knees."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The story of a child... and his son.",
+    "Name": "The story of a child... and his son.",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:There Are No Clean Getaways",
+    "Name": "There Are No Clean Getaways"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Times like these call for a Big Lebowski.",
+    "Name": "Times like these call for a Big Lebowski."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Her life was in their hands. Now her toe is in the mail.",
+    "Name": "Her life was in their hands. Now her toe is in the mail."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It takes guys as simple as the Dude and Walter to make a story this complicated... and they'd really rather be bowling.",
+    "Name": "It takes guys as simple as the Dude and Walter to make a story this complicated... and they'd really rather be bowling."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:They figured he was a lazy time wasting slacker. They were right.",
+    "Name": "They figured he was a lazy time wasting slacker. They were right."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Lebowski: Not a man, a way of life",
+    "Name": "Lebowski: Not a man, a way of life"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Live forever or die trying.",
+    "Name": "Live forever or die trying."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Time Is Money",
+    "Name": "Time Is Money"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Time Is Power",
+    "Name": "Time Is Power"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Once upon a time in Nazi occupied France...",
+    "Name": "Once upon a time in Nazi occupied France...",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A Basterd's Work is Never Done",
+    "Name": "A Basterd's Work is Never Done",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:If You Need Heroes, Send In The Basterds",
+    "Name": "If You Need Heroes, Send In The Basterds",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"We're in the Nazi killin' business and cousin, business is a-boomin'.\"",
+    "Name": "\"We're in the Nazi killin' business and cousin, business is a-boomin'.\"",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:An Inglorious, Uproarious Thrill-Ride of Vengeance.",
+    "Name": "An Inglorious, Uproarious Thrill-Ride of Vengeance.",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:You haven't seen war untill you've seen it through the eyes of Quentin Tarantino.",
+    "Name": "You haven't seen war untill you've seen it through the eyes of Quentin Tarantino.",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Freedom, Beauty, Truth and Love",
+    "Name": "Freedom, Beauty, Truth and Love",
+    "Categories": "Musical; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The extraordinary life story of Ray Charles. A man who fought harder and went farther than anyone thought possible.",
+    "Name": "The extraordinary life story of Ray Charles. A man who fought harder and went farther than anyone thought possible.",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Boy meets girl.  Boy falls in love.  Girl doesn't.",
+    "Name": "Boy meets girl.  Boy falls in love.  Girl doesn't.",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:She's about to find the perfect fit",
+    "Name": "She's about to find the perfect fit",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:It's not just a place. It's a state of mind.",
+    "Name": "It's not just a place. It's a state of mind."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Violence as a way of life.",
+    "Name": "Violence as a way of life."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Some legacies must end.",
+    "Name": "Some legacies must end."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What will you do with yours?",
+    "Name": "What will you do with yours?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Eight friends. One extraordinary year.",
+    "Name": "Eight friends. One extraordinary year.",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:In search of wine. In search of women. In search of themselves.",
+    "Name": "In search of wine. In search of women. In search of themselves."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Nature called. Look who answered.",
+    "Name": "Nature called. Look who answered.",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Once you adopt a kid, you've got to keep him.",
+    "Name": "Once you adopt a kid, you've got to keep him.",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Taking what you desire, Getting away with murder.",
+    "Name": "Taking what you desire, Getting away with murder."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A one night stand to end all others.",
+    "Name": "A one night stand to end all others."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:From the proud parents of The 40-Year-Old Virgin.",
+    "Name": "From the proud parents of The 40-Year-Old Virgin."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Imagine if this guy got you pregnant",
+    "Name": "Imagine if this guy got you pregnant"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:From the director of \"The 40-Year-Old Virgin\" comes a comedy about a one night stand that became something more",
+    "Name": "From the director of \"The 40-Year-Old Virgin\" comes a comedy about a one night stand that became something more"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Save the due date",
+    "Name": "Save the due date"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:What if this guy got you pregnant?",
+    "Name": "What if this guy got you pregnant?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:A true story about finding the courage to be yourself.",
+    "Name": "A true story about finding the courage to be yourself."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The Future Begins",
+    "Name": "The Future Begins",
+    "Categories": "Star Trek"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Come and Get Some",
+    "Name": "Come and Get Some"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:\"Hello, my name is Andy and this is my movie.\"",
+    "Name": "\"Hello, my name is Andy and this is my movie.\""
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hello, my name is Andy and this is my poster.",
+    "Name": "Hello, my name is Andy and this is my poster."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Hello, my name is Andy and people are talking about me!",
+    "Name": "Hello, my name is Andy and people are talking about me!"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life is more than the sum of its parts.",
+    "Name": "Life is more than the sum of its parts."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Life is a journey. Bring an open mind.",
+    "Name": "Life is a journey. Bring an open mind."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Why are you wearing that stupid man suit?",
+    "Name": "Why are you wearing that stupid man suit?"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Murder isn't always a crime.",
+    "Name": "Murder isn't always a crime."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:One Dream Will Change Everything",
+    "Name": "One Dream Will Change Everything",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Fame Comes And Goes, Stars Rise And Fall, But Dreams Live Forever",
+    "Name": "Fame Comes And Goes, Stars Rise And Fall, But Dreams Live Forever",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:All you have to do is dream.",
+    "Name": "All you have to do is dream.",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Better late than never.",
+    "Name": "Better late than never."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:The longer you wait, the harder it gets",
+    "Name": "The longer you wait, the harder it gets"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Tagline, Quizes.Portable",
+    "Id": "T:Two's company. Dupree's a crowd.",
+    "Name": "Two's company. Dupree's a crowd."
+  }
+]

@@ -1,0 +1,82 @@
+﻿[
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album1",
+    "Name": "The Red Hot Chili Peppers"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album2",
+    "Name": "Freaky Styley"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album3",
+    "Name": "The Uplift Mofo Party Plan"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album4",
+    "Name": "Mother's Milk"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album5",
+    "Name": "Blood Sugar Sex Magik"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album6",
+    "Name": "One Hot Minute"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album7",
+    "Name": "Californication"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album8",
+    "Name": "By the way"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album9",
+    "Name": "Stadium Arcadium: Jupiter"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album10",
+    "Name": "I'm with You"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album11",
+    "Name": "Stadium Arcadium: Mars"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album12",
+    "Name": "The Abbey Road E.P."
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album13",
+    "Name": "What Hits!?"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album14",
+    "Name": "Under The Covers: Essential RHCP"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album16",
+    "Name": "Red Hot Chili Peppers Greatest Hits"
+  },
+  {
+    "$type": "Quizes.Model.Band.Album, Quizes.Portable",
+    "Id": "Album17",
+    "Name": "The Getaway"
+  }
+]

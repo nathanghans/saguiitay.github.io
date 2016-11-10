@@ -1,0 +1,400 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "GenderSpecific": 0,
+    "Id": "A:Golden Globe Award for Best Drama Film",
+    "Name": "Golden Globe Award for Best Drama Film",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 1,
+    "GenderSpecific": 0,
+    "Id": "A:Golden Globe Award for Best Director - Film",
+    "Name": "Golden Globe Award for Best Director - Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Golden Globe Award for Best Actor - Drama Film",
+    "Name": "Golden Globe Award for Best Actor - Drama Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "GenderSpecific": 0,
+    "Id": "A:Golden Globe Award for Best Film - Musical or Comedy",
+    "Name": "Golden Globe Award for Best Film - Musical or Comedy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Golden Globe Award for Best Actor - Musical or Comedy Film",
+    "Name": "Golden Globe Award for Best Actor - Musical or Comedy Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Golden Globe Award for Best Actress - Drama Film",
+    "Name": "Golden Globe Award for Best Actress - Drama Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Golden Globe Award for Best Actress - Musical or Comedy Film",
+    "Name": "Golden Globe Award for Best Actress - Musical or Comedy Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Golden Globe Award for Best Supporting Actor - Film",
+    "Name": "Golden Globe Award for Best Supporting Actor - Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Golden Globe Award for Best Supporting Actress - Film",
+    "Name": "Golden Globe Award for Best Supporting Actress - Film"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Id": "A:Academy Award for Best Picture",
+    "Name": "Academy Award for Best Picture",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 1,
+    "Id": "A:Academy Award for Best Director",
+    "Name": "Academy Award for Best Director"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Academy Award for Actress in a Leading Role",
+    "Name": "Academy Award for Actress in a Leading Role"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Academy Award for Actor in a Leading Role",
+    "Name": "Academy Award for Actor in a Leading Role"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Academy Award for Actress in a Supporting Role",
+    "Name": "Academy Award for Actress in a Supporting Role"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Academy Award for Actor in a Supporting Role",
+    "Name": "Academy Award for Actor in a Supporting Role"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 1,
+    "GenderSpecific": 0,
+    "Id": "A:Academy Award for Best Original Screenplay",
+    "Name": "Academy Award for Best Original Screenplay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Breakthrough Performance",
+    "Name": "MTV Movie Award for Best Breakthrough Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Comedic Performance",
+    "Name": "MTV Movie Award for Best Comedic Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Fight",
+    "Name": "MTV Movie Award for Best Fight"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Frightened Performance",
+    "Name": "MTV Movie Award for Best Frightened Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Hero",
+    "Name": "MTV Movie Award for Best Hero"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Kiss",
+    "Name": "MTV Movie Award for Best Kiss"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Id": "A:MTV Movie Award for Best Movie",
+    "Name": "MTV Movie Award for Best Movie",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 1,
+    "Id": "A:MTV Movie Award for Best New Filmmaker",
+    "Name": "MTV Movie Award for Best New Filmmaker"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best On-Screen Duo",
+    "Name": "MTV Movie Award for Best On-Screen Duo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 2,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Performance",
+    "Name": "MTV Movie Award for Best Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best Villain",
+    "Name": "MTV Movie Award for Best Villain"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:MTV Movie Award for Most Desirable Female",
+    "Name": "MTV Movie Award for Most Desirable Female"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:MTV Movie Award for Most Desirable Male",
+    "Name": "MTV Movie Award for Most Desirable Male"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Sexiest Performance",
+    "Name": "MTV Movie Award for Sexiest Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:MTV Movie Award for Best Female Performance ",
+    "Name": "MTV Movie Award for Best Female Performance "
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best WTF Moment",
+    "Name": "MTV Movie Award for Best WTF Moment"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:MTV Movie Award for Best Male Performance",
+    "Name": "MTV Movie Award for Best Male Performance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:MTV Movie Award for Best Breakthrough Performance - Female",
+    "Name": "MTV Movie Award for Best Breakthrough Performance - Female"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:MTV Movie Award for Best Breakthrough Performance - Male",
+    "Name": "MTV Movie Award for Best Breakthrough Performance - Male"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Id": "A:MTV Movie Award for Best Action Sequence",
+    "Name": "MTV Movie Award for Best Action Sequence"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Biggest Badass Star",
+    "Name": "MTV Movie Award for Biggest Badass Star"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best On-Screen Transformation",
+    "Name": "MTV Movie Award for Best On-Screen Transformation"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Id": "A:MTV Movie Award for Best Cast",
+    "Name": "MTV Movie Award for Best Cast"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "Id": "A:MTV Movie Award for Best On-Screen Dirtbag",
+    "Name": "MTV Movie Award for Best On-Screen Dirtbag"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Satellite Award for Best Actor – Motion Picture Drama",
+    "Name": "Satellite Award for Best Actor – Motion Picture Drama"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Satellite Award for Best Actor – Motion Picture Musical or Comedy",
+    "Name": "Satellite Award for Best Actor – Motion Picture Musical or Comedy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Satellite Award for Best Actress – Motion Picture Drama",
+    "Name": "Satellite Award for Best Actress – Motion Picture Drama"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Satellite Award for Best Performance by an Actress in a Motion Picture, Comedy or Musical",
+    "Name": "Satellite Award for Best Performance by an Actress in a Motion Picture, Comedy or Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Honoring": 1,
+    "Id": "A:Satellite Award for Best Director",
+    "Name": "Satellite Award for Best Director"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Id": "A:Satellite Award for Best Film – Drama",
+    "Name": "Satellite Award for Best Film – Drama"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 3,
+    "Id": "A:Satellite Award for Best Film – Musical or Comedy",
+    "Name": "Satellite Award for Best Film – Musical or Comedy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Id": "A:Satellite Award for Best Original Screenplay",
+    "Name": "Satellite Award for Best Original Screenplay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Satellite Award for Best Supporting Actor – Comedy or Musical",
+    "Name": "Satellite Award for Best Supporting Actor – Comedy or Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Satellite Award for Best Supporting Actor – Motion Picture",
+    "Name": "Satellite Award for Best Supporting Actor – Motion Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Satellite Award for Best Supporting Actress – Comedy or Musical",
+    "Name": "Satellite Award for Best Supporting Actress – Comedy or Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Satellite Award for Best Supporting Actress – Drama",
+    "Name": "Satellite Award for Best Supporting Actress – Drama"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 2,
+    "Id": "A:Satellite Award for Best Supporting Actress – Motion Picture",
+    "Name": "Satellite Award for Best Supporting Actress – Motion Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Award, Quizes.Portable",
+    "Level": 4,
+    "Honoring": 2,
+    "GenderSpecific": 1,
+    "Id": "A:Satellite Award for Best Supporting Actor – Drama",
+    "Name": "Satellite Award for Best Supporting Actor – Drama"
+  }
+]

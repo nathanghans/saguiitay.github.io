@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "The Beatles Trivia Data"
-permalink: /the-beatles-data/
+title: "RHCP Trivia Data"
+permalink: /rhcp-data/
 author_profile: true
 ---
 
@@ -12,19 +12,16 @@ author_profile: true
 
 <script>
 
-		var people = {% include /games/the-beatles/people %};
+		var people = {% include /games/rhcp/people %};
 		addCollection(people, "People");
 
-		var albums = {% include /games/the-beatles/albums %};
+		var albums = {% include /games/rhcp/albums %};
 		addCollection(albums, "Albums");
 		
-		var songs = {% include /games/the-beatles/songs %};
+		var songs = {% include /games/rhcp/songs %};
 		addCollection(songs, "Songs");
 		
-		var quotes = {% include /games/the-beatles/quotes %};
-		addCollection(quotes, "Quotes");
-
-		var lyrics = {% include /games/the-beatles/lyrics %};
+		var lyrics = {% include /games/rhcp/lyrics %};
 		addCollection(lyrics, "Lyrics");
 		
 		function addCollection(collection, title) {

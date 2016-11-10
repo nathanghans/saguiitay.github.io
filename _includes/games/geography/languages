@@ -1,0 +1,842 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hebrew",
+    "Name": "Hebrew"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Arabic",
+    "Name": "Arabic"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Samoan",
+    "Name": "Samoan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Catalan-Valencian-Balear",
+    "Name": "Catalan-Valencian-Balear"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Portuguese",
+    "Name": "Portuguese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Antigua",
+    "Name": "Antigua"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Spanish",
+    "Name": "Spanish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Armenian",
+    "Name": "Armenian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Papiamentu",
+    "Name": "Papiamentu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:English",
+    "Name": "English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:German",
+    "Name": "German"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:North Azerbaijan",
+    "Name": "North Azerbaijan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Eastern Farsi",
+    "Name": "Eastern Farsi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Albanian",
+    "Name": "Albanian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bahamas Creole English",
+    "Name": "Bahamas Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bengali",
+    "Name": "Bengali"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bajan",
+    "Name": "Bajan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Belarusan",
+    "Name": "Belarusan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Dutch",
+    "Name": "Dutch"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Fon",
+    "Name": "Fon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Nepali",
+    "Name": "Nepali"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bosnian",
+    "Name": "Bosnian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tswana",
+    "Name": "Tswana"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Brunei",
+    "Name": "Brunei"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bulgarian",
+    "Name": "Bulgarian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Mòoré",
+    "Name": "Mòoré"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Rundi",
+    "Name": "Rundi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Central Khmer",
+    "Name": "Central Khmer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:French",
+    "Name": "French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Kabuverdianu",
+    "Name": "Kabuverdianu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Sango",
+    "Name": "Sango"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Mandarin",
+    "Name": "Mandarin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Comorian Ndzwani",
+    "Name": "Comorian Ndzwani"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Rarotongan",
+    "Name": "Rarotongan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Croatian",
+    "Name": "Croatian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Greek",
+    "Name": "Greek"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Czech",
+    "Name": "Czech"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Danish",
+    "Name": "Danish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Afar",
+    "Name": "Afar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Saint Lucian Creole French",
+    "Name": "Saint Lucian Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Mambae",
+    "Name": "Mambae"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tigrigna",
+    "Name": "Tigrigna"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Estonian",
+    "Name": "Estonian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Amharic",
+    "Name": "Amharic"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hindustani Fijian",
+    "Name": "Hindustani Fijian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Finnish",
+    "Name": "Finnish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Guianese Creole French",
+    "Name": "Guianese Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tahitian",
+    "Name": "Tahitian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Punu",
+    "Name": "Punu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Mandinka",
+    "Name": "Mandinka"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Georgian",
+    "Name": "Georgian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Akan",
+    "Name": "Akan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Inuktitut Greenlandic",
+    "Name": "Inuktitut Greenlandic"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Grenadian Creole English",
+    "Name": "Grenadian Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Guadeloupean Creole French",
+    "Name": "Guadeloupean Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Chamorro",
+    "Name": "Chamorro"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Pular",
+    "Name": "Pular"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Balanta-Kentohe",
+    "Name": "Balanta-Kentohe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Guyanese Creole English",
+    "Name": "Guyanese Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Haitian Creole French",
+    "Name": "Haitian Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Cantonese",
+    "Name": "Cantonese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hungarian",
+    "Name": "Hungarian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Icelandic",
+    "Name": "Icelandic"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hindi",
+    "Name": "Hindi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:South Azerbaijani",
+    "Name": "South Azerbaijani"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Javanese",
+    "Name": "Javanese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Italian",
+    "Name": "Italian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Baoulé",
+    "Name": "Baoulé"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Jamaican Creole English",
+    "Name": "Jamaican Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Japanese",
+    "Name": "Japanese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Russian",
+    "Name": "Russian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Gikuyu",
+    "Name": "Gikuyu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Kiribati",
+    "Name": "Kiribati"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Kirghiz",
+    "Name": "Kirghiz"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Lao",
+    "Name": "Lao"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Latvian",
+    "Name": "Latvian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Sotho Southern",
+    "Name": "Sotho Southern"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Lithuanian",
+    "Name": "Lithuanian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Macedonian",
+    "Name": "Macedonian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Nyanja",
+    "Name": "Nyanja"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Malay",
+    "Name": "Malay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Maldivian",
+    "Name": "Maldivian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Bamanankan",
+    "Name": "Bamanankan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Maltese",
+    "Name": "Maltese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Marshallese",
+    "Name": "Marshallese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hassaniyya",
+    "Name": "Hassaniyya"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Morisyen",
+    "Name": "Morisyen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Comorian",
+    "Name": "Comorian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Chuukese",
+    "Name": "Chuukese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Romanian",
+    "Name": "Romanian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Mongolian Halh",
+    "Name": "Mongolian Halh"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Antigua Barbuda Creole English",
+    "Name": "Antigua Barbuda Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Makhuwa",
+    "Name": "Makhuwa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Burmese",
+    "Name": "Burmese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hausa",
+    "Name": "Hausa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Yoruba",
+    "Name": "Yoruba"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Niue",
+    "Name": "Niue"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Korean",
+    "Name": "Korean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Western Panjabi",
+    "Name": "Western Panjabi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Palauan",
+    "Name": "Palauan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Enga",
+    "Name": "Enga"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Guaraní Paraguayan",
+    "Name": "Guaraní Paraguayan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Cebuano",
+    "Name": "Cebuano"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Polish",
+    "Name": "Polish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Kituba",
+    "Name": "Kituba"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Reunion Creole French",
+    "Name": "Reunion Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Rwanda",
+    "Name": "Rwanda"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Vincentian Creole English",
+    "Name": "Vincentian Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Wolof",
+    "Name": "Wolof"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Serbian",
+    "Name": "Serbian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Seselwa Creole French",
+    "Name": "Seselwa Creole French"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Themne",
+    "Name": "Themne"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Min Nan Chinese",
+    "Name": "Min Nan Chinese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Slovak",
+    "Name": "Slovak"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Slovenian",
+    "Name": "Slovenian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Kwara'ae",
+    "Name": "Kwara'ae"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Somali",
+    "Name": "Somali"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Zulu",
+    "Name": "Zulu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Sinhala",
+    "Name": "Sinhala"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Swati",
+    "Name": "Swati"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Swedish",
+    "Name": "Swedish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Sukuma",
+    "Name": "Sukuma"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tajiki",
+    "Name": "Tajiki"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Thai",
+    "Name": "Thai"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Éwé",
+    "Name": "Éwé"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tokelauan",
+    "Name": "Tokelauan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tongan",
+    "Name": "Tongan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tobagonian Creole English",
+    "Name": "Tobagonian Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Turkish",
+    "Name": "Turkish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Turkmen",
+    "Name": "Turkmen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Turks Caicos Creole English",
+    "Name": "Turks Caicos Creole English"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Tuvaluan",
+    "Name": "Tuvaluan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Ganda",
+    "Name": "Ganda"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Ukrainian",
+    "Name": "Ukrainian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Uzbek Northern",
+    "Name": "Uzbek Northern"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Hano",
+    "Name": "Hano"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Vietnamese",
+    "Name": "Vietnamese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Wallisian",
+    "Name": "Wallisian"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Shona",
+    "Name": "Shona"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Language",
+    "Level": 0,
+    "Id": "L:Malagasy Plateau",
+    "Name": "Malagasy Plateau"
+  }
+]

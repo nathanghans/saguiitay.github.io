@@ -1,0 +1,1306 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Peter Jackson",
+    "Name": "Peter Jackson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Mike Newell",
+    "Name": "Mike Newell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:David Yates",
+    "Name": "David Yates"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Chris Columbus",
+    "Name": "Chris Columbus"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+	"Level": 2,
+    "Id": "D:Christopher Nolan",
+    "Name": "Christopher Nolan",
+    "Categories": "Batman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Tim Burton",
+    "Name": "Tim Burton",
+    "Categories": "Batman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+	"Level": 2,
+    "Id": "D:Joel Schumacher",
+    "Name": "Joel Schumacher",
+    "Categories": "Batman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Bryan Singer",
+    "Name": "Bryan Singer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Richard Donner",
+    "Name": "Richard Donner"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Richard Lester",
+    "Name": "Richard Lester"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Sidney J. Furie",
+    "Name": "Sidney J. Furie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Sam Raimi",
+    "Name": "Sam Raimi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Brett Ratner",
+    "Name": "Brett Ratner"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:David Fincher",
+    "Name": "David Fincher"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Steven Soderbergh",
+    "Name": "Steven Soderbergh"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:James Cameron",
+    "Name": "James Cameron"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Jonathan Mostow",
+    "Name": "Jonathan Mostow"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Steven Spielberg",
+    "Name": "Steven Spielberg"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Robert Zemeckis",
+    "Name": "Robert Zemeckis",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Frank Miller",
+    "Name": "Frank Miller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Robert Rodriguez",
+    "Name": "Robert Rodriguez"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Gore Verbinski",
+    "Name": "Gore Verbinski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Rob Marshall",
+    "Name": "Rob Marshall"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Neil Burger",
+    "Name": "Neil Burger"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ridley Scott",
+    "Name": "Ridley Scott"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Clint Eastwood",
+    "Name": "Clint Eastwood",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:James McTeigue",
+    "Name": "James McTeigue"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Tom Shadyac",
+    "Name": "Tom Shadyac"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Richard Curtis",
+    "Name": "Richard Curtis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Nicholas Stoller",
+    "Name": "Nicholas Stoller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Tony Gilroy",
+    "Name": "Tony Gilroy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:George Lucas",
+    "Name": "George Lucas"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Richard Marquand",
+    "Name": "Richard Marquand"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Irvin Kershner",
+    "Name": "Irvin Kershner"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Tom Hooper",
+    "Name": "Tom Hooper"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Jonathan Demme",
+    "Name": "Jonathan Demme"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ron Howard",
+    "Name": "Ron Howard"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Nora Ephron",
+    "Name": "Nora Ephron"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Rob Reiner",
+    "Name": "Rob Reiner"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Frank Darabont",
+    "Name": "Frank Darabont"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Joe Johnston",
+    "Name": "Joe Johnston"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Michel Gondry",
+    "Name": "Michel Gondry"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Martin Scorsese",
+    "Name": "Martin Scorsese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:James L. Brooks",
+    "Name": "James L. Brooks"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Andy Wachowski",
+    "Name": "Andy Wachowski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Lana Wachowski",
+    "Name": "Lana Wachowski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Jan de Bont",
+    "Name": "Jan de Bont"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:John McTiernan",
+    "Name": "John McTiernan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Renny Harlin",
+    "Name": "Renny Harlin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Cameron Crowe",
+    "Name": "Cameron Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:McG",
+    "Name": "McG"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:J.J. Abrams",
+    "Name": "J.J. Abrams"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Brad Bird",
+    "Name": "Brad Bird"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Brian De Palma",
+    "Name": "Brian De Palma"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:John Woo",
+    "Name": "John Woo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Paul Thomas Anderson",
+    "Name": "Paul Thomas Anderson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Ben Stiller",
+    "Name": "Ben Stiller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Jon Turteltaub",
+    "Name": "Jon Turteltaub"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Roland Emmerich",
+    "Name": "Roland Emmerich"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Quentin Tarantino",
+    "Name": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Brad Furman",
+    "Name": "Brad Furman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Rob Bowman",
+    "Name": "Rob Bowman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Jay Roach",
+    "Name": "Jay Roach"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Wes Anderson",
+    "Name": "Wes Anderson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Josh Gordon",
+    "Name": "Josh Gordon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Will Speck",
+    "Name": "Will Speck"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Paul Weitz",
+    "Name": "Paul Weitz",
+    "Categories": "American Pie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:David Dobkin",
+    "Name": "David Dobkin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Doug Liman",
+    "Name": "Doug Liman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Peyton Reed",
+    "Name": "Peyton Reed"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Phillip Noyce",
+    "Name": "Phillip Noyce"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:James Mangold",
+    "Name": "James Mangold"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Will Gluck",
+    "Name": "Will Gluck"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Jake Kasdan",
+    "Name": "Jake Kasdan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Gabriele Muccino",
+    "Name": "Gabriele Muccino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Darren Aronofsky",
+    "Name": "Darren Aronofsky"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Justin Chadwick",
+    "Name": "Justin Chadwick"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Mike Nichols",
+    "Name": "Mike Nichols"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Tony Scott",
+    "Name": "Tony Scott"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Marc Forster",
+    "Name": "Marc Forster"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Barry Levinson",
+    "Name": "Barry Levinson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Gary Fleder",
+    "Name": "Gary Fleder"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Simon West",
+    "Name": "Simon West"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Spike Jonze",
+    "Name": "Spike Jonze"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Gary David Goldberg",
+    "Name": "Gary David Goldberg"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Harold Ramis",
+    "Name": "Harold Ramis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:George Tillman Jr.",
+    "Name": "George Tillman Jr."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Joseph McGinty Nichol",
+    "Name": "Joseph McGinty Nichol"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Alfonso Cuarón",
+    "Name": "Alfonso Cuarón"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Larry Wachowski",
+    "Name": "Larry Wachowski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Oliver Stone",
+    "Name": "Oliver Stone"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Ang Lee",
+    "Name": "Ang Lee"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Gus Van Sant",
+    "Name": "Gus Van Sant"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 2,
+    "Id": "D:Todd Phillips",
+    "Name": "Todd Phillips"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Frank Urson",
+    "Name": "Frank Urson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Sofia Coppola",
+    "Name": "Sofia Coppola"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Anthony Minghella",
+    "Name": "Anthony Minghella"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Neil Jordan",
+    "Name": "Neil Jordan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Barry Sonnenfeld",
+    "Name": "Barry Sonnenfeld"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Garry Marshall",
+    "Name": "Garry Marshall"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:John Lee Hancock",
+    "Name": "John Lee Hancock"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Nick Cassavetes",
+    "Name": "Nick Cassavetes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Robert Benton",
+    "Name": "Robert Benton"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Catherine Hardwicke",
+    "Name": "Catherine Hardwicke"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Roman Polanski",
+    "Name": "Roman Polanski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Sam Mendes",
+    "Name": "Sam Mendes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Jerry Zucker",
+    "Name": "Jerry Zucker"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Mike Figgis",
+    "Name": "Mike Figgis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Neil LaBute",
+    "Name": "Neil LaBute"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Martin Brest",
+    "Name": "Martin Brest"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:John Madden",
+    "Name": "John Madden"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Stephen Gaghan",
+    "Name": "Stephen Gaghan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Lasse Hallström",
+    "Name": "Lasse Hallström"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:David Frankel",
+    "Name": "David Frankel"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:David O. Russell",
+    "Name": "David O. Russell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Andrew Davis",
+    "Name": "Andrew Davis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Norman Jewison",
+    "Name": "Norman Jewison"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Kevin Macdonald",
+    "Name": "Kevin Macdonald"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:David Oyelowo",
+    "Name": "David Oyelowo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Peter Weir",
+    "Name": "Peter Weir"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Terry Gilliam",
+    "Name": "Terry Gilliam"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Rupert Sanders",
+    "Name": "Rupert Sanders"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Joss Whedon",
+    "Name": "Joss Whedon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Jon Favreau",
+    "Name": "Jon Favreau"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:M. Night Shyamalan",
+    "Name": "M. Night Shyamalan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Gary Ross",
+    "Name": "Gary Ross"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Bill Condon",
+    "Name": "Bill Condon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Seth Gordon",
+    "Name": "Seth Gordon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Sylvester Stallone",
+    "Name": "Sylvester Stallone"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Marc Webb",
+    "Name": "Marc Webb"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Seth MacFarlane",
+    "Name": "Seth MacFarlane"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Peter Berg",
+    "Name": "Peter Berg"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Guy Ritchie",
+    "Name": "Guy Ritchie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Danny Cannon",
+    "Name": "Danny Cannon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Marco Brambilla",
+    "Name": "Marco Brambilla"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Luis Llosa",
+    "Name": "Luis Llosa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Dennis Dugan",
+    "Name": "Dennis Dugan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Frank Coraci",
+    "Name": "Frank Coraci"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Peter Segal",
+    "Name": "Peter Segal"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Stephen Norrington",
+    "Name": "Stephen Norrington"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Matthew Vaughn",
+    "Name": "Matthew Vaughn"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Spike Lee",
+    "Name": "Spike Lee"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Zack Snyder",
+    "Name": "Zack Snyder"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Kevin Smith",
+    "Name": "Kevin Smith"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:John Moore",
+    "Name": "John Moore"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Jonathan Levine",
+    "Name": "Jonathan Levine"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Richard LaGravenese",
+    "Name": "Richard LaGravenese"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Tommy Wirkola",
+    "Name": "Tommy Wirkola"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ben Affleck",
+    "Name": "Ben Affleck"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Jason Moore",
+    "Name": "Jason Moore"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Tom Tykwer",
+    "Name": "Tom Tykwer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Rian Johnson",
+    "Name": "Rian Johnson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Roman Polański",
+    "Name": "Roman Polański"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:David Slade",
+    "Name": "David Slade"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Chris Weitz",
+    "Name": "Chris Weitz",
+    "Categories": "American Pie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:George Tillman, Jr.",
+    "Name": "George Tillman, Jr."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:John Hillcoat",
+    "Name": "John Hillcoat"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Sean Anders",
+    "Name": "Sean Anders"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Phil Lord",
+    "Name": "Phil Lord"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Chris Miller",
+    "Name": "Chris Miller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ethan Coen",
+    "Name": "Ethan Coen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Joel Coen",
+    "Name": "Joel Coen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Walt Becker",
+    "Name": "Walt Becker"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Michael Dowse",
+    "Name": "Michael Dowse"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Jay Chandrasekhar",
+    "Name": "Jay Chandrasekhar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Paul Hunter",
+    "Name": "Paul Hunter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Anne Fletcher",
+    "Name": "Anne Fletcher"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Marcos Siega",
+    "Name": "Marcos Siega"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:John August",
+    "Name": "John August"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Andrew Niccol",
+    "Name": "Andrew Niccol"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Joseph Kosinski",
+    "Name": "Joseph Kosinski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Marcos Seiga",
+    "Name": "Marcos Seiga"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ryszard Bolesławski",
+    "Name": "Ryszard Bolesławski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:James B. Rogers",
+    "Name": "James B. Rogers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Bobby Farrelly",
+    "Name": "Bobby Farrelly"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Peter Farrelly",
+    "Name": "Peter Farrelly"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:David Ayer",
+    "Name": "David Ayer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Eli Roth",
+    "Name": "Eli Roth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Baz Luhrmann",
+    "Name": "Baz Luhrmann"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Taylor Hackford",
+    "Name": "Taylor Hackford"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Fernando Meirelles",
+    "Name": "Fernando Meirelles"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Tate Taylor",
+    "Name": "Tate Taylor"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Phyllida Lloyd",
+    "Name": "Phyllida Lloyd"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Tony Kaye",
+    "Name": "Tony Kaye"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Joel Zwick",
+    "Name": "Joel Zwick"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Alexander Payne",
+    "Name": "Alexander Payne"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Evan Goldberg",
+    "Name": "Evan Goldberg"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 4,
+    "Id": "D:Seth Rogen",
+    "Name": "Seth Rogen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Louis Leterrier",
+    "Name": "Louis Leterrier"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Shawn Levy",
+    "Name": "Shawn Levy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Shane Black",
+    "Name": "Shane Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Richard Kelly",
+    "Name": "Richard Kelly"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Anthony Russo",
+    "Name": "Anthony Russo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Joe Russo",
+    "Name": "Joe Russo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Robert Mulligan",
+    "Name": "Robert Mulligan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Robert Luketic",
+    "Name": "Robert Luketic"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Michael Mann",
+    "Name": "Michael Mann"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Bruce Beresford",
+    "Name": "Bruce Beresford"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:F. Gary Gray",
+    "Name": "F. Gary Gray"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Judd Apatow",
+    "Name": "Judd Apatow"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Lee Daniels",
+    "Name": "Lee Daniels"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Neill Blomkamp",
+    "Name": "Neill Blomkamp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Joshua Michael Stern",
+    "Name": "Joshua Michael Stern"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Stephen Sommers",
+    "Name": "Stephen Sommers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Michael Bay",
+    "Name": "Michael Bay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Henry Alex Rubin",
+    "Name": "Henry Alex Rubin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Ariel Vromen",
+    "Name": "Ariel Vromen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Chuck Russell",
+    "Name": "Chuck Russell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Martin Campbell",
+    "Name": "Martin Campbell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Mark Waters",
+    "Name": "Mark Waters"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Wolfgang Petersen",
+    "Name": "Wolfgang Petersen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Alfonso Cuaron",
+    "Name": "Alfonso Cuaron"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Denis Villeneuve",
+    "Name": "Denis Villeneuve"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Joseph Gordon-Levitt",
+    "Name": "Joseph Gordon-Levitt"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Roger Spottiswoode",
+    "Name": "Roger Spottiswoode"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Guy Hamilton",
+    "Name": "Guy Hamilton"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Bennett Miller",
+    "Name": "Bennett Miller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Iain Softley",
+    "Name": "Iain Softley"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Alfonso CuarÃ³n",
+    "Name": "Alfonso CuarÃ³n"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Adam McKay",
+    "Name": "Adam McKay"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Ken Scott",
+    "Name": "Ken Scott"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Peter Hedges",
+    "Name": "Peter Hedges"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Steve McQueen",
+    "Name": "Steve McQueen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Robert Redford",
+    "Name": "Robert Redford"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Denzel Washington",
+    "Name": "Denzel Washington"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Woody Allen",
+    "Name": "Woody Allen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:George Clooney",
+    "Name": "George Clooney"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Id": "D:Randall Wallace",
+    "Name": "Randall Wallace"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:James Gunn",
+    "Name": "James Gunn"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 6,
+    "Id": "D:Luc Besson",
+    "Name": "Luc Besson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Anton Corbijn",
+    "Name": "Anton Corbijn"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Patrick Hughes",
+    "Name": "Patrick Hughes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Person",
+    "Level": 8,
+    "Id": "D:Brian Helgeland",
+    "Name": "Brian Helgeland"
+  }
+]

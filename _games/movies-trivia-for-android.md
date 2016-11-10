@@ -50,3 +50,7 @@ Movies Trivia is a unique trivia game based on a random questions generator engi
 ## Screenshots
 
 {% include gallery %}
+
+## Data
+
+You can see the data used for the game [here](/movies-data/)

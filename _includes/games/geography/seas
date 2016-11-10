@@ -1,0 +1,79 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": true,
+    "Level": 0,
+    "Id": "S:Arctic Ocean",
+    "Name": "Arctic Ocean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": true,
+    "Level": 0,
+    "Id": "S:Atlantic Ocean",
+    "Name": "Atlantic Ocean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": true,
+    "Level": 0,
+    "Id": "S:Indian Ocean",
+    "Name": "Indian Ocean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": true,
+    "Level": 0,
+    "Id": "S:Pacific Ocean",
+    "Name": "Pacific Ocean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": true,
+    "Level": 0,
+    "Id": "S:Southern Ocean",
+    "Name": "Southern Ocean"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 0,
+    "Id": "S:Mediterranean Sea",
+    "Name": "Mediterranean Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 0,
+    "Id": "S:Baltic Sea",
+    "Name": "Baltic Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 1,
+    "Id": "S:Adriatic Sea",
+    "Name": "Adriatic Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 1,
+    "Id": "S:Red Sea",
+    "Name": "Red Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 0,
+    "Id": "S:Black Sea",
+    "Name": "Black Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Sea",
+    "IsOcean": false,
+    "Level": 1,
+    "Id": "S:North Sea",
+    "Name": "North Sea"
+  }
+]

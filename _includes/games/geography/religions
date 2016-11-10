@@ -1,0 +1,38 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Judaism",
+    "Name": "Judaism"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Islam",
+    "Name": "Islam"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Christianity",
+    "Name": "Christianity"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Buddhism",
+    "Name": "Buddhism"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Chinese Universism",
+    "Name": "Chinese Universism"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Religion",
+    "Level": 0,
+    "Id": "R:Hinduism",
+    "Name": "Hinduism"
+  }
+]

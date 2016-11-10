@@ -37,7 +37,7 @@ gallery:
 
 Geography Trivia is a unique trivia game based on a random questions generator engine, that can create thousands of questions. Come test your knowledge about geography.
 
-## Features:
+## Features
 
   - Exceedingly simple and elegant
   - Thousands of questions
@@ -50,3 +50,7 @@ Geography Trivia is a unique trivia game based on a random questions generator e
 ## Screenshots
 
 {% include gallery %}
+
+## Data
+
+You can see the data used for the game [here](/geography-data/)

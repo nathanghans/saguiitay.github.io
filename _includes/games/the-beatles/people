@@ -1,0 +1,1 @@
+[{"$type":"Quizes.Model.Person, Quizes.Portable","Id":"PM","Name":"Paul McCartney"},{"$type":"Quizes.Model.Person, Quizes.Portable","Id":"GH","Name":"George Harrison"},{"$type":"Quizes.Model.Person, Quizes.Portable","Id":"JL","Name":"John Lennon"},{"$type":"Quizes.Model.Person, Quizes.Portable","Id":"RS","Name":"Ringo Starr"}]

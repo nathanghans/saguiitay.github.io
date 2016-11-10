@@ -1,0 +1,2597 @@
+﻿[
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T1_L1",
+    "Name": "I'm gonna ride a sabertooth horse"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T1_L2",
+    "Name": "I dig the dirt and I dig the dust"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T1_L3",
+    "Name": "Just don't show me anything"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T2_L1",
+    "Name": "I'll play the Chili Pepper so the public can rock"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T2_L2",
+    "Name": "Well here's a funky fact that I know is real"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T2_L3",
+    "Name": "I've got no time to think and talk"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T3_L1",
+    "Name": "Hot off the ice"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T3_L2",
+    "Name": "Don't give up the fight in life"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T3_L3",
+    "Name": "Live dreams tonight in life"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T4_L1",
+    "Name": "Now it's time for a jump attack"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T4_L2",
+    "Name": "Say what you got a pumpkin in your pants"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T7_L1",
+    "Name": "Cheer up don't you know your daddy's bad"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T7_L2",
+    "Name": "Give daddy a kiss girl awe dad"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T7_L3",
+    "Name": "Come on sit on your daddy's lap"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T8_L1",
+    "Name": "L.A.'s the place sets my mind ablaze"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T8_L2",
+    "Name": "The action never stops I'm as wild as can be"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A1_T8_L3",
+    "Name": "My body loves to scrump when I lick"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T1_L1",
+    "Name": "His jungle turned to concrete"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T3_L1",
+    "Name": "Where the buffalo roam"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T3_L2",
+    "Name": "I will dance on the grave"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T7_L1",
+    "Name": "Stuck in the muck of the moat"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T7_L2",
+    "Name": "She's built like a bomb"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T8_L1",
+    "Name": "The cups went up like a natural fact"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T8_L2",
+    "Name": "We like to get it up"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T8_L3",
+    "Name": "So love all your brothers"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T8_L4",
+    "Name": "Give it up to this planet full of strife"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T9_L1",
+    "Name": "New Jersey's guns get ready to shoot"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T9_L2",
+    "Name": "Take a walk down the firing room"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T11_L1",
+    "Name": "In the class she's taking notes"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T11_L2",
+    "Name": "Mother Mary don't you know"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T11_L3",
+    "Name": "She's got eyes like Marilyn Monroe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T11_L4",
+    "Name": "From the cross she's raised her head"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T12_L1",
+    "Name": "To make you all feel something sexually"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T12_L2",
+    "Name": "Kissum kissum kissum"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T14_L1",
+    "Name": "It was clean it was neat"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T14_L2",
+    "Name": "I'm a ruler of all that I see"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A2_T14_L3",
+    "Name": "With this stone for a throne"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T1_L1",
+    "Name": "You've got to be afraid"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T1_L2",
+    "Name": "If you're sick of all the bullshit"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T1_L3",
+    "Name": "All you slingers and friends"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T2_L1",
+    "Name": "Why do you do what you do"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T2_L2",
+    "Name": "Don't you know funk's color blind"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T2_L3",
+    "Name": "'Cause the funk is crazy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T3_L1",
+    "Name": "Like two sweet peas"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T3_L2",
+    "Name": "Like freaks of a feather"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T3_L3",
+    "Name": "But I think he knows me better"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T4_L1",
+    "Name": "Someone spilled blood many years ago"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T4_L2",
+    "Name": "Spinnin' down from the clouds"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T5_L1",
+    "Name": "Flashin' lots of cash and spendin' lots-o-loot"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T5_L2",
+    "Name": "He's half man and half cartoon"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T5_L3",
+    "Name": "Face to face with the man in the moon"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T6_L1",
+    "Name": "One day while bathing in the sea"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T6_L2",
+    "Name": "The sun does swim into the sea"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T6_L3",
+    "Name": "The sun shines sweet upon your beach"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T9_L1",
+    "Name": "Won't just let things sit"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T9_L2",
+    "Name": "Like two trains on one track"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T9_L3",
+    "Name": "Jump back for chump love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T10_L1",
+    "Name": "Groovin' a tune straight out of the womb"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T10_L2",
+    "Name": "Everybody come, everybody sing, sing my song"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T10_L3",
+    "Name": "'Cause the streets aren't gold"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T11_L1",
+    "Name": "My love flows like a wise guy's tie"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T11_L2",
+    "Name": "My love is my toes in the sand"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T11_L3",
+    "Name": "My love began from love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T12_L1",
+    "Name": "We represent the Hollywood kids"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T12_L2",
+    "Name": "The party's got girls and the girls got hot"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A3_T12_L3",
+    "Name": "We don't ask we demand"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T1_L1",
+    "Name": "We have strange ways"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T1_L2",
+    "Name": "Our devotion to emotion"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T1_L3",
+    "Name": "You can ask John Doe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T1_L4",
+    "Name": "We're the best of the west"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T3_L1",
+    "Name": "Step right up and listen"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T3_L2",
+    "Name": "Take you on a cosmic ride"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T3_L3",
+    "Name": "I'll do my best to ease your pain"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T3_L4",
+    "Name": "Life's too short to be in a hole"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T3_L5",
+    "Name": "Take your body shake it around"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T4_L1",
+    "Name": "Kings of the court"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T4_L2",
+    "Name": "Other teams pray for dreams"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T4_L3",
+    "Name": "He's going to make rubble"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T4_L4",
+    "Name": "So you might as well go home"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T4_L5",
+    "Name": "Sits in a throne"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T5_L1",
+    "Name": "The freakiest show I know"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T5_L2",
+    "Name": "I'm a freak of nature"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T5_L3",
+    "Name": "Riding down the path"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T5_L4",
+    "Name": "That my life is a dream"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T6_L1",
+    "Name": "Never too soon to be through"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T6_L2",
+    "Name": "Don't slip away and don't forget"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T6_L3",
+    "Name": "If you see me getting high"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T6_L4",
+    "Name": "Too late to tell you how I feel"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T6_L5",
+    "Name": "I pray for you most every day"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T7_L1",
+    "Name": "In a lonely sprawl"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T7_L2",
+    "Name": "Come again some other day"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T7_L3",
+    "Name": "I couldn't make a sound"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T7_L4",
+    "Name": "Aren't you glad you weren't afraid"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T7_L5",
+    "Name": "Funny how the price gets paid"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T8_L1",
+    "Name": "A statue come to life"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T8_L2",
+    "Name": "You've got to let it roll"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T8_L3",
+    "Name": "Echo sounds of soul"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T11_L1",
+    "Name": "I've been on every cover"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T11_L2",
+    "Name": "Begging on our knees"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T11_L3",
+    "Name": "We'll never be better"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T11_L4",
+    "Name": "Thank you very much"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T12_L1",
+    "Name": "The way you sway"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T12_L2",
+    "Name": "She comes and goes"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T12_L3",
+    "Name": "It's a bright and sunny day"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T13_L1",
+    "Name": "I was born in a land"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T13_L2",
+    "Name": "My race has been disgraced"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T13_L3",
+    "Name": "Puts us in a pumpkin shell"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A4_T13_L4",
+    "Name": "I become the anarchist"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L1",
+    "Name": "I've got a soul That cannot sleep"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L2",
+    "Name": "This is my fight"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L3",
+    "Name": "Come on courage"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L4",
+    "Name": "It fills me up like a hollow tree"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L5",
+    "Name": "Misery is not my friend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T1_L6",
+    "Name": "I'll break before I bend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T2_L1",
+    "Name": "Thinkin' he's a wise guy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T2_L2",
+    "Name": "Will not be told to go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T2_L3",
+    "Name": "I'm flyin' so high"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T2_L4",
+    "Name": "Rockin' my red hood"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T3_L1",
+    "Name": "Cut from the know"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T3_L2",
+    "Name": "A feeling of love that day"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T3_L3",
+    "Name": "Your feelings are burning"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T3_L4",
+    "Name": "I don't know what when or why"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T4_L1",
+    "Name": "There are no saints in this land"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T4_L2",
+    "Name": "Confusion is my middle name"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T4_L3",
+    "Name": "Know that I did all I could"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T4_L4",
+    "Name": "Virtue slipped into my shoe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T5_L1",
+    "Name": "If I didn't get the message"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T5_L2",
+    "Name": "Someone full of fun"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T5_L3",
+    "Name": "To be your thief"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T5_L4",
+    "Name": "Swimming in the sound"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T6_L1",
+    "Name": "She don't want me to feel"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T6_L2",
+    "Name": "I could never change"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T6_L3",
+    "Name": "My face will never show"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T6_L4",
+    "Name": "But now she's gone"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T7_L1",
+    "Name": "Born to adore the big bad bison"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T7_L2",
+    "Name": "These are just a few of my favorite things"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T7_L3",
+    "Name": "Talking about my thoughts"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T7_L4",
+    "Name": "Kiss me right here on my tattoo"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T8_L1",
+    "Name": "I can't rest in war"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T8_L2",
+    "Name": "Can you hear me Lord"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T8_L3",
+    "Name": "Hear me when I'm calling you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T8_L4",
+    "Name": "Tears on her pretty face"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T9_L1",
+    "Name": "You do a little dance"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T9_L2",
+    "Name": "Keep it like the kaiser"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T9_L3",
+    "Name": "Greedy little people"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T9_L4",
+    "Name": "Never been a better time"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T10_L1",
+    "Name": "Step into a heaven"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T10_L2",
+    "Name": "Be my soul bride"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T10_L3",
+    "Name": "I mingle with divinity"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T10_L4",
+    "Name": "Where I keep it on the soulside"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T11_L1",
+    "Name": "Together we cry"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T11_L2",
+    "Name": "Now that is a lie"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T11_L3",
+    "Name": "There's nobody out there"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T11_L4",
+    "Name": "Forgot about my love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T11_L5",
+    "Name": "I gave my life away"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T12_L1",
+    "Name": "There's a place for me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T12_L2",
+    "Name": "Going to the jungle"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T12_L3",
+    "Name": "Social grace is a waste of time"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T12_L4",
+    "Name": "Give it to me doctor"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T13_L1",
+    "Name": "Sittin' down in New Orleans"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T13_L2",
+    "Name": "Just kickin' to the licks"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T13_L3",
+    "Name": "That I had seen it all"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T13_L4",
+    "Name": "I could not speak"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T13_L5",
+    "Name": "She made me feel so cozy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T14_L1",
+    "Name": "I ride you for my love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T14_L2",
+    "Name": "Good feelings come to me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T14_L3",
+    "Name": "Do anything for the one I love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T15_L1",
+    "Name": "Memory so sad and sweet"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T15_L2",
+    "Name": "The hole you left my man"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T15_L3",
+    "Name": "I know you won't come back"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T15_L4",
+    "Name": "When I die I will find you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T16_L1",
+    "Name": "Lived a freak of nature"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T16_L2",
+    "Name": "I find I need to scream"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A5_T16_L3",
+    "Name": "Now I lay me down to sleep"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T1_L1",
+    "Name": "To be strong and free"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T1_L2",
+    "Name": "Descended from demented men"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T1_L3",
+    "Name": "You might not like what you see"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T1_L4",
+    "Name": "Sends me crawling"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T2_L1",
+    "Name": "Looking in my own eyes"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T2_L2",
+    "Name": "Someone better slap me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T2_L3",
+    "Name": "Looking in my rear mirror"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T2_L4",
+    "Name": "I'm turning into dust again"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T3_L1",
+    "Name": "Already tormented by our own hands"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T3_L2",
+    "Name": "Hopped a train into the night"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T3_L3",
+    "Name": "Two young brothers on a hovercraft"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T3_L4",
+    "Name": "Storm the stage of Universal"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T4_L1",
+    "Name": "When you don't know yourself"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T4_L2",
+    "Name": "My friends are so distressed"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T4_L3",
+    "Name": "Imagine me taught by tragedy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T4_L4",
+    "Name": "No matter what is what she said"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T5_L1",
+    "Name": "I am just a lousy bum"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T5_L2",
+    "Name": "Confucius might have been confused"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T5_L3",
+    "Name": "Another go in the parking lot"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T5_L4",
+    "Name": "Jumping on a bed in a hotel room"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T6_L1",
+    "Name": "I love the sky and the trees"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T6_L2",
+    "Name": "I'm a teeny tiny little ant"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T6_L3",
+    "Name": "So you have nothing to hide"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T6_L4",
+    "Name": "You're big and tough and macho"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T7_L1",
+    "Name": "Good woman said you gotta believe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T7_L2",
+    "Name": "To mingle with the bumblebee"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T7_L3",
+    "Name": "We live in the jungle"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T7_L4",
+    "Name": "I'd like to share some air with you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T8_L1",
+    "Name": "And find out what it's all about"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T8_L2",
+    "Name": "Just me and my own two feet"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T8_L3",
+    "Name": "You could do it in the city"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T8_L4",
+    "Name": "High desert skies are what I spy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T8_L5",
+    "Name": "A walk could cure most all my blues"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T9_L1",
+    "Name": "My mouth fell open"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T9_L2",
+    "Name": "First time I saw you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T9_L3",
+    "Name": "You never knew this"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T9_L4",
+    "Name": "I liked your whiskers"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T10_L1",
+    "Name": "We just had to stop"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T10_L2",
+    "Name": "Get along and have some fun"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T10_L3",
+    "Name": "Three pounds of love"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T10_L4",
+    "Name": "Sitting in the fire"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T11_L1",
+    "Name": "That I could feel so good"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T11_L2",
+    "Name": "She moves in a rapture"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T11_L3",
+    "Name": "You can smell the purple light"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T11_L4",
+    "Name": "Make your lovin' strong"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T12_L1",
+    "Name": "In the likeness of a fraud"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T12_L2",
+    "Name": "Your hell is something scary"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T12_L3",
+    "Name": "And tell your people live in fear"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T12_L4",
+    "Name": "A rival to the way you see"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T13_L1",
+    "Name": "You are my god, you are my dog"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T13_L2",
+    "Name": "Friends near death, you gave respect"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T13_L3",
+    "Name": "Round and round inside your head"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A6_T13_L4",
+    "Name": "Water flowing and I will drink it"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T1_L1",
+    "Name": "Born in the north"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T1_L2",
+    "Name": "I try not to whine"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T1_L3",
+    "Name": "You say hello and then I say I do"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T1_L4",
+    "Name": "And I saw the fountains"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T2_L1",
+    "Name": "It's getting harder and harder"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T2_L2",
+    "Name": "Under water where thoughts can breathe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T2_L3",
+    "Name": "Staring straight up into the sky"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T2_L4",
+    "Name": "You could die but you're never dead"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T3_L1",
+    "Name": "Sarcastic mister know it all"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T3_L2",
+    "Name": "With the birds I'll share"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T3_L3",
+    "Name": "Push me up against the wall"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T3_L4",
+    "Name": "Soft spoken with a broken jaw"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T4_L1",
+    "Name": "I don't believe it's bad"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T4_L2",
+    "Name": "I thought it up it brought up the past"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T4_L3",
+    "Name": "Centuries are what it meant to me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T4_L4",
+    "Name": "Pour my life into a paper cup"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T5_L1",
+    "Name": "Pick a lock before I knock"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T5_L2",
+    "Name": "Complications of a mastermind"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T5_L3",
+    "Name": "You want to draw some straws"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T5_L4",
+    "Name": "Last temptation of my kind"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T6_L1",
+    "Name": "Dream of silver screen quotations"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T6_L2",
+    "Name": "The sun may rise in the East"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T6_L3",
+    "Name": "Pay your surgeon very well"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T6_L4",
+    "Name": "And buy me a star on the boulevard"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T7_L1",
+    "Name": "When you break it to show"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T7_L2",
+    "Name": "The story of a woman on the morning of a war"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T7_L3",
+    "Name": "I can't tell you who to idolize"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T7_L4",
+    "Name": "Because there's order in the pack"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T8_L1",
+    "Name": "Are you missing the love of your kin"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T8_L2",
+    "Name": "Do you smell like a girl when you smile"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T8_L3",
+    "Name": "Do you carry the moon in your womb"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T8_L4",
+    "Name": "Drifting and floating and fading away"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T9_L1",
+    "Name": "Summer time to talk and swear"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T9_L2",
+    "Name": "London in the summer timer"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T9_L3",
+    "Name": "Hesitate but don't refuse"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T9_L4",
+    "Name": "Down and out and it'll sound all right"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T10_L1",
+    "Name": "Some come up and some come young"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T10_L2",
+    "Name": "The earth is made of dirt and wood"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T10_L3",
+    "Name": "Some come slow and overload"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T10_L4",
+    "Name": "Space is made of everything"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T11_L1",
+    "Name": "No one is waiting"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T11_L2",
+    "Name": "It's such a waste to be wasted"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T11_L3",
+    "Name": "Being face to face with common grace"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T11_L4",
+    "Name": "Sailin' for the sun"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T12_L1",
+    "Name": "You were always my favorite"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T12_L2",
+    "Name": "To celebrate you is greater"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T12_L3",
+    "Name": "Now you see what I came for"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T12_L4",
+    "Name": "A butterfly that flaps its wings"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T13_L1",
+    "Name": "To finger paint is not a sin"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T13_L2",
+    "Name": "Black and white a red and blue"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T13_L3",
+    "Name": "Knock on wood we all stay good"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T13_L4",
+    "Name": "And if I call for you to stay"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T14_L1",
+    "Name": "Break my heart so I can start"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T14_L2",
+    "Name": "It's time to get on top of this"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T14_L3",
+    "Name": "Calling all you shooting stars"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T14_L4",
+    "Name": "All the world reverberated"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T15_L1",
+    "Name": "Fully loaded we got snacks and supplies"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T15_L2",
+    "Name": "Sparkles light with yellow icing"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T15_L3",
+    "Name": "This life is shining more forever in the sun"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A7_T15_L4",
+    "Name": "It's time to steal away"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T1_L1",
+    "Name": "By street but not the freeway"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T1_L2",
+    "Name": "But not the way that we play"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T1_L3",
+    "Name": "I know you want to hold one"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T1_L4",
+    "Name": "I know you never stole one"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T2_L1",
+    "Name": "Cut up from the chase"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T2_L2",
+    "Name": "Nothing better the feeling is so fine"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T2_L3",
+    "Name": "Give it up and I got what I came for"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T2_L4",
+    "Name": "Beats all hands tonight"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T3_L1",
+    "Name": "Where all the junkies go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T3_L2",
+    "Name": "Step into a modern scene"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T3_L3",
+    "Name": "This is my calling"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T3_L4",
+    "Name": "I saw you out there yesterday"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T4_L1",
+    "Name": "Closer than most to you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T4_L2",
+    "Name": "In you a star is born"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T4_L3",
+    "Name": "Way upon the mountain where she died"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T4_L4",
+    "Name": "Show love with no remorse"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T5_L1",
+    "Name": "I'm an ocean in your bedroom"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T5_L2",
+    "Name": "Up from underneath your feet"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T5_L3",
+    "Name": "More will be revealed my friend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T5_L4",
+    "Name": "There's a match now let me light it"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T6_L1",
+    "Name": "What a night to fly my kite on"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T6_L2",
+    "Name": "Did you meet your fortune teller"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T6_L3",
+    "Name": "We'll find a place together"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T6_L4",
+    "Name": "In the water where I center my emotion"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T7_L1",
+    "Name": "Choose not a life of imitation"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T7_L2",
+    "Name": "In time I want to be your best friend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T7_L3",
+    "Name": "Ever wonder if it's all for you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T7_L4",
+    "Name": "Sweetheart is bleeding in the snowcone"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T8_L1",
+    "Name": "Something inside the cards"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T8_L2",
+    "Name": "I'm here to be your only go-between"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T8_L3",
+    "Name": "Come again and tell me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T8_L4",
+    "Name": "Beauty that I can't abuse"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T9_L1",
+    "Name": "Things will never be the same"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T9_L2",
+    "Name": "Messed it up but rest assured"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T9_L3",
+    "Name": "Over the moon by midnight"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T9_L4",
+    "Name": "The rising moon is on the shine"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T10_L1",
+    "Name": "Time to make this clean decision"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T10_L2",
+    "Name": "Renegades with fancy gauges"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T10_L3",
+    "Name": "It's a repeat of a story told"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T10_L4",
+    "Name": "Slay the plague for it's contagious"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T11_L1",
+    "Name": "I see you in the park"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T11_L2",
+    "Name": "Anyone from any other crew"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T11_L3",
+    "Name": "I am small but I am strong"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T11_L4",
+    "Name": "Everyone would take a cue"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T12_L1",
+    "Name": "I can see clearly now"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T12_L2",
+    "Name": "Tell me where you want me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T12_L3",
+    "Name": "Loving every rise and fall"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T12_L4",
+    "Name": "Devil may cry devil may care"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T13_L1",
+    "Name": "Just to redirect my flow"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T13_L2",
+    "Name": "We don't stop, rock around the clock"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T13_L3",
+    "Name": "Like a girl who only knew"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T13_L4",
+    "Name": "Memories of everything"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T14_L1",
+    "Name": "To readjust you've got to trust"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T14_L2",
+    "Name": "You've got your bit part, Mozart"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T14_L3",
+    "Name": "Redefine the line to make your circle sing"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T14_L4",
+    "Name": "Black star motivation"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T15_L1",
+    "Name": "Shiver for me girl"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T15_L2",
+    "Name": "Miles and miles of netherworlds I roam"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T15_L3",
+    "Name": "Carry me down into the waters"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T15_L4",
+    "Name": "A woman that I could keep warm"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T16_L1",
+    "Name": "Does it go from east to west"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T16_L2",
+    "Name": "Checking in just to get it blessed"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T16_L3",
+    "Name": "Make it up and you make a friend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A8_T16_L4",
+    "Name": "I know you said you don't believe"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T1_L1",
+    "Name": "Price you gotta pay when you break the panorama"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T1_L2",
+    "Name": "She's a runner, rebel and a stunner"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T1_L3",
+    "Name": "She's a lover baby and a fighter"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T1_L4",
+    "Name": "Who knew the other side of you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T2_L1",
+    "Name": "Were in my life just to get high on"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T2_L2",
+    "Name": "When will I know that I really can't go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T2_L3",
+    "Name": "Privately divided by a world so undecided"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T2_L4",
+    "Name": "And I do believe what we rely on"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T3_L1",
+    "Name": "When I pick up on that smell"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T3_L2",
+    "Name": "Move around like a scientist"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T3_L3",
+    "Name": "We don't arrive without a surprise"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T3_L4",
+    "Name": "Double up and run like hell"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T4_L1",
+    "Name": "I hope I get what you deserve"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T4_L2",
+    "Name": "Pushing a broom out into space"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T4_L3",
+    "Name": "Stranger things have happened"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T4_L4",
+    "Name": "Derelict days and the stereo plays"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T5_L1",
+    "Name": "Can I get my co-defendant"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T5_L2",
+    "Name": "Must have been a hundred miles"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T5_L3",
+    "Name": "When I was an all aloner"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T5_L4",
+    "Name": "Try to get it through your head"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T6_L1",
+    "Name": "She's got that mood ring"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T6_L2",
+    "Name": "Is leaking from a silhouette"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T6_L3",
+    "Name": "Knock the world right off its feet"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T6_L4",
+    "Name": "Your voodoo right around my neck"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T7_L1",
+    "Name": "Waking up dead inside of my head"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T7_L2",
+    "Name": "No matter what they say"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T7_L3",
+    "Name": "She barely knew her name"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T7_L4",
+    "Name": "Don't even hesitate"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T8_L1",
+    "Name": "Because I'm happy to be sad"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T8_L2",
+    "Name": "A vintage year for pop I hear"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T8_L3",
+    "Name": "All the leaves are turning brown"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T8_L4",
+    "Name": "The will of God is standing still"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T9_L1",
+    "Name": "So full of love and life again"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T9_L2",
+    "Name": "Feel like I'm in love again"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T9_L3",
+    "Name": "All in favor sign the waiver"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T9_L4",
+    "Name": "But now you know what I've been through"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T10_L1",
+    "Name": "Wrap me in your cinnamon"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T10_L2",
+    "Name": "Cry me a future"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T10_L3",
+    "Name": "The tainted new librarian"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T10_L4",
+    "Name": "Just to steal your luck"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T11_L1",
+    "Name": "I've gotta megatropolis in my hand"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T11_L2",
+    "Name": "A little package and off we go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T11_L3",
+    "Name": "Every night I go looking for you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T11_L4",
+    "Name": "Lilacs and contraband"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T12_L1",
+    "Name": "Everything inside of me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T12_L2",
+    "Name": "Compare us to a Ferris wheel"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T12_L3",
+    "Name": "The spirit of a dragon's tear"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T12_L4",
+    "Name": "Blessed are the hypocrites"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T13_L1",
+    "Name": "My shadow side so amplified"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T13_L2",
+    "Name": "Right on the verge just one more dose"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T13_L3",
+    "Name": "I saw you there so unaware"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T13_L4",
+    "Name": "God knows that I really tried"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T14_L1",
+    "Name": "Won't somebody come along"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T14_L2",
+    "Name": "Come along and show me something"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T14_L3",
+    "Name": "You used to be so warm and affectionate"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A9_T14_L4",
+    "Name": "Take a fall and now you got to give it all away"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T1_L1",
+    "Name": "All alone not by myself"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T1_L2",
+    "Name": "Celebrated but undisturbed"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T1_L3",
+    "Name": "Disintegrated by the rising sun"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T1_L4",
+    "Name": "I love the feeling when it falls apart"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T2_L1",
+    "Name": "They come from every state to find"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T2_L2",
+    "Name": "No turning water into wine"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T2_L3",
+    "Name": "This town is made of many things"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T2_L4",
+    "Name": "Some claim to have the fortitude"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T3_L1",
+    "Name": "Hustle, bustle and so much muscle"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T3_L2",
+    "Name": "All I want is for you to be happy"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T3_L3",
+    "Name": "One to treasure the rest of your days here"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T3_L4",
+    "Name": "Sweet precision and soft collision"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T4_L1",
+    "Name": "All the creatures on the beaches"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T4_L2",
+    "Name": "Mom and dad take your don't be sad pill"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T4_L3",
+    "Name": "It's my favorite combination"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T4_L4",
+    "Name": "Read me your scripture now"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T5_L1",
+    "Name": "Any way you want to cut that cake"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T5_L2",
+    "Name": "It looks to me like heaven"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T5_L3",
+    "Name": "It's a long walk down those tracks"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T5_L4",
+    "Name": "She needs somebody to hold"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T6_L1",
+    "Name": "Steady as the rhythm rolls"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T6_L2",
+    "Name": "We're gonna rock it to Ramone's"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T6_L3",
+    "Name": "I've gotta sister making babies"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T6_L4",
+    "Name": "I wish I knew another way"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T7_L1",
+    "Name": "If I were the wiser of the two"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T7_L2",
+    "Name": "Sing it back to you and bring"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T7_L3",
+    "Name": "I'd pick it up and make a crown"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T7_L4",
+    "Name": "We could find a place to stay"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T8_L1",
+    "Name": "She's got ripped back light"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T8_L2",
+    "Name": "Pick a star in the open sky"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T8_L3",
+    "Name": "Where love is your only friend"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T8_L4",
+    "Name": "I walk away from the rank and file"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T9_L1",
+    "Name": "Never 21 when everyone's a sailor"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T9_L2",
+    "Name": "Because it can't be long"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T9_L3",
+    "Name": "Wash me down my station"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T9_L4",
+    "Name": "You'll be swimming like a shark"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T10_L1",
+    "Name": "A funny thing always happens"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T10_L2",
+    "Name": "Cowgirl and a troubadour"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T10_L3",
+    "Name": "Count on you not to complete me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T10_L4",
+    "Name": "Please don't turn away again"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T11_L1",
+    "Name": "Let me show you what I'm talkin' about"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T11_L2",
+    "Name": "Then you'll never have to play dumb"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T11_L3",
+    "Name": "Kinda shady now you're gonna make again"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T11_L4",
+    "Name": "I know you can straddle"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T12_L1",
+    "Name": "The curtain is open"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T12_L2",
+    "Name": "Three times I pray"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T12_L3",
+    "Name": "We've got a pressure drop"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T12_L4",
+    "Name": "Pushing dirt into a Quaker"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T13_L1",
+    "Name": "Some of us get a little"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T13_L2",
+    "Name": "Let's dance all night and day now"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T13_L3",
+    "Name": "Two things I want to say now"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T13_L4",
+    "Name": "We've got to move it"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T14_L1",
+    "Name": "Bear paws and rascal power"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T14_L2",
+    "Name": "Tick tock and waiting for the meteor"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T14_L3",
+    "Name": "Blood flowers in the kitchen"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A11_T14_L4",
+    "Name": "Let's bow our heads"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T1_L1",
+    "Name": "The crimson tide is flowing thru"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T1_L2",
+    "Name": "Several of my best friends wear"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T1_L3",
+    "Name": "The cross between my former queen"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T1_L4",
+    "Name": "Show us love before you go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T2_L1",
+    "Name": "All my life I was"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T2_L2",
+    "Name": "I was really quite a jerk"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T2_L3",
+    "Name": "Why don't they let us in"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T2_L4",
+    "Name": "So I couldn't really get her"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T3_L1",
+    "Name": "If I die before I get it done"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T3_L2",
+    "Name": "You know I'm almost dead"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T3_L3",
+    "Name": "We all crossed when we were feeling lost"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T3_L4",
+    "Name": "Another son will rise"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T4_L1",
+    "Name": "When you give you love away"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T4_L2",
+    "Name": "More and more I wanna raise"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T4_L3",
+    "Name": "We walk out in that road"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T4_L4",
+    "Name": "No matter what you might incur"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T5_L1",
+    "Name": "It's getting longer all the time"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T5_L2",
+    "Name": "Nothing stops the ache"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T5_L3",
+    "Name": "She likes the taste of it"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T5_L4",
+    "Name": "Before it's time to close the store"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T6_L1",
+    "Name": "And you best beware"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T6_L2",
+    "Name": "But you had to know"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T6_L3",
+    "Name": "It'll come true if you say it will"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T6_L4",
+    "Name": "Please don't look right though me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T7_L1",
+    "Name": "We better get it on the go"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T7_L2",
+    "Name": "We've got to make it rain somehow"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T7_L3",
+    "Name": "Who knew that she had the goods"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T7_L4",
+    "Name": "You've got the wrong girl"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T8_L1",
+    "Name": "The planet does another revolution"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T8_L2",
+    "Name": "Without the stipulations"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T8_L3",
+    "Name": "I want to lean on you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T8_L4",
+    "Name": "I want to dance to everyday's occasion"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T9_L1",
+    "Name": "But he never makes a sound"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T9_L2",
+    "Name": "Good things come to those who wait"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T9_L3",
+    "Name": "Curb your tongue oh scallywag"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T9_L4",
+    "Name": "Every dog will have his day"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T10_L1",
+    "Name": "Living the dream of a meteorite"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T10_L2",
+    "Name": "Tell me now, I'll tell you how"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T10_L3",
+    "Name": "Make time for love and your happiness"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T10_L4",
+    "Name": "Better than ever like never before"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T11_L1",
+    "Name": "But we both know it's somewhere"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T11_L2",
+    "Name": "I saw you on the back page"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T11_L3",
+    "Name": "Coming to pursue her"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T11_L4",
+    "Name": "And I left it all for your head"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T12_L1",
+    "Name": "God is good and fate is great"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T12_L2",
+    "Name": "Had to have been one of those things"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T12_L3",
+    "Name": "People try to tell me"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T12_L4",
+    "Name": "Even you never had my back"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T13_L1",
+    "Name": "Please don't ask me who"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T13_L2",
+    "Name": "And I'll wait for you"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T13_L3",
+    "Name": "I thought you ought to know"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T13_L4",
+    "Name": "Takin' it all for a ride"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T14_L1",
+    "Name": "You got yours and I've got mine"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T14_L2",
+    "Name": "Give yourself a chance"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T14_L3",
+    "Name": "I've got love but you've got more"
+  },
+  {
+    "$type": "Quizes.Model.Band.Lyrics, Quizes.Portable",
+    "Id": "A10_T14_L4",
+    "Name": "The holiness of play is here to stay"
+  }
+]

@@ -1,0 +1,3392 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frodo Baggins",
+    "Name": "Frodo Baggins",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gandalf",
+    "Name": "Gandalf",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Aragorn",
+    "Name": "Aragorn",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Legolas",
+    "Name": "Legolas",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gollum/Smeagol",
+    "Name": "Gollum/Smeagol",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Pippin",
+    "Name": "Pippin",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gimli",
+    "Name": "Gimli",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Arwen",
+    "Name": "Arwen",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Eowyn",
+    "Name": "Eowyn",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Elrond",
+    "Name": "Elrond",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Boromir",
+    "Name": "Boromir",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bilbo Baggins",
+    "Name": "Bilbo Baggins",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Galadriel",
+    "Name": "Galadriel",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Faramir",
+    "Name": "Faramir",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Eomer",
+    "Name": "Eomer",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Denethor",
+    "Name": "Denethor",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Samwise 'Sam' Gamgee",
+    "Name": "Samwise 'Sam' Gamgee",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Saruman",
+    "Name": "Saruman",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Meriadoc 'Merry' Brandybuck",
+    "Name": "Meriadoc 'Merry' Brandybuck",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sauron",
+    "Name": "Sauron",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Theoden",
+    "Name": "Theoden",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Grima Wormtongue",
+    "Name": "Grima Wormtongue",
+    "Categories": "Middle Earth; The Lord of the Rings; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Harry Potter",
+    "Name": "Harry Potter",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ron Weasley",
+    "Name": "Ron Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Hermione Granger",
+    "Name": "Hermione Granger",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bellatrix Lestrange",
+    "Name": "Bellatrix Lestrange",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lord Voldemort",
+    "Name": "Lord Voldemort",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Albus Dumbledore",
+    "Name": "Professor Albus Dumbledore",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Severus Snape",
+    "Name": "Professor Severus Snape",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rubeus Hagrid",
+    "Name": "Rubeus Hagrid",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ginny Weasley",
+    "Name": "Ginny Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Ollivander",
+    "Name": "Mr. Ollivander",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Wormtail",
+    "Name": "Wormtail",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Draco Malfoy",
+    "Name": "Draco Malfoy",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rita Skeeter",
+    "Name": "Rita Skeeter",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dolores Umbridge",
+    "Name": "Dolores Umbridge",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rufus Scrimgeour",
+    "Name": "Rufus Scrimgeour",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Vernon Dursley",
+    "Name": "Vernon Dursley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Sybil Trelawney",
+    "Name": "Professor Sybil Trelawney",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sirius Black",
+    "Name": "Sirius Black",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Minerva McGonagall",
+    "Name": "Professor Minerva McGonagall",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dudley Dursley",
+    "Name": "Dudley Dursley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Molly Weasley",
+    "Name": "Molly Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Petunia Dursley",
+    "Name": "Petunia Dursley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lucius Malfoy",
+    "Name": "Lucius Malfoy",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Luna Lovegood",
+    "Name": "Luna Lovegood",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bill Weasley",
+    "Name": "Bill Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Fleur Delacour",
+    "Name": "Fleur Delacour",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Madam Pomfrey",
+    "Name": "Madam Pomfrey",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Remus Lupin",
+    "Name": "Remus Lupin",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Narcissa Malfoy",
+    "Name": "Narcissa Malfoy",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Horace Slughorn",
+    "Name": "Professor Horace Slughorn",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:George Weasley",
+    "Name": "George Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Percy Weasley",
+    "Name": "Percy Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Arthur Weasley",
+    "Name": "Arthur Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Fred Weasley",
+    "Name": "Fred Weasley",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Neville Longbottom",
+    "Name": "Neville Longbottom",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Argus Filch",
+    "Name": "Argus Filch",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Pomona Sprout",
+    "Name": "Professor Pomona Sprout",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Cho Chang",
+    "Name": "Cho Chang",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Fenrir Greyback",
+    "Name": "Fenrir Greyback",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Cornelius Fudge",
+    "Name": "Cornelius Fudge",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:James Potter",
+    "Name": "James Potter",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lily Potter",
+    "Name": "Lily Potter",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nymphadora Tonks",
+    "Name": "Nymphadora Tonks",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Alastor \"Mad-Eye\" Moody",
+    "Name": "Alastor \"Mad-Eye\" Moody",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Grubbly-Plank",
+    "Name": "Professor Grubbly-Plank",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor Filius Flitwick",
+    "Name": "Professor Filius Flitwick",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Peter Pettigrew",
+    "Name": "Peter Pettigrew",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nearly Headless Nick",
+    "Name": "Nearly Headless Nick",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dobby the House Elf",
+    "Name": "Dobby the House Elf",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Tom Riddle",
+    "Name": "Tom Riddle",
+    "Categories": "Harry Potter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Batman/Bruce Wayne",
+    "Name": "Batman/Bruce Wayne",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rachel Dawes",
+    "Name": "Rachel Dawes",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lucius Fox",
+    "Name": "Lucius Fox",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Henri Ducard",
+    "Name": "Henri Ducard",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Jonathan Crane/Scarecrow",
+    "Name": "Dr. Jonathan Crane/Scarecrow",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Carmine Falcone",
+    "Name": "Carmine Falcone",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ra's Al Ghul",
+    "Name": "Ra's Al Ghul",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Alfred Pennyworth",
+    "Name": "Alfred Pennyworth",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Joker/Jack Napier",
+    "Name": "Joker/Jack Napier",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Vicki Vale",
+    "Name": "Vicki Vale",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Commissioner Gordon",
+    "Name": "Commissioner Gordon",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:The Penguin/Oswald Cobblepot",
+    "Name": "The Penguin/Oswald Cobblepot",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Catwoman/Selina Kyle",
+    "Name": "Catwoman/Selina Kyle",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Max Shreck",
+    "Name": "Max Shreck",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:The Mayor of Gotham",
+    "Name": "The Mayor of Gotham",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Harvey Two-Face/Harvey Dent",
+    "Name": "Harvey Two-Face/Harvey Dent",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Riddler/Edward Nygma",
+    "Name": "Riddler/Edward Nygma",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Dr. Chase Meridian",
+    "Name": "Dr. Chase Meridian",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Crime Boss Moroni",
+    "Name": "Crime Boss Moroni",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Mr. Freeze/Dr. Victor Fries",
+    "Name": "Mr. Freeze/Dr. Victor Fries",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Robin/Dick Grayson",
+    "Name": "Robin/Dick Grayson",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Poison Ivy/Dr. Pamela Isley",
+    "Name": "Poison Ivy/Dr. Pamela Isley",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Batgirl/Barbara Wilson",
+    "Name": "Batgirl/Barbara Wilson",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Julie Madison",
+    "Name": "Julie Madison",
+    "Categories": "Batman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Superman/Clark Kent",
+    "Name": "Superman/Clark Kent",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Lois Lane",
+    "Name": "Lois Lane",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Richard White",
+    "Name": "Richard White",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Martha Kent",
+    "Name": "Martha Kent",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Kitty Kowalski",
+    "Name": "Kitty Kowalski",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jimmy Olsen",
+    "Name": "Jimmy Olsen",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Lex Luthor",
+    "Name": "Lex Luthor",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jor-El",
+    "Name": "Jor-El",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jonathan Kent",
+    "Name": "Jonathan Kent",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Perry White",
+    "Name": "Perry White",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Gus Gorman",
+    "Name": "Gus Gorman",
+    "Categories": "Superman; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Lana Lang",
+    "Name": "Lana Lang",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Spider-Man/Peter Parker",
+    "Name": "Spider-Man/Peter Parker",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mary Jane Watson",
+    "Name": "Mary Jane Watson",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:J. Jonah Jameson",
+    "Name": "J. Jonah Jameson",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Harry Osborn/New Goblin",
+    "Name": "Harry Osborn/New Goblin",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sandman/Flint Marko",
+    "Name": "Sandman/Flint Marko",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Venom/Eddie Brock",
+    "Name": "Venom/Eddie Brock",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gwen Stacy",
+    "Name": "Gwen Stacy",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:May Parker",
+    "Name": "May Parker",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Captain Stacy",
+    "Name": "Captain Stacy",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Green Goblin/Norman Osborn",
+    "Name": "Green Goblin/Norman Osborn",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ben Parker",
+    "Name": "Ben Parker",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Otto Octavius AKA Doctor Octopus",
+    "Name": "Dr. Otto Octavius AKA Doctor Octopus",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Wolverine/Logan",
+    "Name": "Wolverine/Logan",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Storm/Ororo Munroe",
+    "Name": "Storm/Ororo Munroe",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Magneto/Eric Lehnsherr",
+    "Name": "Magneto/Eric Lehnsherr",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Phoenix/Jean Grey",
+    "Name": "Phoenix/Jean Grey",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rogue/Marie",
+    "Name": "Rogue/Marie",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Beast/Dr. Henry \"Hank\" McCoy",
+    "Name": "Beast/Dr. Henry \"Hank\" McCoy",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Cyclops/Scott Summers",
+    "Name": "Cyclops/Scott Summers",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mystique/Raven Darkholme",
+    "Name": "Mystique/Raven Darkholme",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Pyro/John Allerdyce",
+    "Name": "Pyro/John Allerdyce",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Juggernaut/Cain Marko",
+    "Name": "Juggernaut/Cain Marko",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor X/Professor Charles Xavier",
+    "Name": "Professor X/Professor Charles Xavier",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:William Stryker",
+    "Name": "William Stryker",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nightcrawler/Kurt Wagner",
+    "Name": "Nightcrawler/Kurt Wagner",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Senator Kelly",
+    "Name": "Senator Kelly",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Iceman/Bobby Drake",
+    "Name": "Iceman/Bobby Drake",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sabretooth",
+    "Name": "Sabretooth",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Toad",
+    "Name": "The Toad",
+    "Categories": "X-Men; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Tyler Durden",
+    "Name": "Tyler Durden"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Marla Singer",
+    "Name": "Marla Singer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Big Bob Paulson",
+    "Name": "Big Bob Paulson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Angel Face",
+    "Name": "Angel Face"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Danny Ocean",
+    "Name": "Danny Ocean",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rusty Ryan",
+    "Name": "Rusty Ryan",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Linus Caldwell",
+    "Name": "Linus Caldwell",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Basher Tarr",
+    "Name": "Basher Tarr",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Terry Benedict",
+    "Name": "Terry Benedict",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Virgil Malloy",
+    "Name": "Virgil Malloy",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Tess Ocean",
+    "Name": "Tess Ocean",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Saul Bloom",
+    "Name": "Saul Bloom",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Turk Malloy",
+    "Name": "Turk Malloy",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Reuben Tishkoff",
+    "Name": "Reuben Tishkoff",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Livingston Dell",
+    "Name": "Livingston Dell",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Catton",
+    "Name": "Frank Catton",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Yen",
+    "Name": "Yen",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Willy Bank",
+    "Name": "Willy Bank"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Roman Nagel",
+    "Name": "Roman Nagel",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Francois Toulour",
+    "Name": "Francois Toulour",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Isabel Lahiri",
+    "Name": "Isabel Lahiri",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Matsui",
+    "Name": "Matsui",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:The Terminator",
+    "Name": "The Terminator",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sarah Connor",
+    "Name": "Sarah Connor",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John Connor",
+    "Name": "John Connor",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:T-1000",
+    "Name": "T-1000",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Miles Dyson",
+    "Name": "Miles Dyson",
+    "Categories": "Terminator; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kyle Reese",
+    "Name": "Kyle Reese",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Kate",
+    "Name": "Kate",
+    "Categories": "Heath Ledger"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:T-X",
+    "Name": "T-X",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Capt. John Miller",
+    "Name": "Capt. John Miller",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Sgt. Horvath",
+    "Name": "Sgt. Horvath",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Pvt. James Ryan",
+    "Name": "Pvt. James Ryan",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Marty McFly",
+    "Name": "Marty McFly",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Emmett Brown",
+    "Name": "Dr. Emmett Brown",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:George McFly",
+    "Name": "George McFly",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Biff Tannen/Griff",
+    "Name": "Biff Tannen/Griff",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jennifer",
+    "Name": "Jennifer",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Clara Clayton",
+    "Name": "Clara Clayton",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Buford \"Mad Dog\" Tannen",
+    "Name": "Buford \"Mad Dog\" Tannen",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lorraine McFly",
+    "Name": "Lorraine McFly",
+    "Categories": "Back to the Future"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Nancy",
+    "Name": "Nancy",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Becky",
+    "Name": "Becky"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Senator Roark",
+    "Name": "Senator Roark",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Gail",
+    "Name": "Gail"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jackie Boy",
+    "Name": "Jackie Boy",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Lucille",
+    "Name": "Lucille",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:The Man",
+    "Name": "The Man",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Cardinal Roark",
+    "Name": "Cardinal Roark",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Bob",
+    "Name": "Bob"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Shellie",
+    "Name": "Shellie",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Dwight",
+    "Name": "Dwight"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Marv",
+    "Name": "Marv",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Junior/Yellow Bastard",
+    "Name": "Junior/Yellow Bastard",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Hartigan",
+    "Name": "Hartigan",
+    "Categories": "Comics; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Kevin",
+    "Name": "Kevin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Will Turner",
+    "Name": "Will Turner",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Elizabeth Swann",
+    "Name": "Elizabeth Swann",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Norrington",
+    "Name": "Norrington",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Joshamee Gibbs",
+    "Name": "Joshamee Gibbs",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Anamaria",
+    "Name": "Anamaria",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Davy Jones",
+    "Name": "Davy Jones",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Governor Weatherby Swann",
+    "Name": "Governor Weatherby Swann",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:\"Bootstrap\" Bill Turner",
+    "Name": "\"Bootstrap\" Bill Turner",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Captain Jack Sparrow",
+    "Name": "Captain Jack Sparrow",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Angelica",
+    "Name": "Angelica",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Captain Hector Barbossa",
+    "Name": "Captain Hector Barbossa",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Blackbeard",
+    "Name": "Blackbeard",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Robert Angier",
+    "Name": "Robert Angier"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Alfred Borden",
+    "Name": "Alfred Borden"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Cutter",
+    "Name": "Cutter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Olivia Wenscombe",
+    "Name": "Olivia Wenscombe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Tesla",
+    "Name": "Tesla"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Alley",
+    "Name": "Alley"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Eisenheim",
+    "Name": "Eisenheim"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Chief Inspector Uhl",
+    "Name": "Chief Inspector Uhl"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Duchess Sophie von Teschen",
+    "Name": "Duchess Sophie von Teschen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Maximus",
+    "Name": "Maximus",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Commodus",
+    "Name": "Commodus",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Lucilla",
+    "Name": "Lucilla",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Proximo",
+    "Name": "Proximo",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Frankie Dunn",
+    "Name": "Frankie Dunn",
+    "Categories": "Morgan Freeman; Clint Eastwood; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Maggie Fitzgerald",
+    "Name": "Maggie Fitzgerald",
+    "Categories": "Morgan Freeman; Clint Eastwood; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Eddie Scrap-Iron Dupris",
+    "Name": "Eddie Scrap-Iron Dupris",
+    "Categories": "Morgan Freeman; Clint Eastwood; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Evey",
+    "Name": "Evey",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Finch",
+    "Name": "Finch",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Deitrich",
+    "Name": "Deitrich",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 3,
+    "Id": "C:Adam Sutler",
+    "Name": "Adam Sutler",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:V",
+    "Name": "V",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jake Sully",
+    "Name": "Jake Sully",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Neytiri",
+    "Name": "Neytiri",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Grace",
+    "Name": "Grace"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Col. Miles Quaritch",
+    "Name": "Col. Miles Quaritch",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Trudy Chacon",
+    "Name": "Trudy Chacon",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Parker Selfridge",
+    "Name": "Parker Selfridge",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Norm Spellman",
+    "Name": "Norm Spellman",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bruce Nolan",
+    "Name": "Bruce Nolan",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:God",
+    "Name": "God",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Evan Baxter",
+    "Name": "Evan Baxter",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Joan Baxter",
+    "Name": "Joan Baxter",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Congressman Long",
+    "Name": "Congressman Long",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Harry",
+    "Name": "Harry",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Billy Mack",
+    "Name": "Billy Mack",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Jamie",
+    "Name": "Jamie"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Karen",
+    "Name": "Karen",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:The Prime Minister",
+    "Name": "The Prime Minister",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Daniel",
+    "Name": "Daniel",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Natalie",
+    "Name": "Natalie",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Juliet",
+    "Name": "Juliet",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Mark",
+    "Name": "Mark",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:President of the United States of America",
+    "Name": "President of the United States of America",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Peter Bretter",
+    "Name": "Peter Bretter",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Sarah Marshall",
+    "Name": "Sarah Marshall",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Rachael",
+    "Name": "Rachael"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Aldous Snow",
+    "Name": "Aldous Snow",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Claire Stenwick",
+    "Name": "Claire Stenwick"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Ray Koval",
+    "Name": "Ray Koval"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Howard Tully",
+    "Name": "Howard Tully"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Richard 'Dick' Garsik",
+    "Name": "Richard 'Dick' Garsik"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Qui-Gon Jinn",
+    "Name": "Qui-Gon Jinn",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Queen Amidala / Padme Naberrie",
+    "Name": "Queen Amidala / Padme Naberrie",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Yoda",
+    "Name": "Yoda",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jar Jar Binks",
+    "Name": "Jar Jar Binks",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mace Windu",
+    "Name": "Mace Windu",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:C-3PO",
+    "Name": "C-3PO",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Anakin Skywalker/Darth Vader",
+    "Name": "Anakin Skywalker/Darth Vader",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:R2-D2",
+    "Name": "R2-D2",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Count Dooku",
+    "Name": "Count Dooku",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Chewbacca",
+    "Name": "Chewbacca",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Luke Skywalker",
+    "Name": "Luke Skywalker",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Han Solo",
+    "Name": "Han Solo",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Princess Leia Organa",
+    "Name": "Princess Leia Organa",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ben Obi-Wan Kenobi",
+    "Name": "Ben Obi-Wan Kenobi",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lando Calrissian",
+    "Name": "Lando Calrissian",
+    "Categories": "Star Wars"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:King George 'Bertie' VI",
+    "Name": "King George 'Bertie' VI",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lionel Logue",
+    "Name": "Lionel Logue",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Queen Elizabeth the Queen Mother",
+    "Name": "Queen Elizabeth the Queen Mother",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:King Edward VIII",
+    "Name": "King Edward VIII",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Winston Churchill",
+    "Name": "Winston Churchill",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:King George V",
+    "Name": "King George V",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Indiana Jones",
+    "Name": "Indiana Jones",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Irina Spalko",
+    "Name": "Irina Spalko",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Marion Ravenwood",
+    "Name": "Marion Ravenwood",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mutt Williams",
+    "Name": "Mutt Williams",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Marcus Brody",
+    "Name": "Marcus Brody",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Henry Jones",
+    "Name": "Dr. Henry Jones",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Young Indiana Jones",
+    "Name": "Young Indiana Jones",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Willie Scott",
+    "Name": "Willie Scott",
+    "Categories": "Indiana Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Forrest Gump",
+    "Name": "Forrest Gump",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jenny Curran",
+    "Name": "Jenny Curran",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lt. Dan Taylor",
+    "Name": "Lt. Dan Taylor",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bubba Blue",
+    "Name": "Bubba Blue",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mrs. Gump",
+    "Name": "Mrs. Gump",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Andrew Beckett",
+    "Name": "Andrew Beckett"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Joe Miller",
+    "Name": "Joe Miller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Miguel Alvarez",
+    "Name": "Miguel Alvarez"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jim Lovell",
+    "Name": "Jim Lovell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sam Baldwin",
+    "Name": "Sam Baldwin",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Annie Reed",
+    "Name": "Annie Reed",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Harry Burns",
+    "Name": "Harry Burns",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sally Albright",
+    "Name": "Sally Albright",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Viktor Navorski",
+    "Name": "Viktor Navorski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Amelia Warren",
+    "Name": "Amelia Warren"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Abagnale Jr.",
+    "Name": "Frank Abagnale Jr."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Carl Hanratty",
+    "Name": "Carl Hanratty"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Abagnale Sr.",
+    "Name": "Frank Abagnale Sr."
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Paul Edgecomb",
+    "Name": "Paul Edgecomb"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Brutus \"Brutal\" Howell",
+    "Name": "Brutus \"Brutal\" Howell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John Coffey",
+    "Name": "John Coffey"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Joe Fox",
+    "Name": "Joe Fox",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kathleen Kelly",
+    "Name": "Kathleen Kelly",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Oskar Schindler",
+    "Name": "Oskar Schindler",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Itzhak Stern",
+    "Name": "Itzhak Stern",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Amon Goeth",
+    "Name": "Amon Goeth",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Alan Grant",
+    "Name": "Alan Grant",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Ellie Sattler",
+    "Name": "Dr. Ellie Sattler",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ian Malcolm",
+    "Name": "Ian Malcolm",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John Hammond",
+    "Name": "John Hammond",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sarah Harding",
+    "Name": "Sarah Harding",
+    "Categories": "Jurassic Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Elliott",
+    "Name": "Elliott",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Joel Barish",
+    "Name": "Joel Barish"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Clementine Kruczynski",
+    "Name": "Clementine Kruczynski"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Chief Martin Brody",
+    "Name": "Chief Martin Brody"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Robert Langdon",
+    "Name": "Robert Langdon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sophie Neveu",
+    "Name": "Sophie Neveu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sir Leigh Teabing",
+    "Name": "Sir Leigh Teabing"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bishop Aringarosa",
+    "Name": "Bishop Aringarosa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Silas",
+    "Name": "Silas"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Captain Bezu Fache",
+    "Name": "Captain Bezu Fache"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Vittoria Vetra",
+    "Name": "Vittoria Vetra"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Camerlengo",
+    "Name": "Camerlengo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jack Dawson",
+    "Name": "Jack Dawson",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rose DeWitt Bukater",
+    "Name": "Rose DeWitt Bukater",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Harry Tasker",
+    "Name": "Harry Tasker"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Helen Tasker",
+    "Name": "Helen Tasker"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Albert 'Gib' Gibson",
+    "Name": "Albert 'Gib' Gibson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Billy Costigan",
+    "Name": "Billy Costigan",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Colin Sullivan",
+    "Name": "Colin Sullivan",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Costello",
+    "Name": "Frank Costello",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Howard Hughes",
+    "Name": "Howard Hughes",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Katharine Hepburn",
+    "Name": "Katharine Hepburn",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Amsterdam Vallon",
+    "Name": "Amsterdam Vallon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:William Cutting a.k.a. Bill the Butcher",
+    "Name": "William Cutting a.k.a. Bill the Butcher"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jenny Everdeane",
+    "Name": "Jenny Everdeane"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sam (Ace) Rothstein",
+    "Name": "Sam (Ace) Rothstein"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:James Conway",
+    "Name": "James Conway"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Travis Bickle",
+    "Name": "Travis Bickle"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Edward Cole",
+    "Name": "Edward Cole",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Carter Chambers",
+    "Name": "Carter Chambers",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Melvin Udall",
+    "Name": "Melvin Udall",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lieutenant J.G. Daniel Kaffe",
+    "Name": "Lieutenant J.G. Daniel Kaffe",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Col. Nathan R. Jessep",
+    "Name": "Col. Nathan R. Jessep",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Neo",
+    "Name": "Neo",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Morpheus",
+    "Name": "Morpheus",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Trinity",
+    "Name": "Trinity",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Agent Smith",
+    "Name": "Agent Smith",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Oracle",
+    "Name": "The Oracle",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Persephone",
+    "Name": "Persephone",
+    "Categories": "The Matrix"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jack Traven",
+    "Name": "Jack Traven"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Howard Payne",
+    "Name": "Howard Payne"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Annie Porter",
+    "Name": "Annie Porter"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John McClane",
+    "Name": "John McClane",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Matt Farrell",
+    "Name": "Matt Farrell"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Hans Gruber",
+    "Name": "Hans Gruber",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Simon Gruber/Peter Krieg",
+    "Name": "Simon Gruber/Peter Krieg",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Zeus Carver",
+    "Name": "Zeus Carver",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Holly McClane",
+    "Name": "Holly McClane",
+    "Categories": "Die Hard; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Martin Riggs",
+    "Name": "Martin Riggs",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Roger Murtaugh",
+    "Name": "Roger Murtaugh",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Leo Getz",
+    "Name": "Leo Getz",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lorna Cole",
+    "Name": "Lorna Cole",
+    "Categories": "Lethal Weapon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:William Miller",
+    "Name": "William Miller",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Russell Hammond",
+    "Name": "Russell Hammond",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Penny Lane",
+    "Name": "Penny Lane",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jeff Bebe",
+    "Name": "Jeff Bebe",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jerry Maguire",
+    "Name": "Jerry Maguire",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Rod Tidwell",
+    "Name": "Rod Tidwell",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dorothy Boyd",
+    "Name": "Dorothy Boyd",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Marcus Wright",
+    "Name": "Marcus Wright",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kate Connor",
+    "Name": "Kate Connor",
+    "Categories": "Terminator"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dylan",
+    "Name": "Dylan",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Alex",
+    "Name": "Alex"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jimmy Bosley",
+    "Name": "Jimmy Bosley",
+    "Categories": "Charlie's Angels; Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bosley",
+    "Name": "Bosley",
+    "Categories": "Charlie's Angels"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Detective Inspector Lee",
+    "Name": "Detective Inspector Lee",
+    "Categories": "Rush Hour"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Detective James Carter",
+    "Name": "Detective James Carter",
+    "Categories": "Rush Hour"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Cobb",
+    "Name": "Cobb",
+    "Categories": "Bruce Willis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Saito",
+    "Name": "Saito"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Corvin",
+    "Name": "Frank Corvin",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Hawk Hawkins",
+    "Name": "Hawk Hawkins",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jerry O'Neil",
+    "Name": "Jerry O'Neil",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Tank Sullivan",
+    "Name": "Tank Sullivan",
+    "Categories": "Clint Eastwood"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:David Mills",
+    "Name": "David Mills",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:William Somerset",
+    "Name": "William Somerset",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Tracy Mills",
+    "Name": "Tracy Mills",
+    "Categories": "Morgan Freeman; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Andy Dufresne",
+    "Name": "Andy Dufresne",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ellis Boy \"Red\" Redding",
+    "Name": "Ellis Boy \"Red\" Redding",
+    "Categories": "Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Officer John Anderton",
+    "Name": "Officer John Anderton"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Director Lamar Burgess",
+    "Name": "Director Lamar Burgess"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ann Darrow",
+    "Name": "Ann Darrow"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Carl Denham",
+    "Name": "Carl Denham"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jack Driscoll",
+    "Name": "Jack Driscoll"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:King Kong",
+    "Name": "King Kong"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lumpy the Cook",
+    "Name": "Lumpy the Cook"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ichabod Crane",
+    "Name": "Ichabod Crane",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Katrina Van Tassel",
+    "Name": "Katrina Van Tassel",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lady Van Tassel",
+    "Name": "Lady Van Tassel",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Baltus Van Tassel",
+    "Name": "Baltus Van Tassel",
+    "Categories": "Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ethan Hunt",
+    "Name": "Ethan Hunt",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Owen Davian",
+    "Name": "Owen Davian",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Benji Dunn",
+    "Name": "Benji Dunn",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Luther Stickell",
+    "Name": "Luther Stickell",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jim Phelps",
+    "Name": "Jim Phelps",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Claire",
+    "Name": "Claire"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kittridge",
+    "Name": "Kittridge",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sean Ambrose",
+    "Name": "Sean Ambrose",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nyah Hall",
+    "Name": "Nyah Hall",
+    "Categories": "Mission Impossible"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Earl Partridge",
+    "Name": "Earl Partridge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Linda Partridge",
+    "Name": "Linda Partridge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank \"T.J.\" Mackey",
+    "Name": "Frank \"T.J.\" Mackey"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Phil Parma",
+    "Name": "Phil Parma"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:David Aames",
+    "Name": "David Aames"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Sofia Serrano",
+    "Name": "Sofia Serrano"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Julie Gianni",
+    "Name": "Julie Gianni"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Tugg Speedman",
+    "Name": "Tugg Speedman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jeff Portnoy",
+    "Name": "Jeff Portnoy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Kirk Lazarus",
+    "Name": "Kirk Lazarus"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Four Leaf Tayback",
+    "Name": "Four Leaf Tayback"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Balthazar Blake",
+    "Name": "Balthazar Blake"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Dave Stutler",
+    "Name": "Dave Stutler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Maxim Horvath",
+    "Name": "Maxim Horvath"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Colonel Jonathan \"Jack\" O'Neil",
+    "Name": "Colonel Jonathan \"Jack\" O'Neil"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Daniel Jackson",
+    "Name": "Dr. Daniel Jackson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Stuntman Mike",
+    "Name": "Stuntman Mike",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Bride",
+    "Name": "The Bride",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:O-Ren Ishii",
+    "Name": "O-Ren Ishii",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Vernita Green",
+    "Name": "Vernita Green",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Elle Driver",
+    "Name": "Elle Driver",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Sophie Fatale",
+    "Name": "Sophie Fatale",
+    "Categories": "Quentin Tarantino; Kill Bill"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bill",
+    "Name": "Bill",
+    "Categories": "Musical; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Vincent Vega",
+    "Name": "Vincent Vega",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Jules Winnfield",
+    "Name": "Jules Winnfield",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 1,
+    "Id": "C:Mia Wallace",
+    "Name": "Mia Wallace",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Butch Coolidge",
+    "Name": "Butch Coolidge",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Pumpkin/Ringo",
+    "Name": "Pumpkin/Ringo",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Honey Bunny",
+    "Name": "Honey Bunny",
+    "Categories": "Quentin Tarantino; Bruce Willis; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. White/Larry",
+    "Name": "Mr. White/Larry",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Orange/Freddy",
+    "Name": "Mr. Orange/Freddy",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Blonde/Vic Vega",
+    "Name": "Mr. Blonde/Vic Vega",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Pink",
+    "Name": "Mr. Pink",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Brown",
+    "Name": "Mr. Brown",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Mickey Haller",
+    "Name": "Mickey Haller"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Derek Zoolander",
+    "Name": "Derek Zoolander"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Royal Tenenbaum",
+    "Name": "Royal Tenenbaum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Chazz Michael Michaels",
+    "Name": "Chazz Michael Michaels"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mark Zuckerberg",
+    "Name": "Mark Zuckerberg",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sean Parker",
+    "Name": "Sean Parker",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John Forbes Nash Jr.",
+    "Name": "John Forbes Nash Jr.",
+    "Categories": "Russell Crowe; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Will Hunting",
+    "Name": "Will Hunting"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Hannibal Lecter",
+    "Name": "Dr. Hannibal Lecter",
+    "Categories": "Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Elvis Presley",
+    "Name": "Elvis Presley",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jerry Lee Lewis",
+    "Name": "Jerry Lee Lewis",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lestat",
+    "Name": "Lestat"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Michael Oher",
+    "Name": "Michael Oher"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:William Shakespeare",
+    "Name": "William Shakespeare",
+    "Categories": "Best Picture; Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Idi Amin",
+    "Name": "Idi Amin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Snow White",
+    "Name": "Snow White"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Huntsman",
+    "Name": "The Huntsman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Agent J",
+    "Name": "Agent J",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Agent K",
+    "Name": "Agent K",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Agent O",
+    "Name": "Agent O",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Zed",
+    "Name": "Zed",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Serleena",
+    "Name": "Serleena",
+    "Categories": "Men in Black"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Tony Stark/Iron Man",
+    "Name": "Tony Stark/Iron Man",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Steve Rogers/Captain America",
+    "Name": "Steve Rogers/Captain America",
+    "Categories": "The Avengers; Comics; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bruce Banner/The Hulk",
+    "Name": "Bruce Banner/The Hulk",
+    "Categories": "The Avengers; Comics; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Thor",
+    "Name": "Thor",
+    "Categories": "Comics; The Avengers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Natasha Romanoff/Black Widow",
+    "Name": "Natasha Romanoff/Black Widow",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Clint Barton/Hawkeye",
+    "Name": "Clint Barton/Hawkeye",
+    "Categories": "The Avengers; Comics; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nick Fury",
+    "Name": "Nick Fury",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Virginia \"Pepper\" Potts",
+    "Name": "Virginia \"Pepper\" Potts",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lt. Col. James 'Rhodey' Rhodes",
+    "Name": "Lt. Col. James 'Rhodey' Rhodes",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Katniss Everdeen",
+    "Name": "Katniss Everdeen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Peeta Mellark",
+    "Name": "Peeta Mellark"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gale Hawthorne",
+    "Name": "Gale Hawthorne"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Haymitch Abernathy",
+    "Name": "Haymitch Abernathy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Effie Trinket",
+    "Name": "Effie Trinket"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Cato",
+    "Name": "Cato"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bane",
+    "Name": "Bane",
+    "Categories": "Batman; Comics; Morgan Freeman"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Lizard/Dr. Curt Connors",
+    "Name": "The Lizard/Dr. Curt Connors",
+    "Categories": "Spider-Man; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Sherlock Holmes",
+    "Name": "Sherlock Holmes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. John Watson",
+    "Name": "Dr. John Watson"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Professor James Moriarty",
+    "Name": "Professor James Moriarty"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Judge Dredd",
+    "Name": "Judge Dredd"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Franky Four Fingers",
+    "Name": "Franky Four Fingers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mindy Macready/Hit Girl",
+    "Name": "Mindy Macready/Hit Girl",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Benjamin Button",
+    "Name": "Benjamin Button",
+    "Categories": "Romance"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dave Lizewski/Kick-Ass",
+    "Name": "Dave Lizewski/Kick-Ass",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Damon Macready/Big Daddy",
+    "Name": "Damon Macready/Big Daddy",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Chris D'Amico/Red Mist/The Motherf%&*^r",
+    "Name": "Chris D'Amico/Red Mist/The Motherf%&*^r",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank D'Amico",
+    "Name": "Frank D'Amico",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Alex Wheatley",
+    "Name": "Alex Wheatley"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Hansel",
+    "Name": "Hansel"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gretel",
+    "Name": "Gretel"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Django",
+    "Name": "Django",
+    "Categories": "Quentin Tarantino"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:James Bond",
+    "Name": "James Bond",
+    "Categories": "James Bond"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Thorin Oakenshield",
+    "Name": "Thorin Oakenshield",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Balin",
+    "Name": "Balin",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dwalin",
+    "Name": "Dwalin",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bifur",
+    "Name": "Bifur",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bofur",
+    "Name": "Bofur",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Fili",
+    "Name": "Fili",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kili",
+    "Name": "Kili",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Oin",
+    "Name": "Oin",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gloin",
+    "Name": "Gloin",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Nori",
+    "Name": "Nori",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dori",
+    "Name": "Dori"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ori",
+    "Name": "Ori",
+    "Categories": "Middle Earth"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Agent Phil Coulson",
+    "Name": "Agent Phil Coulson",
+    "Categories": "The Avengers; Comics; Best Picture"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Dude",
+    "Name": "The Dude"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:The Bulletproof Monk",
+    "Name": "The Bulletproof Monk"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Austin Powers",
+    "Name": "Austin Powers",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dr. Evil",
+    "Name": "Dr. Evil",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Fat Bastard",
+    "Name": "Fat Bastard",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Felicity Shagwell",
+    "Name": "Felicity Shagwell",
+    "Categories": "Austin Powers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ray Charles",
+    "Name": "Ray Charles",
+    "Categories": "Musical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:General Zod",
+    "Name": "General Zod",
+    "Categories": "Superman; Russell Crowe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bill 'Bootstrap' Turner",
+    "Name": "Bill 'Bootstrap' Turner",
+    "Categories": "Pirates of the Caribbean; Johnny Depp"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 2,
+    "Id": "C:Pepper Potts",
+    "Name": "Pepper Potts",
+    "Categories": "Iron Man; The Avengers; Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Donnie Darko",
+    "Name": "Donnie Darko"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ronald Reagan",
+    "Name": "Ronald Reagan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Richard Nixon",
+    "Name": "Richard Nixon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John F. Kennedy",
+    "Name": "John F. Kennedy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Colonel Stars and Stripes",
+    "Name": "Colonel Stars and Stripes",
+    "Categories": "Kick-Ass"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Steve Jobs",
+    "Name": "Steve Jobs"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Carrie Bradshaw",
+    "Name": "Carrie Bradshaw"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Samantha Jones",
+    "Name": "Samantha Jones"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Miranda Hobbes",
+    "Name": "Miranda Hobbes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Charlotte York",
+    "Name": "Charlotte York"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Mr. Big",
+    "Name": "Mr. Big"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Oz",
+    "Name": "Oz"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:M",
+    "Name": "M",
+    "Categories": "James Bond"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Q",
+    "Name": "Q",
+    "Categories": "James Bond"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:R",
+    "Name": "R"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 3,
+    "Id": "C:Billy Beane",
+    "Name": "Billy Beane"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 3,
+    "Id": "C:Paul Crewe",
+    "Name": "Paul Crewe",
+    "Categories": "Adam Sandler"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Dade Murphy/Crash Override/Zero Cool",
+    "Name": "Dade Murphy/Crash Override/Zero Cool"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Kate/Acid Burn",
+    "Name": "Kate/Acid Burn"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Frank Castle/The Punisher",
+    "Name": "Frank Castle/The Punisher",
+    "Categories": "Comics"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 3,
+    "Id": "C:Loki",
+    "Name": "Loki",
+    "Categories": "Comics; The Avengers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Level": 3,
+    "Id": "C:Dr. Erik Selvig",
+    "Name": "Dr. Erik Selvig",
+    "Categories": "Comics; The Avengers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:President Snow",
+    "Name": "President Snow"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Gollum",
+    "Name": "Gollum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bombur",
+    "Name": "Bombur"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lindir",
+    "Name": "Lindir"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ron Burgundy",
+    "Name": "Ron Burgundy"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Walt Disney",
+    "Name": "Walt Disney"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Jack Ryan",
+    "Name": "Jack Ryan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:John Reid/The Lone Ranger",
+    "Name": "John Reid/The Lone Ranger"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Guinevere",
+    "Name": "Guinevere"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Lancelot",
+    "Name": "Lancelot"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Merlin",
+    "Name": "Merlin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Edward Scissorhands",
+    "Name": "Edward Scissorhands"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Max Dillon/Electro",
+    "Name": "Max Dillon/Electro"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Bucky Barnes/Winter Soldier",
+    "Name": "Bucky Barnes/Winter Soldier"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Alex J. Murphy/Robocop",
+    "Name": "Alex J. Murphy/Robocop"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Walter Mitty",
+    "Name": "Walter Mitty"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Hercules",
+    "Name": "Hercules"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Movies.Character, Quizes.Portable",
+    "Id": "C:Ted",
+    "Name": "Ted"
+  }
+]

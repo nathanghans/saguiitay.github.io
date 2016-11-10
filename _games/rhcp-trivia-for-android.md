@@ -37,3 +37,7 @@ RHCP Trivia is a unique trivia game based on a random questions generator engine
 ## Screenshots
 
 {% include gallery %}
+
+## Data
+
+You can see the data used for the game [here](/rhcp-data/)

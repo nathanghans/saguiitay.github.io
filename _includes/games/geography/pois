@@ -1,0 +1,500 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Great Pyramid",
+    "Name": "Great Pyramid"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Hanging Gardens",
+    "Name": "Hanging Gardens"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Statue of Zeus",
+    "Name": "Statue of Zeus"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Temple of Artemis",
+    "Name": "Temple of Artemis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Mausoleum",
+    "Name": "Mausoleum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Colossus",
+    "Name": "Colossus"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Lighthouse",
+    "Name": "Lighthouse"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Great Wall",
+    "Name": "Great Wall"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Taj Mahal",
+    "Name": "Taj Mahal"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Stonehenge",
+    "Name": "Stonehenge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Machu Picchu",
+    "Name": "Machu Picchu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Banaue Rice Terraces",
+    "Name": "Banaue Rice Terraces"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Terracotta Army",
+    "Name": "Terracotta Army"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Brooklyn Bridge",
+    "Name": "Brooklyn Bridge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Amber Room",
+    "Name": "Amber Room"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Sigiriya",
+    "Name": "Sigiriya"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Statue of Liberty",
+    "Name": "Statue of Liberty"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Angkor Wat",
+    "Name": "Angkor Wat"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Moai Statues",
+    "Name": "Moai Statues"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Empire State Building",
+    "Name": "Empire State Building"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Palm Islands",
+    "Name": "Palm Islands"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Opera House",
+    "Name": "Opera House"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Bahá'í Terraces",
+    "Name": "Bahá'í Terraces"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Grand Canyon",
+    "Name": "Grand Canyon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Milford Sound",
+    "Name": "Milford Sound"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Tower of Pisa",
+    "Name": "Tower of Pisa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Petra",
+    "Name": "Petra"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Chichen Itza",
+    "Name": "Chichen Itza"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Great Barrier Reef",
+    "Name": "Great Barrier Reef"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Hoover Dam",
+    "Name": "Hoover Dam"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Dead Sea",
+    "Name": "Dead Sea"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Christ the Redeemer",
+    "Name": "Christ the Redeemer"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Acropolis",
+    "Name": "Acropolis"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Alhambra",
+    "Name": "Alhambra"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Eiffel Tower",
+    "Name": "Eiffel Tower"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Red Square",
+    "Name": "Red Square"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Mud Volcanoes",
+    "Name": "Mud Volcanoes"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Angel Falls",
+    "Name": "Angel Falls"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Niagara Falls",
+    "Name": "Niagara Falls"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Tugela Falls",
+    "Name": "Tugela Falls"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Sea of Galilee",
+    "Name": "Sea of Galilee"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Loch Ness",
+    "Name": "Loch Ness"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Mount Fuji",
+    "Name": "Mount Fuji"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Mount Kilimanjaro",
+    "Name": "Mount Kilimanjaro"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 1,
+    "Id": "P:Basilica of Our Lady of Peace",
+    "Name": "Basilica of Our Lady of Peace"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Luxor Temple",
+    "Name": "Luxor Temple"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Forbidden City",
+    "Name": "Forbidden City"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Lotus Temple",
+    "Name": "Lotus Temple"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Western Wall",
+    "Name": "Western Wall"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Dome of the Rock",
+    "Name": "Dome of the Rock"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Masjid al-Haram",
+    "Name": "Masjid al-Haram"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Arc de Triomphe",
+    "Name": "Arc de Triomphe"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Champs-Élysées",
+    "Name": "Champs-Élysées"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Louvre Museum",
+    "Name": "Louvre Museum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Colosseum",
+    "Name": "Colosseum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Trevi Fountain",
+    "Name": "Trevi Fountain"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Pantheon",
+    "Name": "Pantheon"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:St. Peter's Basilica",
+    "Name": "St. Peter's Basilica"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Golden Gate Bridge",
+    "Name": "Golden Gate Bridge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Tiananmen Square",
+    "Name": "Tiananmen Square"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 1,
+    "Id": "P:Petronas Towers",
+    "Name": "Petronas Towers"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Alcatraz Island",
+    "Name": "Alcatraz Island"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Rialto Bridge",
+    "Name": "Rialto Bridge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Stanley Park",
+    "Name": "Stanley Park"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Gateway Arch",
+    "Name": "Gateway Arch"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Millau Viaduct",
+    "Name": "Millau Viaduct"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Burj Khalifa",
+    "Name": "Burj Khalifa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Masada",
+    "Name": "Masada"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 1,
+    "Id": "P:Pashupatinath Temple",
+    "Name": "Pashupatinath Temple"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Wrigley Field",
+    "Name": "Wrigley Field"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Dandenong Ranges",
+    "Name": "Dandenong Ranges"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Sedlec Ossuary",
+    "Name": "Sedlec Ossuary"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Pura Tanah Lot",
+    "Name": "Pura Tanah Lot"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Tsingy de Bemaraha",
+    "Name": "Tsingy de Bemaraha"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Khan Shatyr",
+    "Name": "Khan Shatyr"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Chal Nakhjir",
+    "Name": "Chal Nakhjir"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Ngorongoro Crater",
+    "Name": "Ngorongoro Crater"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "Teotihuacán Pyramids",
+    "Name": "Teotihuacán Pyramids"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Borobudur Temple",
+    "Name": "Borobudur Temple"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Sistine Chapel",
+    "Name": "Sistine Chapel"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Temple of the Emerald Buddha",
+    "Name": "Temple of the Emerald Buddha"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 2,
+    "Id": "P:Meenakshi Temple",
+    "Name": "Meenakshi Temple"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.POI",
+    "Level": 0,
+    "Id": "P:Notre Dame Cathedral",
+    "Name": "Notre Dame Cathedral"
+  }
+]

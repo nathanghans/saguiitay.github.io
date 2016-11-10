@@ -1,0 +1,407 @@
+﻿[
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Baht",
+    "Name": "Baht"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Bolívar",
+    "Name": "Bolívar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Boliviano",
+    "Name": "Boliviano"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Colón",
+    "Name": "Colón"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dinar",
+    "Name": "Dinar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dirham",
+    "Name": "Dirham"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dollar",
+    "Name": "Dollar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dram",
+    "Name": "Dram"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Escudo",
+    "Name": "Escudo"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Euro",
+    "Name": "Euro"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Florin",
+    "Name": "Florin"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Forint",
+    "Name": "Forint"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Franc",
+    "Name": "Franc"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Koruna",
+    "Name": "Koruna"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Krona",
+    "Name": "Krona"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Krone",
+    "Name": "Krone"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kuna",
+    "Name": "Kuna"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kwanza",
+    "Name": "Kwanza"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lev",
+    "Name": "Lev"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lira",
+    "Name": "Lira"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Litas",
+    "Name": "Litas"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Manat",
+    "Name": "Manat"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Mark",
+    "Name": "Mark"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Ngultrum",
+    "Name": "Ngultrum"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Peso",
+    "Name": "Peso"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Pound",
+    "Name": "Pound"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Pula",
+    "Name": "Pula"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Rand",
+    "Name": "Rand"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Real",
+    "Name": "Real"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Rial",
+    "Name": "Rial"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Ringgit",
+    "Name": "Ringgit"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Ruble",
+    "Name": "Ruble"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Rupee",
+    "Name": "Rupee"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Taka",
+    "Name": "Taka"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Won",
+    "Name": "Won"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Yen",
+    "Name": "Yen"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Zloty",
+    "Name": "Zloty"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Afghani",
+    "Name": "Afghani"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Yuan",
+    "Name": "Yuan"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Nakfa",
+    "Name": "Nakfa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Birr",
+    "Name": "Birr"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dalasi",
+    "Name": "Dalasi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lari",
+    "Name": "Lari"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Cedi",
+    "Name": "Cedi"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Quetzal",
+    "Name": "Quetzal"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Gourde",
+    "Name": "Gourde"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lempira",
+    "Name": "Lempira"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Rupiah",
+    "Name": "Rupiah"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Shekel",
+    "Name": "Shekel"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Tenge",
+    "Name": "Tenge"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Shilling",
+    "Name": "Shilling"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Som",
+    "Name": "Som"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kip",
+    "Name": "Kip"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lats",
+    "Name": "Lats"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Loti",
+    "Name": "Loti"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Pataca",
+    "Name": "Pataca"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Denar",
+    "Name": "Denar"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Ariary",
+    "Name": "Ariary"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kwacha",
+    "Name": "Kwacha"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Rufiyaa",
+    "Name": "Rufiyaa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Ouguiya",
+    "Name": "Ouguiya"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Leu",
+    "Name": "Leu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Tögrög",
+    "Name": "Tögrög"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Metical",
+    "Name": "Metical"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kyat",
+    "Name": "Kyat"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Córdoba",
+    "Name": "Córdoba"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Naira",
+    "Name": "Naira"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Balboa",
+    "Name": "Balboa"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Kina",
+    "Name": "Kina"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Guaraní",
+    "Name": "Guaraní"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Sol",
+    "Name": "Sol"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Riyal",
+    "Name": "Riyal"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Tālā",
+    "Name": "Tālā"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dobra",
+    "Name": "Dobra"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Leone",
+    "Name": "Leone"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Lilangeni",
+    "Name": "Lilangeni"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Somoni",
+    "Name": "Somoni"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Paʻanga",
+    "Name": "Paʻanga"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Hryvnia",
+    "Name": "Hryvnia"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Vatu",
+    "Name": "Vatu"
+  },
+  {
+    "$type": "TriviaServer.Models.Model.Geo.Currency",
+    "Id": "Cu:Dồng",
+    "Name": "Dồng"
+  }
+]
