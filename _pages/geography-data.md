@@ -36,7 +36,7 @@ author_profile: true
 		
 		function addCollection(collection, title) {
 			var element = document.getElementById("data-div");
-			var html += "<h2>" + title + "</h2>";
+			var html = "<h2>" + title + "</h2>";
 			html += "<ul>";
 			for (i = 0; i < collection.length; i++) { 
 				html += "<li>" + collection[i].Name + "</li>";
