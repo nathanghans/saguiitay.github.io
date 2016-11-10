@@ -29,11 +29,12 @@ author_profile: true
 		
 		function addCollection(collection, title) {
 			var element = document.getElementById("data-div");
-			element.innerHTML += "<h2>" + title + "</h2>";
-			element.innerHTML += "<ul>";
+			var html += "<h2>" + title + "</h2>";
+			html += "<ul>";
 			for (i = 0; i < collection.length; i++) { 
-				element.innerHTML += "<li>" + collection[i].Name + "</li>";
+				html += "<li>" + collection[i].Name + "</li>";
 			}
-			element.innerHTML += "</ul>";
+			html += "</ul>";
+			element.innerHTML += html
 		}
 </script>
