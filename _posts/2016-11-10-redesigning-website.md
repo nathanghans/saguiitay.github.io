@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Redesigning website"
 date: 2016-11-10 15:58
-author: saguiitay
-comments: true
-share: true
 ---
 
 It's been a while since I last updated this website. With my latest efforts in games development, I decided that it's time to refresh the design of this website.
