@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Games"
-permalink: /games/
+layout: single
+title: "The Beatles Data"
+permalink: /the-beatles-data/
 author_profile: true
 ---
 
