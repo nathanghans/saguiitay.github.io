@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Woring on a TV shows trivia game"
 date: 2016-11-27 22:56
 author: saguiitay
