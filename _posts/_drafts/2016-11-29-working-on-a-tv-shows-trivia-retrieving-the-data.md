@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Woring on a TV shows trivia game - retrieving the data"
 date: 2016-11-29 22:56
 author: saguiitay
