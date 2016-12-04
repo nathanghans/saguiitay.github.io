@@ -6,7 +6,7 @@ categories: [Development]
 tags: [.Net]
 ---
 
-In our (previous post)[] we discussed about representing TV shows data as a graph using objects and their relations.
+In our [previous post](http://www.saguiitay.com/2016/11/27/working-on-a-tv-shows-trivia-game/) we discussed about representing TV shows data as a graph using objects and their relations.
 
 In this post, we'll see how to gather the information needed for our game.
 
