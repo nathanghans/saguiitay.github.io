@@ -9,6 +9,8 @@ tags: [Chrome]
 A while back, I've released a Chrome Extension to "improve" the user experience when visiting [LinkedIn](http://www.linkedin.com). The extension is called
 [UpLinkedIn](https://chrome.google.com/webstore/detail/uplinkedin/likehbbfhonhloconhofaglphpfpomhp?hl=en-US), and you can download it from the Chrome Web store.
 
+![](/images/uplinkedin-options.png)
+
 The extension provides several capabilities:
 
 ## Profile page changes
