@@ -1,5 +1,5 @@
 ---
-title: "Woring on a TV shows trivia game - alternative data source"
+title: "Working on a TV shows trivia game - alternative data source"
 date: 2016-12-09 17:00
 author: saguiitay
 categories: [Development]
