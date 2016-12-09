@@ -16,7 +16,7 @@ my other games, is that making the questions too hard is a gameplay killer - you
 So I decided to look at an alternative data source - [TheMovieDb](http://www.themoviedb.org) has a [very nice API](https://www.themoviedb.org)
 with some [C# libraries](https://www.themoviedb.org/documentation/api/wrappers-libraries) ready to use.
 
-![The Movie DB](../../images/the-movie-database.png)
+![The Movie DB](/images/the-movie-database.png)
 
 We'll use the Top Rated and Popular endpoints to get the most interesting shows. Each show will be leveled by the page where it appeared - shows that appear in the first page
 will be marked as the easiest. We'll also rely on the page to level the actors, characters and images - actors and characters will have the level of the show 
