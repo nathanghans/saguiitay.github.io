@@ -4,7 +4,7 @@ excerpt: "You play a pixel. As simple as that. Jump for as long, and as far as y
 header:
   teaser: pixel-run\android\Icon.png
 sidebar:
-  - title: RHCP Trivia for Android
+  - title: Pixel Run for Android
     image: pixel-run\android\Icon.png
     image_alt: RHCP Trivia for Android
     text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.pixelrun){: .btn .btn--large .btn--success}"
