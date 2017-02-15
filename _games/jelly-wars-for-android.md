@@ -6,7 +6,7 @@ header:
 sidebar:
   - title: Jelly Wars for Android
     image: jelly-wars\android\Icon.png
-    image_alt: RHCP Trivia for Android
+    image_alt: Jelly Wars for Android
     text: "[Download](https://play.google.com/store/apps/details?id=com.saguiitay.jellywars){: .btn .btn--large .btn--success}"
     text: "[![Google Play](/images/google_play_en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.saguiitay.jellywars)"
 gallery:
